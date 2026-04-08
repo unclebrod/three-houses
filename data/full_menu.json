@@ -1,0 +1,645 @@
+[
+    {
+        "name": "Saghert and Cream",
+        "ingredients": [
+            {
+                "name": "Peach Currant",
+                "quantity": 1
+            },
+            {
+                "name": "Noa Fruit",
+                "quantity": 1
+            }
+        ],
+        "category": "Sweets",
+        "effect": null
+    },
+    {
+        "name": "Sweet Bun Trio",
+        "ingredients": [
+            {
+                "name": "Albinean Berries",
+                "quantity": 1
+            },
+            {
+                "name": "Noa Fruit",
+                "quantity": 1
+            }
+        ],
+        "category": "Sweets",
+        "effect": null
+    },
+    {
+        "name": "Pheasant Roast with Berry Sauce",
+        "ingredients": [
+            {
+                "name": "Poultry",
+                "quantity": 1
+            },
+            {
+                "name": "Albinean Berries",
+                "quantity": 1
+            }
+        ],
+        "category": "Sweets",
+        "effect": null
+    },
+    {
+        "name": "Peach Sorbet",
+        "ingredients": [
+            {
+                "name": "Peach Currant",
+                "quantity": 1
+            },
+            {
+                "name": "Chickpeas",
+                "quantity": 1
+            }
+        ],
+        "category": "Sweets",
+        "effect": null
+    },
+    {
+        "name": "Beast Meat Teppanyaki",
+        "ingredients": [
+            {
+                "name": "Wild Game",
+                "quantity": 1
+            },
+            {
+                "name": "Noa Fruit",
+                "quantity": 1
+            }
+        ],
+        "category": "Meat",
+        "effect": null
+    },
+    {
+        "name": "Pickled Rabbit Skewers",
+        "ingredients": [
+            {
+                "name": "Wild Game",
+                "quantity": 1
+            },
+            {
+                "name": "Carrot",
+                "quantity": 1
+            }
+        ],
+        "category": "Meat",
+        "effect": null
+    },
+    {
+        "name": "Daphnel Stew",
+        "ingredients": [
+            {
+                "name": "Poultry",
+                "quantity": 1
+            },
+            {
+                "name": "Onion",
+                "quantity": 1
+            }
+        ],
+        "category": "Meat",
+        "effect": null
+    },
+    {
+        "name": "Gronder Meat Skewers",
+        "ingredients": [
+            {
+                "name": "Wild Game",
+                "quantity": 1
+            },
+            {
+                "name": "Onion",
+                "quantity": 1
+            }
+        ],
+        "category": "Meat",
+        "effect": null
+    },
+    {
+        "name": "Derdriu-Style Fried Pheasant",
+        "ingredients": [
+            {
+                "name": "Poultry",
+                "quantity": 1
+            },
+            {
+                "name": "Carrot",
+                "quantity": 1
+            }
+        ],
+        "category": "Meat",
+        "effect": null
+    },
+    {
+        "name": "Vegetable Pasta Salad",
+        "ingredients": [
+            {
+                "name": "Cabbage",
+                "quantity": 1
+            },
+            {
+                "name": "Onion",
+                "quantity": 1
+            },
+            {
+                "name": "Carrot",
+                "quantity": 1
+            }
+        ],
+        "category": "Vegetables",
+        "effect": null
+    },
+    {
+        "name": "Onion Gratin Soup",
+        "ingredients": [
+            {
+                "name": "White Trout",
+                "quantity": 1
+            },
+            {
+                "name": "Onion",
+                "quantity": 1
+            }
+        ],
+        "category": "Vegetables",
+        "effect": null
+    },
+    {
+        "name": "Country-Style Red Turnip Plate",
+        "ingredients": [
+            {
+                "name": "Verona",
+                "quantity": 1
+            },
+            {
+                "name": "Turnip",
+                "quantity": 1
+            }
+        ],
+        "category": "Vegetables",
+        "effect": null
+    },
+    {
+        "name": "Vegetable Stir-Fry",
+        "ingredients": [
+            {
+                "name": "Tomato",
+                "quantity": 1
+            },
+            {
+                "name": "Chickpeas",
+                "quantity": 1
+            },
+            {
+                "name": "Cabbage",
+                "quantity": 1
+            }
+        ],
+        "category": "Vegetables",
+        "effect": null
+    },
+    {
+        "name": "Grilled Herring",
+        "ingredients": [
+            {
+                "name": "Albinean Herring",
+                "quantity": 1
+            },
+            {
+                "name": "Turnip",
+                "quantity": 1
+            }
+        ],
+        "category": "Fish",
+        "effect": null
+    },
+    {
+        "name": "Fish and Bean Soup",
+        "ingredients": [
+            {
+                "name": "White Trout",
+                "quantity": 1
+            },
+            {
+                "name": "Chickpeas",
+                "quantity": 1
+            }
+        ],
+        "category": "Fish",
+        "effect": null
+    },
+    {
+        "name": "Fruit and Herring Tart",
+        "ingredients": [
+            {
+                "name": "Albinean Herring",
+                "quantity": 1
+            },
+            {
+                "name": "Noa Fruit",
+                "quantity": 1
+            }
+        ],
+        "category": "Fish",
+        "effect": null
+    },
+    {
+        "name": "Fisherman\u2019s Bounty",
+        "ingredients": [
+            {
+                "name": "White Trout",
+                "quantity": 1
+            },
+            {
+                "name": "Teutates Loach",
+                "quantity": 1
+            }
+        ],
+        "category": "Fish",
+        "effect": null
+    },
+    {
+        "name": "Fish Sandwich",
+        "ingredients": [
+            {
+                "name": "Airmid Pike",
+                "quantity": 1
+            },
+            {
+                "name": "Cabbage",
+                "quantity": 1
+            }
+        ],
+        "category": "Fish",
+        "effect": null
+    },
+    {
+        "name": "Two-Fish Saute",
+        "ingredients": [
+            {
+                "name": "Caledonian Gar",
+                "quantity": 1
+            },
+            {
+                "name": "Albinean Herring",
+                "quantity": 1
+            }
+        ],
+        "category": "Fish",
+        "effect": null
+    },
+    {
+        "name": "Bourgeois Pike",
+        "ingredients": [
+            {
+                "name": "Airmid Pike",
+                "quantity": 1
+            },
+            {
+                "name": "Carrot",
+                "quantity": 1
+            }
+        ],
+        "category": "Fish",
+        "effect": null
+    },
+    {
+        "name": "Sauteed Jerky",
+        "ingredients": [
+            {
+                "name": "Poultry",
+                "quantity": 1
+            },
+            {
+                "name": "Chickpeas",
+                "quantity": 1
+            }
+        ],
+        "category": "Spicy",
+        "effect": null
+    },
+    {
+        "name": "Spicy Fish and Turnip Stew",
+        "ingredients": [
+            {
+                "name": "Teutates Loach",
+                "quantity": 1
+            },
+            {
+                "name": "Turnip",
+                "quantity": 1
+            }
+        ],
+        "category": "Spicy",
+        "effect": null
+    },
+    {
+        "name": "Sweet and Salty Whitefish Saute",
+        "ingredients": [
+            {
+                "name": "Teutates Loach",
+                "quantity": 1
+            },
+            {
+                "name": "Tomato",
+                "quantity": 1
+            }
+        ],
+        "category": "Spicy",
+        "effect": null
+    },
+    {
+        "name": "Super-Spicy Fish Dango",
+        "ingredients": [
+            {
+                "name": "White Trout",
+                "quantity": 1
+            },
+            {
+                "name": "Tomato",
+                "quantity": 1
+            }
+        ],
+        "category": "Spicy",
+        "effect": null
+    },
+    {
+        "name": "Sauteed Pheasant and Eggs",
+        "ingredients": [
+            {
+                "name": "Poultry",
+                "quantity": 1
+            },
+            {
+                "name": "Cabbage",
+                "quantity": 1
+            }
+        ],
+        "category": "Spicy",
+        "effect": null
+    },
+    {
+        "name": "Garreg Mach Meat Pie",
+        "ingredients": [
+            {
+                "name": "Wild Game",
+                "quantity": 1
+            },
+            {
+                "name": "Tomato",
+                "quantity": 1
+            }
+        ],
+        "category": "Bitter",
+        "effect": null
+    },
+    {
+        "name": "Cheesy Verona Stew",
+        "ingredients": [
+            {
+                "name": "Teutates Loach",
+                "quantity": 1
+            },
+            {
+                "name": "Verona",
+                "quantity": 1
+            }
+        ],
+        "category": "Bitter",
+        "effect": null
+    },
+    {
+        "name": "Pickled Seafood and Vegetables",
+        "ingredients": [
+            {
+                "name": "Caledonian Gar",
+                "quantity": 1
+            },
+            {
+                "name": "Turnip",
+                "quantity": 1
+            }
+        ],
+        "category": "Bitter",
+        "effect": null
+    },
+    {
+        "name": "Gautier Cheese Gratin",
+        "ingredients": [
+            {
+                "name": "Poultry",
+                "quantity": 1
+            },
+            {
+                "name": "Noa Fruit",
+                "quantity": 1
+            }
+        ],
+        "category": "Bitter",
+        "effect": null
+    },
+    {
+        "name": "Cabbage and Herring Stew",
+        "ingredients": [
+            {
+                "name": "Albinean Herring",
+                "quantity": 1
+            },
+            {
+                "name": "Cabbage",
+                "quantity": 1
+            }
+        ],
+        "category": "Bitter",
+        "effect": null
+    },
+    {
+        "name": "Small Fish Skewers",
+        "ingredients": [
+            {
+                "name": "Airmid Goby",
+                "quantity": 3
+            }
+        ],
+        "category": null,
+        "effect": null
+    },
+    {
+        "name": "Fried Crayfish",
+        "ingredients": [
+            {
+                "name": "Caledonian Crayfish",
+                "quantity": 3
+            }
+        ],
+        "category": null,
+        "effect": null
+    },
+    {
+        "name": "King of Beasts Steak",
+        "ingredients": [
+            {
+                "name": "Duscur Bear",
+                "quantity": 1
+            }
+        ],
+        "category": null,
+        "effect": "HP +3"
+    },
+    {
+        "name": "Invincible Grill",
+        "ingredients": [
+            {
+                "name": "Oghma Wolverine",
+                "quantity": 1
+            }
+        ],
+        "category": null,
+        "effect": "Str +1"
+    },
+    {
+        "name": "Hero Salad",
+        "ingredients": [
+            {
+                "name": "Angelica",
+                "quantity": 1
+            }
+        ],
+        "category": null,
+        "effect": "Mag +1"
+    },
+    {
+        "name": "Queen Fish Saute",
+        "ingredients": [
+            {
+                "name": "Queen Loach",
+                "quantity": 1
+            }
+        ],
+        "category": null,
+        "effect": "Dex +2"
+    },
+    {
+        "name": "Swift Fish Gratin",
+        "ingredients": [
+            {
+                "name": "Bullhead",
+                "quantity": 1
+            }
+        ],
+        "category": null,
+        "effect": "Spd +1"
+    },
+    {
+        "name": "Blessed Jelly",
+        "ingredients": [
+            {
+                "name": "Morfis Plum",
+                "quantity": 1
+            }
+        ],
+        "category": null,
+        "effect": "Lck +2"
+    },
+    {
+        "name": "Immortality Stew",
+        "ingredients": [
+            {
+                "name": "Teutates Pike",
+                "quantity": 1
+            }
+        ],
+        "category": null,
+        "effect": "Def +1"
+    },
+    {
+        "name": "Nirvana Cake",
+        "ingredients": [
+            {
+                "name": "Boa Fruit",
+                "quantity": 1
+            }
+        ],
+        "category": null,
+        "effect": "Res +1"
+    },
+    {
+        "name": "Charming Soup",
+        "ingredients": [
+            {
+                "name": "Nordslat",
+                "quantity": 1
+            }
+        ],
+        "category": null,
+        "effect": "Cha +2"
+    },
+    {
+        "name": "Sacred Beast Roast",
+        "ingredients": [
+            {
+                "name": "Albinean Moose",
+                "quantity": 1
+            },
+            {
+                "name": "Magdred Kirsch",
+                "quantity": 1
+            }
+        ],
+        "category": null,
+        "effect": "HP, Str +1"
+    },
+    {
+        "name": "Deified Fish",
+        "ingredients": [
+            {
+                "name": "Goddess Messenger",
+                "quantity": 1
+            },
+            {
+                "name": "Magdred Kirsch",
+                "quantity": 1
+            }
+        ],
+        "category": null,
+        "effect": "Dex, Spd, Def +1"
+    },
+    {
+        "name": "Treasured Fruit Nectar",
+        "ingredients": [
+            {
+                "name": "Zanado Treasure Fruit",
+                "quantity": 1
+            },
+            {
+                "name": "Magdred Kirsch",
+                "quantity": 1
+            }
+        ],
+        "category": null,
+        "effect": "Mag, Res +1"
+    },
+    {
+        "name": "The Best of Fodlan",
+        "ingredients": [
+            {
+                "name": "Albinean Moose",
+                "quantity": 1
+            },
+            {
+                "name": "Goddess Messenger",
+                "quantity": 1
+            },
+            {
+                "name": "Zanado Treasure Fruit",
+                "quantity": 1
+            }
+        ],
+        "category": null,
+        "effect": "All stats +1"
+    }
+]

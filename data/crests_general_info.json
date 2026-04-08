@@ -1,0 +1,220 @@
+[
+    {
+        "name": "Ernest",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_01.png",
+        "description": "A Crest long lost to history. Occasionally stops enemy counterattacks when using a weapon.",
+        "major_bearers": [
+            "Anna"
+        ],
+        "minor_bearers": []
+    },
+    {
+        "name": "Macuil",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_02.png",
+        "description": "Legend has it that Saint Macuil bore this Crest. A symbol of magic and mastery of the wind. Occasionally raises Mt during magic attacks.",
+        "major_bearers": [
+            "The Wind Caller"
+        ],
+        "minor_bearers": []
+    },
+    {
+        "name": "Seiros",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_03.png",
+        "description": "Legend has it that Saint Seiros bore this Crest and passed it down through House Hresvelg. Occasionally raises Mt when using combat arts.",
+        "major_bearers": [
+            "Rhea",
+            "Jeralt"
+        ],
+        "minor_bearers": [
+            "Edelgard"
+        ]
+    },
+    {
+        "name": "Dominic",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_04.png",
+        "description": "House Dominic\u2019s Crest, inherited from Dominic of the 10 Elites. Occasionally conserves uses of attack magic.",
+        "major_bearers": [],
+        "minor_bearers": [
+            "Annette"
+        ]
+    },
+    {
+        "name": "Fraldarius",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_05.png",
+        "description": "House Fraldarius\u2019s Crest, inherited from Fraldarius of the 10 Elites. Sometimes raises Mt when using a weapon.",
+        "major_bearers": [
+            "Felix"
+        ],
+        "minor_bearers": [
+            "Rodrigue"
+        ]
+    },
+    {
+        "name": "Noa",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_06.png",
+        "description": "A Crest long lost to history. Occasionally does not consume a use during magic attacks.",
+        "major_bearers": [
+            "Constance"
+        ],
+        "minor_bearers": []
+    },
+    {
+        "name": "Cethleann",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_07.png",
+        "description": "Legend has it that Saint Cethleann bore this Crest. A symbol of kindness and mastery of light. Sometimes raises Mt when using recovery magic.",
+        "major_bearers": [
+            "Flayn"
+        ],
+        "minor_bearers": [
+            "Linhardt"
+        ]
+    },
+    {
+        "name": "Daphnel",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_08.png",
+        "description": "House Daphnel and House Galatea\u2019s Crest, inherited from Daphnel of the 10 Elites. Sometimes raises Mt when using combat arts.",
+        "major_bearers": [],
+        "minor_bearers": [
+            "Ingrid"
+        ]
+    },
+    {
+        "name": "Blaiddyd",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_09.png",
+        "description": "The Faerghus royal family\u2019s Crest, inherited from Blaiddyd of the 10 Elites. Occasionally doubles Atk and weapon uses for combat arts.",
+        "major_bearers": [],
+        "minor_bearers": [
+            "Dimitri"
+        ]
+    },
+    {
+        "name": "Gloucester",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_10.png",
+        "description": "House Gloucester\u2019s Crest, inherited from Gloucester of the 10 Elites. Occasionally raises Mt during magic attacks.",
+        "major_bearers": [
+            "Lysithea"
+        ],
+        "minor_bearers": [
+            "Lorenz"
+        ]
+    },
+    {
+        "name": "Goneril",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_11.png",
+        "description": "House Goneril\u2019s Crest, inherited from Goneril of the 10 Elites. Sometimes allows combat arts to prevent enemy counterattacks.",
+        "major_bearers": [],
+        "minor_bearers": [
+            "Hilda"
+        ]
+    },
+    {
+        "name": "Cichol",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_12.png",
+        "description": "Legend has it that Saint Cichol bore this Crest. A symbol of strength and the land. Sometimes lets combat arts prevent enemy counterattacks.",
+        "major_bearers": [
+            "Seteth"
+        ],
+        "minor_bearers": [
+            "Ferdinand"
+        ]
+    },
+    {
+        "name": "Aubin",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_13.png",
+        "description": "It might be some kind of Crest, though it\u2019s unclear which one\u2026(Spoiler)A Crest long lost to history. Occasionally prevents enemy counterattacks when using a weapon.",
+        "major_bearers": [
+            "Yuri"
+        ],
+        "minor_bearers": []
+    },
+    {
+        "name": "Gautier",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_14.png",
+        "description": "House Gautier\u2019s Crest, inherited from Gautier of the 10 Elites. Occasionally raises Mt when using combat arts.",
+        "major_bearers": [],
+        "minor_bearers": [
+            "Sylvain"
+        ]
+    },
+    {
+        "name": "Indech",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_15.png",
+        "description": "Legend has it that Saint Indech bore this Crest. A symbol of wisdom and water. Occasionally allows weapon attacks to strike twice.",
+        "major_bearers": [
+            "The Immovable"
+        ],
+        "minor_bearers": [
+            "Bernadetta",
+            "Hanneman"
+        ]
+    },
+    {
+        "name": "The Beast",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_16.png",
+        "description": "It might be some kind of Crest, though it\u2019s unclear which one\u2026(Spoiler)The Crest of a Hero whose identity was lost to history. Promises contempt for those who bear it. Sometimes raises Mt when using a weapon.",
+        "major_bearers": [
+            "Wandering Beast"
+        ],
+        "minor_bearers": [
+            "Marianne"
+        ]
+    },
+    {
+        "name": "Charon",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_17.png",
+        "description": "House Charon\u2019s Crest, inherited from Charon of the 10 Elites. Occasionally raises Mt when using combat arts.",
+        "major_bearers": [
+            "Catherine"
+        ],
+        "minor_bearers": [
+            "Lysithea"
+        ]
+    },
+    {
+        "name": "Timotheos",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_18.png",
+        "description": "It might be some kind of Crest, though it\u2019s unclear which one\u2026(Spoiler)A Crest long lost to history. Occasionally does not consume a use for recovery magic.",
+        "major_bearers": [
+            "Hapi"
+        ],
+        "minor_bearers": []
+    },
+    {
+        "name": "Riegan",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_19.png",
+        "description": "A Crest inherited from Riegan of the 10 Elites. Sometimes restores HP equal to 30% of damage dealt when using combat arts.",
+        "major_bearers": [],
+        "minor_bearers": [
+            "Claude"
+        ]
+    },
+    {
+        "name": "Chevalier",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_20.png",
+        "description": "It might be some kind of Crest, though it\u2019s unclear which one\u2026(Spoiler)A Crest long lost to history. Sometimes restores HP equal to 30% of damage dealt when using Combat Arts.",
+        "major_bearers": [
+            "Balthus"
+        ],
+        "minor_bearers": []
+    },
+    {
+        "name": "Lamine",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_21.png",
+        "description": "A Crest inherited from Lamine of the 10 Elites. Occasionally conserves uses of recovery magic.",
+        "major_bearers": [],
+        "minor_bearers": [
+            "Mercedes",
+            "Jeritza"
+        ]
+    },
+    {
+        "name": "Flames",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_23.png",
+        "description": "It might be some kind of Crest, though it\u2019s unclear which one\u2026(Spoiler)The Crest of the goddess who governs the world. Occasionally restores HP equal to 30% of damage dealt. Rarely raises Mt and stops counterattacks.",
+        "major_bearers": [
+            "Protagonist",
+            "Edelgard"
+        ],
+        "minor_bearers": []
+    }
+]

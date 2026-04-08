@@ -1,0 +1,396 @@
+[
+    {
+        "name": "Protagonist",
+        "house": "You",
+        "starting_class": "Commoner",
+        "beginner_class": null,
+        "intermediate_class": null,
+        "crests": [
+            "Major Flames"
+        ]
+    },
+    {
+        "name": "Edelgard",
+        "house": "Black Eagles",
+        "starting_class": "Noble",
+        "beginner_class": null,
+        "intermediate_class": null,
+        "crests": [
+            "Minor Seiros",
+            "Major Flames"
+        ]
+    },
+    {
+        "name": "Hubert",
+        "house": "Black Eagles",
+        "starting_class": "Noble",
+        "beginner_class": "Monk",
+        "intermediate_class": "Mage",
+        "crests": null
+    },
+    {
+        "name": "Dorothea",
+        "house": "Black Eagles",
+        "starting_class": "Commoner",
+        "beginner_class": "Monk",
+        "intermediate_class": "Mage",
+        "crests": null
+    },
+    {
+        "name": "Ferdinand",
+        "house": "Black Eagles",
+        "starting_class": "Noble",
+        "beginner_class": "Soldier",
+        "intermediate_class": "Cavalier",
+        "crests": [
+            "Minor Cichol"
+        ]
+    },
+    {
+        "name": "Bernadetta",
+        "house": "Black Eagles",
+        "starting_class": "Noble",
+        "beginner_class": "Fighter",
+        "intermediate_class": "Archer",
+        "crests": [
+            "Minor Indech"
+        ]
+    },
+    {
+        "name": "Caspar",
+        "house": "Black Eagles",
+        "starting_class": "Noble",
+        "beginner_class": "Fighter",
+        "intermediate_class": "Brigand",
+        "crests": null
+    },
+    {
+        "name": "Petra",
+        "house": "Black Eagles",
+        "starting_class": "Commoner",
+        "beginner_class": "Myrmidon",
+        "intermediate_class": "Thief",
+        "crests": null
+    },
+    {
+        "name": "Linhardt",
+        "house": "Black Eagles",
+        "starting_class": "Noble",
+        "beginner_class": "Monk",
+        "intermediate_class": "Priest",
+        "crests": [
+            "Minor Cethleann"
+        ]
+    },
+    {
+        "name": "Dimitri",
+        "house": "Blue Lions",
+        "starting_class": "Noble",
+        "beginner_class": null,
+        "intermediate_class": null,
+        "crests": [
+            "Minor Blaiddyd"
+        ]
+    },
+    {
+        "name": "Dedue",
+        "house": "Blue Lions",
+        "starting_class": "Commoner",
+        "beginner_class": "Fighter",
+        "intermediate_class": "Armored Knight",
+        "crests": null
+    },
+    {
+        "name": "Felix",
+        "house": "Blue Lions",
+        "starting_class": "Noble",
+        "beginner_class": "Myrmidon",
+        "intermediate_class": "Mercenary",
+        "crests": [
+            "Major Fraldarius"
+        ]
+    },
+    {
+        "name": "Mercedes",
+        "house": "Blue Lions",
+        "starting_class": "Commoner",
+        "beginner_class": "Monk",
+        "intermediate_class": "Priest",
+        "crests": [
+            "Minor Lamine"
+        ]
+    },
+    {
+        "name": "Ashe",
+        "house": "Blue Lions",
+        "starting_class": "Commoner",
+        "beginner_class": "Fighter",
+        "intermediate_class": "Archer",
+        "crests": null
+    },
+    {
+        "name": "Annette",
+        "house": "Blue Lions",
+        "starting_class": "Noble",
+        "beginner_class": "Monk",
+        "intermediate_class": "Mage",
+        "crests": [
+            "Minor Dominic"
+        ]
+    },
+    {
+        "name": "Sylvain",
+        "house": "Blue Lions",
+        "starting_class": "Noble",
+        "beginner_class": "Soldier",
+        "intermediate_class": "Cavalier",
+        "crests": [
+            "Minor Gautier"
+        ]
+    },
+    {
+        "name": "Ingrid",
+        "house": "Blue Lions",
+        "starting_class": "Noble",
+        "beginner_class": "Soldier",
+        "intermediate_class": "Pegasus Knight",
+        "crests": [
+            "Minor Daphnel"
+        ]
+    },
+    {
+        "name": "Claude",
+        "house": "Golden Deer",
+        "starting_class": "Noble",
+        "beginner_class": null,
+        "intermediate_class": null,
+        "crests": [
+            "Minor Riegan"
+        ]
+    },
+    {
+        "name": "Lorenz",
+        "house": "Golden Deer",
+        "starting_class": "Noble",
+        "beginner_class": "Soldier",
+        "intermediate_class": "Cavalier",
+        "crests": [
+            "Minor Gloucester"
+        ]
+    },
+    {
+        "name": "Hilda",
+        "house": "Golden Deer",
+        "starting_class": "Noble",
+        "beginner_class": "Fighter",
+        "intermediate_class": "Brigand",
+        "crests": [
+            "Minor Goneril"
+        ]
+    },
+    {
+        "name": "Raphael",
+        "house": "Golden Deer",
+        "starting_class": "Commoner",
+        "beginner_class": "Fighter",
+        "intermediate_class": "Brawler",
+        "crests": null
+    },
+    {
+        "name": "Lysithea",
+        "house": "Golden Deer",
+        "starting_class": "Noble",
+        "beginner_class": "Monk",
+        "intermediate_class": "Mage",
+        "crests": [
+            "Minor Charon",
+            "Major Gloucester"
+        ]
+    },
+    {
+        "name": "Ignatz",
+        "house": "Golden Deer",
+        "starting_class": "Commoner",
+        "beginner_class": "Fighter",
+        "intermediate_class": "Archer",
+        "crests": null
+    },
+    {
+        "name": "Marianne",
+        "house": "Golden Deer",
+        "starting_class": "Noble",
+        "beginner_class": "Monk",
+        "intermediate_class": "Priest",
+        "crests": [
+            "Minor Beast"
+        ]
+    },
+    {
+        "name": "Leonie",
+        "house": "Golden Deer",
+        "starting_class": "Commoner",
+        "beginner_class": "Soldier",
+        "intermediate_class": "Cavalier",
+        "crests": null
+    },
+    {
+        "name": "Rhea",
+        "house": "Church of Seiros",
+        "starting_class": "Archbishop",
+        "beginner_class": null,
+        "intermediate_class": null,
+        "crests": [
+            "Major Seiros"
+        ]
+    },
+    {
+        "name": "Manuela",
+        "house": "Church of Seiros",
+        "starting_class": "Priest",
+        "beginner_class": null,
+        "intermediate_class": null,
+        "crests": null
+    },
+    {
+        "name": "Hanneman",
+        "house": "Church of Seiros",
+        "starting_class": "Mage",
+        "beginner_class": null,
+        "intermediate_class": null,
+        "crests": [
+            "Minor Indech"
+        ]
+    },
+    {
+        "name": "Seteth",
+        "house": "Church of Seiros",
+        "starting_class": "Wyvern Rider",
+        "beginner_class": null,
+        "intermediate_class": null,
+        "crests": [
+            "Major Cichol"
+        ]
+    },
+    {
+        "name": "Flayn",
+        "house": "Church of Seiros",
+        "starting_class": "Priest",
+        "beginner_class": null,
+        "intermediate_class": null,
+        "crests": [
+            "Major Cethleann"
+        ]
+    },
+    {
+        "name": "Cyril",
+        "house": "Church of Seiros",
+        "starting_class": "Commoner",
+        "beginner_class": null,
+        "intermediate_class": "\u2014",
+        "crests": null
+    },
+    {
+        "name": "Jeralt",
+        "house": "Knights of Seiros",
+        "starting_class": "Paladin",
+        "beginner_class": null,
+        "intermediate_class": null,
+        "crests": [
+            "Major Seiros"
+        ]
+    },
+    {
+        "name": "Catherine",
+        "house": "Knights of Seiros",
+        "starting_class": "Swordmaster",
+        "beginner_class": null,
+        "intermediate_class": null,
+        "crests": [
+            "Major Charon"
+        ]
+    },
+    {
+        "name": "Alois",
+        "house": "Knights of Seiros",
+        "starting_class": "Warrior",
+        "beginner_class": null,
+        "intermediate_class": null,
+        "crests": null
+    },
+    {
+        "name": "Gilbert",
+        "house": "Knights of Seiros",
+        "starting_class": "Fortress Knight",
+        "beginner_class": null,
+        "intermediate_class": null,
+        "crests": null
+    },
+    {
+        "name": "Shamir",
+        "house": "Knights of Seiros",
+        "starting_class": "Sniper",
+        "beginner_class": null,
+        "intermediate_class": null,
+        "crests": null
+    },
+    {
+        "name": "Yuri",
+        "house": "DLC-exclusive",
+        "starting_class": "Commoner",
+        "beginner_class": "Myrmidon",
+        "intermediate_class": "Thief",
+        "crests": [
+            "Major Aubin"
+        ]
+    },
+    {
+        "name": "Balthus",
+        "house": "DLC-exclusive",
+        "starting_class": "Noble",
+        "beginner_class": "Fighter",
+        "intermediate_class": "Brawler",
+        "crests": [
+            "Major Chevalier"
+        ]
+    },
+    {
+        "name": "Constance",
+        "house": "DLC-exclusive",
+        "starting_class": "Noble",
+        "beginner_class": "Monk",
+        "intermediate_class": "Mage",
+        "crests": [
+            "Major Noa"
+        ]
+    },
+    {
+        "name": "Hapi",
+        "house": "DLC-exclusive",
+        "starting_class": "Commoner",
+        "beginner_class": "Monk",
+        "intermediate_class": "Mage",
+        "crests": [
+            "Major Timotheos"
+        ]
+    },
+    {
+        "name": "Jeritza",
+        "house": "DLC-exclusive",
+        "starting_class": "Death Knight",
+        "beginner_class": null,
+        "intermediate_class": null,
+        "crests": [
+            "Minor Lamine"
+        ]
+    },
+    {
+        "name": "Anna",
+        "house": "DLC-exclusive",
+        "starting_class": "Commoner",
+        "beginner_class": "Myrmidon",
+        "intermediate_class": "Thief",
+        "crests": [
+            "Major Ernest"
+        ]
+    }
+]

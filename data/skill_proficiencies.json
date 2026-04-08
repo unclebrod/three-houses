@@ -1,0 +1,3488 @@
+[
+    {
+        "name": "Protagonist",
+        "house": "You",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Edelgard",
+        "house": "Black Eagles",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Hubert",
+        "house": "Black Eagles",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Dorothea",
+        "house": "Black Eagles",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": true
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Ferdinand",
+        "house": "Black Eagles",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Bernadetta",
+        "house": "Black Eagles",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Caspar",
+        "house": "Black Eagles",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Linhardt",
+        "house": "Black Eagles",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Petra",
+        "house": "Black Eagles",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Dimitri",
+        "house": "Blue Lions",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Dedue",
+        "house": "Blue Lions",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Felix",
+        "house": "Blue Lions",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": true
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Mercedes",
+        "house": "Blue Lions",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Ashe",
+        "house": "Blue Lions",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Annette",
+        "house": "Blue Lions",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Sylvain",
+        "house": "Blue Lions",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Ingrid",
+        "house": "Blue Lions",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Claude",
+        "house": "Golden Deer",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Lorenz",
+        "house": "Golden Deer",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Hilda",
+        "house": "Golden Deer",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Raphael",
+        "house": "Golden Deer",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Lysithea",
+        "house": "Golden Deer",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": true
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Ignatz",
+        "house": "Golden Deer",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Marianne",
+        "house": "Golden Deer",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Leonie",
+        "house": "Golden Deer",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Rhea",
+        "house": "Church of Seiros",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Manuela",
+        "house": "Church of Seiros",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Hanneman",
+        "house": "Church of Seiros",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Seteth",
+        "house": "Church of Seiros",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Flayn",
+        "house": "Church of Seiros",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Cyril",
+        "house": "Church of Seiros",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Jeralt",
+        "house": "Knights of Seiros",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Catherine",
+        "house": "Knights of Seiros",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Alois",
+        "house": "Knights of Seiros",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Gilbert",
+        "house": "Knights of Seiros",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Shamir",
+        "house": "Knights of Seiros",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Yuri",
+        "house": "DLC Exclusive",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Balthus",
+        "house": "DLC Exclusive",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Constance",
+        "house": "DLC Exclusive",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Hapi",
+        "house": "DLC Exclusive",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    },
+    {
+        "name": "Jeritza",
+        "house": "DLC Exclusive",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            }
+        ]
+    },
+    {
+        "name": "Anna",
+        "house": "DLC Exclusive",
+        "proficiencies": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "boon": true,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "boon": false,
+                "bane": true,
+                "budding_talent": false
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": true
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "boon": false,
+                "bane": false,
+                "budding_talent": false
+            }
+        ]
+    }
+]

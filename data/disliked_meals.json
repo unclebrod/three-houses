@@ -1,0 +1,432 @@
+[
+    {
+        "name": "Saghert and Cream",
+        "characters": [
+            "Claude",
+            "Hubert",
+            "Petra",
+            "Felix",
+            "Leonie",
+            "Seteth",
+            "Manuela",
+            "Gilbert",
+            "Catherine",
+            "Shamir"
+        ]
+    },
+    {
+        "name": "Sweet Bun Trio",
+        "characters": [
+            "Claude",
+            "Hubert",
+            "Petra",
+            "Felix",
+            "Leonie",
+            "Manuela",
+            "Shamir"
+        ]
+    },
+    {
+        "name": "Pheasant Roast with Berry Sauce",
+        "characters": [
+            "Hubert",
+            "Petra",
+            "Hanneman",
+            "Catherine"
+        ]
+    },
+    {
+        "name": "Peach Sorbet",
+        "characters": [
+            "Dimitri",
+            "Hubert",
+            "Petra",
+            "Felix",
+            "Leonie",
+            "Seteth",
+            "Manuela",
+            "Gilbert",
+            "Catherine",
+            "Balthus"
+        ]
+    },
+    {
+        "name": "Beast Meat Teppanyaki",
+        "characters": [
+            "Edelgard",
+            "Hubert",
+            "Linhardt",
+            "Bernadetta",
+            "Sylvain",
+            "Mercedes",
+            "Annette",
+            "Lorenz",
+            "Marianne",
+            "Hanneman",
+            "Jeritza"
+        ]
+    },
+    {
+        "name": "Pickled Rabbit Skewers",
+        "characters": [
+            "Edelgard",
+            "Hubert",
+            "Linhardt",
+            "Bernadetta",
+            "Mercedes",
+            "Annette",
+            "Lorenz",
+            "Marianne",
+            "Hanneman",
+            "Constance",
+            "Jeritza"
+        ]
+    },
+    {
+        "name": "Daphnel Stew",
+        "characters": [
+            "Hubert",
+            "Mercedes",
+            "Anna"
+        ]
+    },
+    {
+        "name": "Gronder Meat Skewers",
+        "characters": [
+            "Edelgard",
+            "Hubert",
+            "Linhardt",
+            "Bernadetta",
+            "Mercedes",
+            "Lorenz",
+            "Marianne",
+            "Hanneman"
+        ]
+    },
+    {
+        "name": "Derdriu-Style Fried Pheasant",
+        "characters": [
+            "Hubert",
+            "Petra",
+            "Ashe",
+            "Shamir"
+        ]
+    },
+    {
+        "name": "Vegetable Pasta Salad",
+        "characters": [
+            "Hubert",
+            "Felix",
+            "Raphael",
+            "Lysithea",
+            "Balthus",
+            "Jeritza"
+        ]
+    },
+    {
+        "name": "Onion Gratin Soup",
+        "characters": [
+            "Caspar",
+            "Petra",
+            "Lysithea",
+            "Manuela",
+            "Shamir",
+            "Cyril",
+            "Constance"
+        ]
+    },
+    {
+        "name": "Country-Style Red Turnip Plate",
+        "characters": [
+            "Felix",
+            "Lysithea",
+            "Manuela",
+            "Balthus",
+            "Anna"
+        ]
+    },
+    {
+        "name": "Vegetable Stir-Fry",
+        "characters": [
+            "Linhardt",
+            "Felix",
+            "Raphael",
+            "Lysithea",
+            "Flayn",
+            "Hanneman",
+            "Alois",
+            "Balthus",
+            "Jeritza",
+            "Anna"
+        ]
+    },
+    {
+        "name": "Grilled Herring",
+        "characters": [
+            "Hubert",
+            "Linhardt",
+            "Caspar",
+            "Dorothea",
+            "Lysithea",
+            "Shamir",
+            "Anna"
+        ]
+    },
+    {
+        "name": "Fish and Bean Soup",
+        "characters": [
+            "Hubert",
+            "Caspar",
+            "Dorothea",
+            "Petra",
+            "Felix",
+            "Lysithea"
+        ]
+    },
+    {
+        "name": "Fruit and Herring Tart",
+        "characters": [
+            "Caspar",
+            "Dorothea",
+            "Lysithea",
+            "Shamir",
+            "Hapi",
+            "Anna"
+        ]
+    },
+    {
+        "name": "Fisherman\u2019s Bounty",
+        "characters": [
+            "Hubert",
+            "Linhardt",
+            "Dorothea",
+            "Sylvain",
+            "Lorenz",
+            "Hanneman"
+        ]
+    },
+    {
+        "name": "Fish Sandwich",
+        "characters": [
+            "Caspar",
+            "Bernadetta",
+            "Dorothea",
+            "Mercedes",
+            "Lysithea",
+            "Hanneman",
+            "Balthus",
+            "Jeritza",
+            "Anna"
+        ]
+    },
+    {
+        "name": "Two-Fish Saute",
+        "characters": [
+            "Caspar",
+            "Petra",
+            "Shamir",
+            "Hapi"
+        ]
+    },
+    {
+        "name": "Bourgeois Pike",
+        "characters": [
+            "Caspar",
+            "Lysithea",
+            "Shamir",
+            "Yuri",
+            "Hapi"
+        ]
+    },
+    {
+        "name": "Sauteed Jerky",
+        "characters": [
+            "Linhardt",
+            "Bernadetta",
+            "Mercedes",
+            "Lysithea",
+            "Flayn",
+            "Alois",
+            "Constance",
+            "Jeritza"
+        ]
+    },
+    {
+        "name": "Spicy Fish and Turnip Stew",
+        "characters": [
+            "Linhardt",
+            "Caspar",
+            "Bernadetta",
+            "Dorothea",
+            "Mercedes",
+            "Lorenz",
+            "Ignatz",
+            "Lysithea",
+            "Hanneman",
+            "Alois",
+            "Yuri",
+            "Constance",
+            "Jeritza"
+        ]
+    },
+    {
+        "name": "Sweet and Salty Whitefish Saute",
+        "characters": [
+            "Linhardt",
+            "Caspar",
+            "Bernadetta",
+            "Dorothea",
+            "Petra",
+            "Mercedes",
+            "Lorenz",
+            "Lysithea",
+            "Hanneman",
+            "Jeritza"
+        ]
+    },
+    {
+        "name": "Super-Spicy Fish Dango",
+        "characters": [
+            "Caspar",
+            "Bernadetta",
+            "Mercedes",
+            "Lysithea",
+            "Flayn",
+            "Alois",
+            "Yuri",
+            "Jeritza"
+        ]
+    },
+    {
+        "name": "Sauteed Pheasant and Eggs",
+        "characters": [
+            "Linhardt",
+            "Bernadetta",
+            "Mercedes",
+            "Lorenz",
+            "Lysithea",
+            "Flayn",
+            "Alois",
+            "Yuri",
+            "Jeritza"
+        ]
+    },
+    {
+        "name": "Garreg Mach Meat Pie",
+        "characters": [
+            "Edelgard",
+            "Ferdinand",
+            "Petra",
+            "Dedue",
+            "Mercedes",
+            "Lysithea",
+            "Hilda",
+            "Flayn",
+            "Shamir"
+        ]
+    },
+    {
+        "name": "Cheesy Verona Stew",
+        "characters": [
+            "Ferdinand",
+            "Caspar",
+            "Ashe",
+            "Lysithea",
+            "Manuela",
+            "Shamir",
+            "Cyril",
+            "Constance"
+        ]
+    },
+    {
+        "name": "Pickled Seafood and Vegetables",
+        "characters": [
+            "Ferdinand",
+            "Caspar",
+            "Ingrid",
+            "Ignatz",
+            "Lysithea",
+            "Hilda",
+            "Manuela",
+            "Cyril",
+            "Balthus"
+        ]
+    },
+    {
+        "name": "Gautier Cheese Gratin",
+        "characters": [
+            "Edelgard",
+            "Ferdinand",
+            "Caspar",
+            "Petra",
+            "Dedue",
+            "Ashe",
+            "Mercedes",
+            "Annette",
+            "Ignatz",
+            "Marianne",
+            "Flayn",
+            "Manuela",
+            "Shamir",
+            "Yuri",
+            "Constance",
+            "Anna"
+        ]
+    },
+    {
+        "name": "Cabbage and Herring Stew",
+        "characters": [
+            "Ferdinand",
+            "Caspar",
+            "Ingrid",
+            "Lysithea",
+            "Hilda",
+            "Cyril",
+            "Constance"
+        ]
+    },
+    {
+        "name": "Small Fish Skewers",
+        "characters": [
+            "Hubert",
+            "Linhardt",
+            "Caspar",
+            "Dorothea",
+            "Petra",
+            "Felix",
+            "Sylvain",
+            "Ingrid",
+            "Lorenz",
+            "Lysithea",
+            "Leonie",
+            "Hanneman",
+            "Manuela",
+            "Catherine",
+            "Shamir",
+            "Cyril"
+        ]
+    },
+    {
+        "name": "Fried Crayfish",
+        "characters": [
+            "Claude",
+            "Hubert",
+            "Linhardt",
+            "Caspar",
+            "Dorothea",
+            "Petra",
+            "Felix",
+            "Ashe",
+            "Sylvain",
+            "Raphael",
+            "Lysithea",
+            "Seteth",
+            "Manuela",
+            "Gilbert",
+            "Catherine",
+            "Shamir",
+            "Cyril",
+            "Balthus"
+        ]
+    }
+]

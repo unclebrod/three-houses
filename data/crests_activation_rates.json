@@ -1,0 +1,178 @@
+[
+    {
+        "name": "Ernest",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_01.png",
+        "effect": "Prevents enemy counterattacks when using a weapon.",
+        "major_activation_rate": 20,
+        "minor_activation_rate": 10,
+        "item_activation_rate": 5
+    },
+    {
+        "name": "Macuil",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_02.png",
+        "effect": "Raises Might by 5 during magic attacks.",
+        "major_activation_rate": 20,
+        "minor_activation_rate": 10,
+        "item_activation_rate": 5
+    },
+    {
+        "name": "Seiros",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_03.png",
+        "effect": "Raises Might by 5 when using combat arts.",
+        "major_activation_rate": 70,
+        "minor_activation_rate": 40,
+        "item_activation_rate": 20
+    },
+    {
+        "name": "Dominic",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_04.png",
+        "effect": "Conserves uses of attack magic.",
+        "major_activation_rate": 20,
+        "minor_activation_rate": 10,
+        "item_activation_rate": 5
+    },
+    {
+        "name": "Fraldarius",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_05.png",
+        "effect": "Raises Might by 5 when using a weapon.",
+        "major_activation_rate": 40,
+        "minor_activation_rate": 20,
+        "item_activation_rate": 10
+    },
+    {
+        "name": "Noa",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_06.png",
+        "effect": "Conserves uses of attack magic.",
+        "major_activation_rate": 20,
+        "minor_activation_rate": 10,
+        "item_activation_rate": 5
+    },
+    {
+        "name": "Cethleann",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_07.png",
+        "effect": "Raises Might by 5 when using recovery magic.",
+        "major_activation_rate": 50,
+        "minor_activation_rate": 30,
+        "item_activation_rate": 15
+    },
+    {
+        "name": "Daphnel",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_08.png",
+        "effect": "Raises Might by 5 when using combat arts.",
+        "major_activation_rate": 70,
+        "minor_activation_rate": 40,
+        "item_activation_rate": 20
+    },
+    {
+        "name": "Blaiddyd",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_09.png",
+        "effect": "Doubles Attack and weapon uses for combat arts.",
+        "major_activation_rate": 20,
+        "minor_activation_rate": 10,
+        "item_activation_rate": 5
+    },
+    {
+        "name": "Gloucester",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_10.png",
+        "effect": "Raises Might by 5 during magic attacks.",
+        "major_activation_rate": 20,
+        "minor_activation_rate": 10,
+        "item_activation_rate": 5
+    },
+    {
+        "name": "Goneril",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_11.png",
+        "effect": "Prevents enemy counterattacks when using combat arts.",
+        "major_activation_rate": 50,
+        "minor_activation_rate": 30,
+        "item_activation_rate": 15
+    },
+    {
+        "name": "Cichol",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_12.png",
+        "effect": "Prevents enemy counterattacks when using combat arts.",
+        "major_activation_rate": 50,
+        "minor_activation_rate": 30,
+        "item_activation_rate": 15
+    },
+    {
+        "name": "Aubin",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_13.png",
+        "effect": "Prevents enemy counterattacks when using a weapon.",
+        "major_activation_rate": 20,
+        "minor_activation_rate": 10,
+        "item_activation_rate": 5
+    },
+    {
+        "name": "Gautier",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_14.png",
+        "effect": "Raises Might by 5 when using combat arts.",
+        "major_activation_rate": 70,
+        "minor_activation_rate": 40,
+        "item_activation_rate": 20
+    },
+    {
+        "name": "Indech",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_15.png",
+        "effect": "Strike twice when using a weapon.",
+        "major_activation_rate": 20,
+        "minor_activation_rate": 10,
+        "item_activation_rate": 5
+    },
+    {
+        "name": "The Beast",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_16.png",
+        "effect": "Raises Might by 5 when using a weapon.",
+        "major_activation_rate": 40,
+        "minor_activation_rate": 20,
+        "item_activation_rate": 10
+    },
+    {
+        "name": "Charon",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_17.png",
+        "effect": "Raises Might when using combat arts.",
+        "major_activation_rate": 70,
+        "minor_activation_rate": 40,
+        "item_activation_rate": 20
+    },
+    {
+        "name": "Timotheos",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_18.png",
+        "effect": "Conserves uses of recovery magic.",
+        "major_activation_rate": 20,
+        "minor_activation_rate": 10,
+        "item_activation_rate": 5
+    },
+    {
+        "name": "Riegan",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_19.png",
+        "effect": "Restores HP equal to 30% of damage dealt when using combat arts.",
+        "major_activation_rate": 50,
+        "minor_activation_rate": 30,
+        "item_activation_rate": 15
+    },
+    {
+        "name": "Chevalier",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_20.png",
+        "effect": "Restores HP equal to 30% of damage dealt when using combat arts.",
+        "major_activation_rate": 50,
+        "minor_activation_rate": 30,
+        "item_activation_rate": 15
+    },
+    {
+        "name": "Lamine",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_21.png",
+        "effect": "Conserves uses of recovery magic.",
+        "major_activation_rate": 20,
+        "minor_activation_rate": 10,
+        "item_activation_rate": 5
+    },
+    {
+        "name": "Flames",
+        "image": "https://serenesforest.net/wp-content/uploads/2019/07/crests_23.png",
+        "effect": "Restores HP equal to 30% of damage dealt when using weapons, combat arts or attack magic. Also has a roughly 1 in 4 chance to raise Might by 5 and prevent counterattacks.",
+        "major_activation_rate": 20,
+        "minor_activation_rate": 10,
+        "item_activation_rate": 5
+    }
+]

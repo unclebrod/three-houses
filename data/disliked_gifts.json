@@ -1,0 +1,304 @@
+[
+    {
+        "name": "Edelgard",
+        "items": [
+            "Goddess Statuette",
+            "Ceremonial Sword"
+        ]
+    },
+    {
+        "name": "Dimitri",
+        "items": [
+            "Gemstone Beads",
+            "Armored Bear Stuffy",
+            "Book of Sheet Music"
+        ]
+    },
+    {
+        "name": "Claude",
+        "items": [
+            "Book of Sheet Music",
+            "Blue Cheese"
+        ]
+    },
+    {
+        "name": "Hubert",
+        "items": [
+            "Legends of Chivalry",
+            "Gemstone Beads",
+            "Landscape Painting"
+        ]
+    },
+    {
+        "name": "Ferdinand",
+        "items": [
+            "Blue Cheese",
+            "Coffee Beans"
+        ]
+    },
+    {
+        "name": "Linhardt",
+        "items": [
+            "Training Weight",
+            "Hunting Dagger"
+        ]
+    },
+    {
+        "name": "Caspar",
+        "items": [
+            "Fishing Float",
+            "Floral Adornment",
+            "Stylish Hair Clip"
+        ]
+    },
+    {
+        "name": "Bernadetta",
+        "items": [
+            "Training Weight",
+            "Hunting Dagger",
+            "Ceremonial Sword"
+        ]
+    },
+    {
+        "name": "Dorothea",
+        "items": [
+            "Goddess Statuette",
+            "Floral Adornment"
+        ]
+    },
+    {
+        "name": "Petra",
+        "items": [
+            "Arithmetic Textbook",
+            "Book of Crest Designs"
+        ]
+    },
+    {
+        "name": "Dedue",
+        "items": [
+            "Book of Sheet Music",
+            "The History of Fodlan"
+        ]
+    },
+    {
+        "name": "Felix",
+        "items": [
+            "Legends of Chivalry",
+            "Armored Bear Stuffy",
+            "Tasty Bake Treat"
+        ]
+    },
+    {
+        "name": "Ashe",
+        "items": [
+            "Arithmetic Textbook",
+            "Monarch Studies Book",
+            "Board Game"
+        ]
+    },
+    {
+        "name": "Sylvain",
+        "items": [
+            "Book of Crest Designs",
+            "Watering Can",
+            "Floral Adornment"
+        ]
+    },
+    {
+        "name": "Mercedes",
+        "items": [
+            "Whetstone",
+            "Ancient Coin",
+            "Riding Boots"
+        ]
+    },
+    {
+        "name": "Annette",
+        "items": [
+            "Ceremonial Sword",
+            "Hunting Dagger",
+            "Coffee Beans"
+        ]
+    },
+    {
+        "name": "Ingrid",
+        "items": [
+            "Gemstone Beads",
+            "Stylish Hair Clip"
+        ]
+    },
+    {
+        "name": "Lorenz",
+        "items": [
+            "Armored Bear Stuffy",
+            "Hunting Dagger",
+            "Watering Can"
+        ]
+    },
+    {
+        "name": "Raphael",
+        "items": [
+            "Arithmetic Textbook",
+            "Book of Crest Designs"
+        ]
+    },
+    {
+        "name": "Ignatz",
+        "items": [
+            "Monarch Studies Book",
+            "Training Weight"
+        ]
+    },
+    {
+        "name": "Lysithea",
+        "items": [
+            "Training Weight",
+            "Legends of Chivalry",
+            "Coffee Beans"
+        ]
+    },
+    {
+        "name": "Marianne",
+        "items": [
+            "Hunting Dagger",
+            "Smoked Meat"
+        ]
+    },
+    {
+        "name": "Hilda",
+        "items": [
+            "Training Weight",
+            "Ancient Coin",
+            "Legends of Chivalry"
+        ]
+    },
+    {
+        "name": "Leonie",
+        "items": [
+            "Stylish Hair Clip",
+            "Book of Crest Designs"
+        ]
+    },
+    {
+        "name": "Seteth",
+        "items": [
+            "Book of Crest Designs",
+            "Legends of Chivalry"
+        ]
+    },
+    {
+        "name": "Flayn",
+        "items": [
+            "Whetstone",
+            "Blue Cheese"
+        ]
+    },
+    {
+        "name": "Hanneman",
+        "items": [
+            "Blue Cheese",
+            "Exotic Spices"
+        ]
+    },
+    {
+        "name": "Manuela",
+        "items": [
+            "Board Game",
+            "Riding Boots",
+            "Smoked Meat"
+        ]
+    },
+    {
+        "name": "Gilbert",
+        "items": [
+            "Tasty Baked Treat",
+            "Dapper Handkerchief"
+        ]
+    },
+    {
+        "name": "Alois",
+        "items": [
+            "Exotic Spices",
+            "Monarch Studies Book"
+        ]
+    },
+    {
+        "name": "Catherine",
+        "items": [
+            "Gemstone Beads",
+            "Armored Bear Stuffy",
+            "Arithmetic Textbook"
+        ]
+    },
+    {
+        "name": "Shamir",
+        "items": [
+            "Monarch Studies Book",
+            "Blue Cheese",
+            "Book of Crest Designs"
+        ]
+    },
+    {
+        "name": "Cyril",
+        "items": [
+            "The History of Fodlan",
+            "Legends of Chivalry",
+            "Monarch Studies Book"
+        ]
+    },
+    {
+        "name": "Jeralt",
+        "items": []
+    },
+    {
+        "name": "Rhea",
+        "items": [
+            "Exotic Spices"
+        ]
+    },
+    {
+        "name": "Yuri",
+        "items": [
+            "Book of Sheet Music",
+            "Riding Boots"
+        ]
+    },
+    {
+        "name": "Balthus",
+        "items": [
+            "Fishing Float",
+            "Watering Can",
+            "Armored Bear Stuffy"
+        ]
+    },
+    {
+        "name": "Constance",
+        "items": [
+            "Blue Cheese",
+            "Exotic Spices"
+        ]
+    },
+    {
+        "name": "Hapi",
+        "items": [
+            "Training Weight",
+            "Monarch Studies Book",
+            "Legend of Chivalry"
+        ]
+    },
+    {
+        "name": "Jeritza",
+        "items": [
+            "Monarch Studies Book",
+            "Blue Cheese",
+            "Book of Crest Designs"
+        ]
+    },
+    {
+        "name": "Anna",
+        "items": [
+            "Fishing Float",
+            "Smoked Meat"
+        ]
+    }
+]

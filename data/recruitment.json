@@ -1,0 +1,233 @@
+[
+    {
+        "name": "Edelgard",
+        "house": "Black Eagles",
+        "class_": "Noble",
+        "from_chapter": null,
+        "recruitment": "Cannot be recruited (Leaves your party if you choose to ally with the church during Chapter 11)"
+    },
+    {
+        "name": "Hubert",
+        "house": "Black Eagles",
+        "class_": "Noble",
+        "from_chapter": null,
+        "recruitment": "Cannot be recruited (Leaves your party if you choose to ally with the church during Chapter 11)"
+    },
+    {
+        "name": "Ferdinand",
+        "house": "Black Eagles",
+        "class_": "Noble",
+        "from_chapter": 2,
+        "recruitment": "Need 10 Dexterity and C in Heavy Armour"
+    },
+    {
+        "name": "Linhardt",
+        "house": "Black Eagles",
+        "class_": "Noble",
+        "from_chapter": 2,
+        "recruitment": "Need 10 Magic and C in Reason"
+    },
+    {
+        "name": "Caspar",
+        "house": "Black Eagles",
+        "class_": "Noble",
+        "from_chapter": 2,
+        "recruitment": "Need 10 Strength and C in Brawling"
+    },
+    {
+        "name": "Bernadetta",
+        "house": "Black Eagles",
+        "class_": "Noble",
+        "from_chapter": 2,
+        "recruitment": "Need 20 Strength and C in Bow"
+    },
+    {
+        "name": "Dorothea",
+        "house": "Black Eagles",
+        "class_": "Commoner",
+        "from_chapter": 2,
+        "recruitment": "Need 25 Charm and B in Authority"
+    },
+    {
+        "name": "Petra",
+        "house": "Black Eagles",
+        "class_": "Commoner",
+        "from_chapter": 2,
+        "recruitment": "Need 10 Dexterity and C in Riding"
+    },
+    {
+        "name": "Dimitri",
+        "house": "Blue Lions",
+        "class_": "Noble",
+        "from_chapter": null,
+        "recruitment": "Cannot be recruited"
+    },
+    {
+        "name": "Dedue",
+        "house": "Blue Lions",
+        "class_": "Commoner",
+        "from_chapter": null,
+        "recruitment": "Cannot be recruited"
+    },
+    {
+        "name": "Felix",
+        "house": "Blue Lions",
+        "class_": "Noble",
+        "from_chapter": 2,
+        "recruitment": "Need 15 Speed and B+ in Sword"
+    },
+    {
+        "name": "Ashe",
+        "house": "Blue Lions",
+        "class_": "Commoner",
+        "from_chapter": 2,
+        "recruitment": "Need 15 Charm and C in Lance (Unless Edelgard or Dimitri are present, leaves your party once Part 2 begins. Can be recruited again by defeating him in Chapter 15.)"
+    },
+    {
+        "name": "Sylvain",
+        "house": "Blue Lions",
+        "class_": "Noble",
+        "from_chapter": 2,
+        "recruitment": "Need 25 Charm and C in Reason (If protagonist is female, automatically joins)"
+    },
+    {
+        "name": "Mercedes",
+        "house": "Blue Lions",
+        "class_": "Commoner",
+        "from_chapter": 2,
+        "recruitment": "Need 15 Magic and C in Bow"
+    },
+    {
+        "name": "Annette",
+        "house": "Blue Lions",
+        "class_": "Noble",
+        "from_chapter": 2,
+        "recruitment": "Need 10 Magic and B in Faith"
+    },
+    {
+        "name": "Ingrid",
+        "house": "Blue Lions",
+        "class_": "Noble",
+        "from_chapter": 2,
+        "recruitment": "Need 15 Dexterity and D in Flying"
+    },
+    {
+        "name": "Claude",
+        "house": "Golden Deer",
+        "class_": "Noble",
+        "from_chapter": null,
+        "recruitment": "Cannot be recruited"
+    },
+    {
+        "name": "Lorenz",
+        "house": "Golden Deer",
+        "class_": "Noble",
+        "from_chapter": 2,
+        "recruitment": "Need 20 Charm and C in Reason (Unless Edelgard or Claude are present, leaves your party once Part 2 begins. Can be recruited again by defeating him in Chapter 16.)"
+    },
+    {
+        "name": "Raphael",
+        "house": "Golden Deer",
+        "class_": "Commoner",
+        "from_chapter": 2,
+        "recruitment": "Need 20 Strength and C in Heavy Armour"
+    },
+    {
+        "name": "Ignatz",
+        "house": "Golden Deer",
+        "class_": "Commoner",
+        "from_chapter": 2,
+        "recruitment": "Need 10 Dexterity and B in Authority"
+    },
+    {
+        "name": "Lysithea",
+        "house": "Golden Deer",
+        "class_": "Noble",
+        "from_chapter": 2,
+        "recruitment": "Need 15 Magic and B in Faith (If Edelgard is present, can also be recruited by defeating her in Chapter 14.)"
+    },
+    {
+        "name": "Marianne",
+        "house": "Golden Deer",
+        "class_": "Noble",
+        "from_chapter": 2,
+        "recruitment": "Need 10 Magic and C in Riding"
+    },
+    {
+        "name": "Hilda",
+        "house": "Golden Deer",
+        "class_": "Noble",
+        "from_chapter": 2,
+        "recruitment": "Need 30 Charm and C in Axe (If leading the Black Eagles, cannot be recruited until Chapter 12, after allying with the church)"
+    },
+    {
+        "name": "Leonie",
+        "house": "Golden Deer",
+        "class_": "Commoner",
+        "from_chapter": 2,
+        "recruitment": "Need 15 Strength and C in Lance"
+    },
+    {
+        "name": "Seteth",
+        "house": "Church of Seiros",
+        "class_": "Wyvern Rider",
+        "from_chapter": 12,
+        "recruitment": "Joins automatically (Unavailable if you choose to oppose the church during Chapter 11)"
+    },
+    {
+        "name": "Flayn",
+        "house": "Church of Seiros",
+        "class_": "Priest",
+        "from_chapter": 7,
+        "recruitment": "Joins automatically (Leaves your party if you choose to oppose the church during Chapter 11)"
+    },
+    {
+        "name": "Hanneman",
+        "house": "Church of Seiros",
+        "class_": "Mage",
+        "from_chapter": 8,
+        "recruitment": "Need to be Level 15"
+    },
+    {
+        "name": "Manuela",
+        "house": "Church of Seiros",
+        "class_": "Priest",
+        "from_chapter": 8,
+        "recruitment": "Need to be Level 15"
+    },
+    {
+        "name": "Gilbert",
+        "house": "Church of Seiros",
+        "class_": "Fortress Knight",
+        "from_chapter": 13,
+        "recruitment": "Automatically from Turn 3 (Blue Lions only)"
+    },
+    {
+        "name": "Alois",
+        "house": "Church of Seiros",
+        "class_": "Warrior",
+        "from_chapter": 11,
+        "recruitment": "Need to be Level 15"
+    },
+    {
+        "name": "Catherine",
+        "house": "Church of Seiros",
+        "class_": "Swordmaster",
+        "from_chapter": 4,
+        "recruitment": "Need to be Level 15 (If leading the Black Eagles, cannot be recruited until Chapter 12, after allying with the church\u2013after that, she joins automatically)"
+    },
+    {
+        "name": "Shamir",
+        "house": "Church of Seiros",
+        "class_": "Sniper",
+        "from_chapter": 6,
+        "recruitment": "Need to be Level 15 (If leading the Black Eagles, automatically joins during Chapter 12 if you ally with the church during Chapter 11)"
+    },
+    {
+        "name": "Cyril",
+        "house": "Church of Seiros",
+        "class_": "Commoner",
+        "from_chapter": 5,
+        "recruitment": "Need to be Level 10 (If leading the Black Eagles, cannot be recruited until Chapter 12, after allying with the church\u2013after that, he joins automatically)"
+    }
+]

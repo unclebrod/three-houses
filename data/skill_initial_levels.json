@@ -1,0 +1,2564 @@
+[
+    {
+        "name": "Protagonist",
+        "house": "You",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "D+"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E+"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "D"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Edelgard",
+        "house": "Black Eagles",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E+"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "D"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "D"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "D"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Hubert",
+        "house": "Black Eagles",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E+"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "D"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E+"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Dorothea",
+        "house": "Black Eagles",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E+"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "D"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Ferdinand",
+        "house": "Black Eagles",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E+"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "D"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E+"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "D"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Bernadetta",
+        "house": "Black Eagles",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E+"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "D"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Caspar",
+        "house": "Black Eagles",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "D"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E+"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Linhardt",
+        "house": "Black Eagles",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E+"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "D+"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Petra",
+        "house": "Black Eagles",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "D+"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E+"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E+"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "D"
+            }
+        ]
+    },
+    {
+        "name": "Dimitri",
+        "house": "Blue Lions",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E+"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "D+"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "D"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "D+"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Dedue",
+        "house": "Blue Lions",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E+"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "D+"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E+"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "D"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Felix",
+        "house": "Blue Lions",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "D"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E+"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E+"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Mercedes",
+        "house": "Blue Lions",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E+"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "D"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Ashe",
+        "house": "Blue Lions",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E+"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "D"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Annette",
+        "house": "Blue Lions",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E+"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "D+"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E+"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Sylvain",
+        "house": "Blue Lions",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "D"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "D"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "D"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Ingrid",
+        "house": "Blue Lions",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E+"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "D"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "D"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "D"
+            }
+        ]
+    },
+    {
+        "name": "Claude",
+        "house": "Golden Deer",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E+"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "D"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "D"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E+"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E+"
+            }
+        ]
+    },
+    {
+        "name": "Lorenz",
+        "house": "Golden Deer",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "D"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E+"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "D"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Hilda",
+        "house": "Golden Deer",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E+"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "D"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Raphael",
+        "house": "Golden Deer",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E+"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "D"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "D"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Lysithea",
+        "house": "Golden Deer",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "D"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E+"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E+"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Ignatz",
+        "house": "Golden Deer",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E+"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "D"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E+"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Marianne",
+        "house": "Golden Deer",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E+"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "D+"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Leonie",
+        "house": "Golden Deer",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "D+"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E+"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E+"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Rhea",
+        "house": "Church of Seiros",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "B"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "B"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "B"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "C"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Manuela",
+        "house": "Church of Seiros",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "D"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "C"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "D"
+            }
+        ]
+    },
+    {
+        "name": "Hanneman",
+        "house": "Church of Seiros",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "D"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "C"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "D"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "D"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Seteth",
+        "house": "Church of Seiros",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "D+"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "C"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "C"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "C"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Flayn",
+        "house": "Church of Seiros",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E+"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "D+"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "D"
+            }
+        ]
+    },
+    {
+        "name": "Cyril",
+        "house": "Church of Seiros",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "D+"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "D"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Jeralt",
+        "house": "Knights of Seiros",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "C"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "B"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "C"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "B"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Catherine",
+        "house": "Knights of Seiros",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "B"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "D+"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "D"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Alois",
+        "house": "Knights of Seiros",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "C"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "D+"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "C"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "C"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Gilbert",
+        "house": "Knights of Seiros",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "C"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "C"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "D+"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "D"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "C"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Shamir",
+        "house": "Knights of Seiros",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "D+"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "B"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "D"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Yuri",
+        "house": "DLC Exclusive",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "D"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E+"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "D"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "D"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Balthus",
+        "house": "DLC Exclusive",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E+"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "D"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "D+"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E+"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Constance",
+        "house": "DLC Exclusive",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E+"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "D"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "D"
+            }
+        ]
+    },
+    {
+        "name": "Hapi",
+        "house": "DLC Exclusive",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "E+"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "D"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "D"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Jeritza",
+        "house": "DLC Exclusive",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "B"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "A"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "D+"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "B"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "B"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    },
+    {
+        "name": "Anna",
+        "house": "DLC Exclusive",
+        "initial_levels": [
+            {
+                "name": "Sword",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png",
+                "level": "D"
+            },
+            {
+                "name": "Lance",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png",
+                "level": "E"
+            },
+            {
+                "name": "Axe",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png",
+                "level": "E+"
+            },
+            {
+                "name": "Bow",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png",
+                "level": "E+"
+            },
+            {
+                "name": "Brawling",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png",
+                "level": "E"
+            },
+            {
+                "name": "Reason",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-reason.png",
+                "level": "E"
+            },
+            {
+                "name": "Faith",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-faith.png",
+                "level": "E+"
+            },
+            {
+                "name": "Authority",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png",
+                "level": "E"
+            },
+            {
+                "name": "Heavy Armour",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-heavy.png",
+                "level": "E"
+            },
+            {
+                "name": "Riding",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-riding.png",
+                "level": "E"
+            },
+            {
+                "name": "Flying",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-flying.png",
+                "level": "E"
+            }
+        ]
+    }
+]

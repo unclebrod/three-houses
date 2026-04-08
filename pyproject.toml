@@ -1,0 +1,44 @@
+[project]
+name = "three-houses"
+dynamic = ["version"]
+description = "Fire Emblem: Three Houses inspired data analysis"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cyclopts>=4.5.1",
+    "httpx>=0.28.1",
+    "pydantic>=2.12.5",
+    "rich>=14.3.2",
+    "selectolax>=0.4.6",
+]
+
+[tool.ruff.lint]
+#  https://docs.astral.sh/ruff/rules/
+select = [
+    "E",   # pycodestyle errors
+    "F",   # pyflakes
+    "UP",  # pyupgrade
+    "I",   # isort
+    "N",   # pep8-naming
+    "B",   # flake8-bugbear
+    "A",   # flake8-builtins
+    "FBT", # flake8-boolean-trap
+    "C4",  # flake8-comprehension
+    "DTZ", # flake8-datetimez
+    "RET", # flake8-return
+    "PTH", # flake8-use-pathlib
+]
+fixable = ["ALL"]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[dependency-groups]
+dev = ["ipykernel>=7.2.0", "ruff>=0.14.14", "ty>=0.0.14"]
+
+[tool.pdm.version]
+source = "scm"

@@ -1,0 +1,938 @@
+[
+    {
+        "name": "Protagonist",
+        "house": "Black Eagles",
+        "items": [
+            {
+                "name": "Bane of Monsters",
+                "skill": "Sword",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Windsweep",
+                "skill": "Sword",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Draining Blow",
+                "skill": "Brawling",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png"
+            },
+            {
+                "name": "Mystic Blow",
+                "skill": "Brawling",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png"
+            }
+        ]
+    },
+    {
+        "name": "Edelgard",
+        "house": "Black Eagles",
+        "items": [
+            {
+                "name": "Haze Strike",
+                "skill": "Sword",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Hexblade",
+                "skill": "Sword",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Monster Breaker",
+                "skill": "Axe",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Lightning Axe",
+                "skill": "Axe",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            }
+        ]
+    },
+    {
+        "name": "Hubert",
+        "house": "Black Eagles",
+        "items": [
+            {
+                "name": "Heavy Draw",
+                "skill": "Bow",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            },
+            {
+                "name": "Schism Shot",
+                "skill": "Bow",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            }
+        ]
+    },
+    {
+        "name": "Dorothea",
+        "house": "Black Eagles",
+        "items": [
+            {
+                "name": "Hexblade",
+                "skill": "Sword",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            }
+        ]
+    },
+    {
+        "name": "Ferdinand",
+        "house": "Black Eagles",
+        "items": [
+            {
+                "name": "Sunder",
+                "skill": "Sword",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Shatter Slash",
+                "skill": "Lance",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Swift Strikes",
+                "skill": "Lance",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Focused Strike",
+                "skill": "Axe",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Armored Strike",
+                "skill": "Axe",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            }
+        ]
+    },
+    {
+        "name": "Bernadetta",
+        "house": "Black Eagles",
+        "items": [
+            {
+                "name": "Vengeance",
+                "skill": "Lance",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Deadeye",
+                "skill": "Bow",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            },
+            {
+                "name": "Encloser",
+                "skill": "Bow",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            }
+        ]
+    },
+    {
+        "name": "Caspar",
+        "house": "Black Eagles",
+        "items": [
+            {
+                "name": "Wild Abandon",
+                "skill": "Axe",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Exhaustive Strike",
+                "skill": "Axe",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Bombard",
+                "skill": "Brawling",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png"
+            },
+            {
+                "name": "Mighty Blow",
+                "skill": "Brawling",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png"
+            }
+        ]
+    },
+    {
+        "name": "Petra",
+        "house": "Black Eagles",
+        "items": [
+            {
+                "name": "Bane of Monsters",
+                "skill": "Sword",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Finesse Blade",
+                "skill": "Sword",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Wild Abandon (C+",
+                "skill": "Axe",
+                "level": "Wild Abandon (C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Diamond Axe",
+                "skill": "Axe",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Waning Shot",
+                "skill": "Bow",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            }
+        ]
+    },
+    {
+        "name": "Linhardt",
+        "house": "Blue Lions",
+        "items": []
+    },
+    {
+        "name": "Dimitri",
+        "house": "Blue Lions",
+        "items": [
+            {
+                "name": "Sunder",
+                "skill": "Sword",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Windsweep",
+                "skill": "Sword",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Monster Piercer",
+                "skill": "Lance",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Glowing Ember",
+                "skill": "Lance",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            }
+        ]
+    },
+    {
+        "name": "Dedue",
+        "house": "Blue Lions",
+        "items": [
+            {
+                "name": "Vengeance",
+                "skill": "Lance",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Monster Breaker",
+                "skill": "Axe",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Armored Strike",
+                "skill": "Axe",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "One-Two Punch",
+                "skill": "Brawling",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png"
+            },
+            {
+                "name": "Mighty Blow",
+                "skill": "Brawling",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png"
+            }
+        ]
+    },
+    {
+        "name": "Felix",
+        "house": "Blue Lions",
+        "items": [
+            {
+                "name": "Sunder",
+                "skill": "Sword",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Finesse Blade",
+                "skill": "Sword",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Heavy Draw",
+                "skill": "Bow",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            },
+            {
+                "name": "Nimble Combo",
+                "skill": "Brawling",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png"
+            },
+            {
+                "name": "Mystic Blow",
+                "skill": "Brawling",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png"
+            }
+        ]
+    },
+    {
+        "name": "Mercedes",
+        "house": "Blue Lions",
+        "items": []
+    },
+    {
+        "name": "Ashe",
+        "house": "Blue Lions",
+        "items": [
+            {
+                "name": "Focused Strike",
+                "skill": "Axe",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Deadeye",
+                "skill": "Bow",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            },
+            {
+                "name": "Waning Shot",
+                "skill": "Bow",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            }
+        ]
+    },
+    {
+        "name": "Annette",
+        "house": "Blue Lions",
+        "items": [
+            {
+                "name": "Lightning Axe",
+                "skill": "Axe",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            }
+        ]
+    },
+    {
+        "name": "Sylvain",
+        "house": "Blue Lions",
+        "items": [
+            {
+                "name": "Monster Piercer",
+                "skill": "Lance",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Swift Strikes",
+                "skill": "Lance",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Spike",
+                "skill": "Axe",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Lightning Axe",
+                "skill": "Axe",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            }
+        ]
+    },
+    {
+        "name": "Ingrid",
+        "house": "Golden Deer",
+        "items": [
+            {
+                "name": "Hexblade",
+                "skill": "Sword",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Hit and Run",
+                "skill": "Lance",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Frozen Lance",
+                "skill": "Lance",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            }
+        ]
+    },
+    {
+        "name": "Claude",
+        "house": "Golden Deer",
+        "items": [
+            {
+                "name": "Bane of Monsters",
+                "skill": "Sword",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Finesse Blade",
+                "skill": "Sword",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Monster Blast",
+                "skill": "Bow",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            },
+            {
+                "name": "Encloser",
+                "skill": "Bow",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            }
+        ]
+    },
+    {
+        "name": "Lorenz",
+        "house": "Golden Deer",
+        "items": [
+            {
+                "name": "Frozen Lance",
+                "skill": "Lance",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            }
+        ]
+    },
+    {
+        "name": "Hilda",
+        "house": "Golden Deer",
+        "items": [
+            {
+                "name": "Shatter Slash",
+                "skill": "Lance",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Spike",
+                "skill": "Axe",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Diamond Axe",
+                "skill": "Axe",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            }
+        ]
+    },
+    {
+        "name": "Raphael",
+        "house": "Golden Deer",
+        "items": [
+            {
+                "name": "Wild Abandon",
+                "skill": "Axe",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Monster Crusher",
+                "skill": "Brawling",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png"
+            },
+            {
+                "name": "Draining Blow",
+                "skill": "Brawling",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png"
+            }
+        ]
+    },
+    {
+        "name": "Lysithea",
+        "house": "Golden Deer",
+        "items": []
+    },
+    {
+        "name": "Ignatz",
+        "house": "Golden Deer",
+        "items": [
+            {
+                "name": "Haze Slice",
+                "skill": "Sword",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Break Shot",
+                "skill": "Bow",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            },
+            {
+                "name": "Ward Arrow",
+                "skill": "Bow",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            }
+        ]
+    },
+    {
+        "name": "Marianne",
+        "house": "Golden Deer",
+        "items": [
+            {
+                "name": "Soulblade",
+                "skill": "Sword",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            }
+        ]
+    },
+    {
+        "name": "Leonie",
+        "house": "Church of Seiros",
+        "items": [
+            {
+                "name": "Monster Piercer",
+                "skill": "Lance",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Lance Jab",
+                "skill": "Lance",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Break Shot",
+                "skill": "Bow",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            },
+            {
+                "name": "Point-Blank Volley",
+                "skill": "Bow",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            }
+        ]
+    },
+    {
+        "name": "Rhea",
+        "house": "Church of Seiros",
+        "items": []
+    },
+    {
+        "name": "Manuela",
+        "house": "Church of Seiros",
+        "items": [
+            {
+                "name": "Hexblade",
+                "skill": "Sword",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            }
+        ]
+    },
+    {
+        "name": "Hanneman",
+        "house": "Church of Seiros",
+        "items": [
+            {
+                "name": "Schism Shot",
+                "skill": "Bow",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            },
+            {
+                "name": "Ward Arrow",
+                "skill": "Bow",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            }
+        ]
+    },
+    {
+        "name": "Seteth",
+        "house": "Church of Seiros",
+        "items": [
+            {
+                "name": "Haze Slice",
+                "skill": "Sword",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Focused Strike",
+                "skill": "Axe",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Diamond Axe",
+                "skill": "Axe",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Monster Piercer",
+                "skill": "Lance",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Swift Strikes",
+                "skill": "Lance",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            }
+        ]
+    },
+    {
+        "name": "Flayn",
+        "house": "Church of Seiros",
+        "items": [
+            {
+                "name": "Hit and Run",
+                "skill": "Lance",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Frozen Lance",
+                "skill": "Lance",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            }
+        ]
+    },
+    {
+        "name": "Cyril",
+        "house": "Knights of Seiros",
+        "items": [
+            {
+                "name": "Vengeance",
+                "skill": "Lance",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Lance Jab",
+                "skill": "Lance",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Monster Breaker",
+                "skill": "Axe",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Armored Strike",
+                "skill": "Axe",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Point-Blank Volley",
+                "skill": "Bow",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            }
+        ]
+    },
+    {
+        "name": "Jeralt",
+        "house": "Knights of Seiros",
+        "items": []
+    },
+    {
+        "name": "Catherine",
+        "house": "Knights of Seiros",
+        "items": [
+            {
+                "name": "Bane of Monsters",
+                "skill": "Sword",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Finesse Blade",
+                "skill": "Sword",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Nimble Combo",
+                "skill": "Brawling",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png"
+            },
+            {
+                "name": "Bombard",
+                "skill": "Brawling",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png"
+            }
+        ]
+    },
+    {
+        "name": "Alois",
+        "house": "Knights of Seiros",
+        "items": [
+            {
+                "name": "Spike",
+                "skill": "Axe",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Exhaustive Strike",
+                "skill": "Axe",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "One-Two Punch",
+                "skill": "Brawling",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png"
+            },
+            {
+                "name": "Mighty Blow",
+                "skill": "Brawling",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png"
+            }
+        ]
+    },
+    {
+        "name": "Gilbert",
+        "house": "Knights of Seiros",
+        "items": [
+            {
+                "name": "Shatter Slash",
+                "skill": "Lance",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Glowing Ember",
+                "skill": "Lance",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Spike",
+                "skill": "Axe",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            }
+        ]
+    },
+    {
+        "name": "Shamir",
+        "house": "DLC Exclusive",
+        "items": [
+            {
+                "name": "Hit and Run",
+                "skill": "Lance",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Lance Jab",
+                "skill": "Lance",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Heavy Draw",
+                "skill": "Bow",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            },
+            {
+                "name": "Monster Blast",
+                "skill": "Bow",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-bow.png"
+            }
+        ]
+    },
+    {
+        "name": "Yuri",
+        "house": "DLC Exclusive",
+        "items": [
+            {
+                "name": "Windsweep",
+                "skill": "Sword",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Finesse Blade",
+                "skill": "Sword",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            }
+        ]
+    },
+    {
+        "name": "Balthus",
+        "house": "DLC Exclusive",
+        "items": [
+            {
+                "name": "Bane of Monsters",
+                "skill": "Sword",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Diamond Axe",
+                "skill": "Axe",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Armored Strike",
+                "skill": "Axe",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-axe.png"
+            },
+            {
+                "name": "Draining Blow",
+                "skill": "Brawling",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png"
+            },
+            {
+                "name": "Mighty Blow",
+                "skill": "Brawling",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png"
+            }
+        ]
+    },
+    {
+        "name": "Constance",
+        "house": "DLC Exclusive",
+        "items": [
+            {
+                "name": "Soulblade",
+                "skill": "Sword",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Hexblade",
+                "skill": "Sword",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            }
+        ]
+    },
+    {
+        "name": "Hapi",
+        "house": "DLC Exclusive",
+        "items": []
+    },
+    {
+        "name": "Jeritza",
+        "house": "DLC Exclusive",
+        "items": [
+            {
+                "name": "Haze Slice",
+                "skill": "Sword",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Windsweep",
+                "skill": "Sword",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            },
+            {
+                "name": "Nimble Combo",
+                "skill": "Brawling",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-fighting.png"
+            },
+            {
+                "name": "Shatter Slash",
+                "skill": "Lance",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            },
+            {
+                "name": "Glowing Ember",
+                "skill": "Lance",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-lance.png"
+            }
+        ]
+    }
+]

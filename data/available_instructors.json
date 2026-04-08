@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Seteth",
+        "skill_levels": [
+            "Sword",
+            "Lance",
+            "Axe",
+            "Authority",
+            "Flying"
+        ],
+        "notes": "Unavailable to provide faculty training during Chapter 6."
+    },
+    {
+        "name": "Hanneman",
+        "skill_levels": [
+            "Bow",
+            "Reason",
+            "Riding"
+        ],
+        "notes": null
+    },
+    {
+        "name": "Manuela",
+        "skill_levels": [
+            "Sword",
+            "Faith",
+            "Flying"
+        ],
+        "notes": "Absent during Chapter 6."
+    },
+    {
+        "name": "Gilbert",
+        "skill_levels": [
+            "Lance",
+            "Axe",
+            "Heavy Armour",
+            "Riding"
+        ],
+        "notes": "Appears from Chapter 5; absent during Chapter 10."
+    },
+    {
+        "name": "Alois",
+        "skill_levels": [
+            "Axe",
+            "Brawling",
+            "Heavy Armour"
+        ],
+        "notes": "Absent during Chapters 5 and 10."
+    },
+    {
+        "name": "Catherine",
+        "skill_levels": [
+            "Sword",
+            "Brawling"
+        ],
+        "notes": "Absent during Chapter 10."
+    },
+    {
+        "name": "Shamir",
+        "skill_levels": [
+            "Lance",
+            "Bow"
+        ],
+        "notes": "Absent during Chapters 3, 5 and 10."
+    },
+    {
+        "name": "Jeralt",
+        "skill_levels": [
+            "Lance",
+            "Authority",
+            "Riding"
+        ],
+        "notes": "Absent from Chapter 9."
+    },
+    {
+        "name": "Rhea",
+        "skill_levels": [
+            "Sword",
+            "Brawling",
+            "Reason",
+            "Faith"
+        ],
+        "notes": null
+    },
+    {
+        "name": "Jeritza",
+        "skill_levels": [
+            "Sword",
+            "Lance",
+            "Brawling",
+            "Riding"
+        ],
+        "notes": "DLC"
+    },
+    {
+        "name": "Anna",
+        "skill_levels": [
+            "Sword",
+            "Axe",
+            "Bow",
+            "Faith"
+        ],
+        "notes": "DLC"
+    }
+]

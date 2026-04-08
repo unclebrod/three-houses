@@ -1,0 +1,611 @@
+[
+    {
+        "name": "Protagonist",
+        "house": "You and the Enigmatic Girl",
+        "age": null,
+        "height": {
+            "male": 175,
+            "female": 164
+        },
+        "birthday": null,
+        "crests": [
+            "Major Crest of Flames"
+        ],
+        "image": {
+            "male": "https://serenesforest.net/wp-content/uploads/2019/02/Byleth-M.jpg",
+            "female": "https://serenesforest.net/wp-content/uploads/2019/02/Byleth-F.jpg"
+        },
+        "bio": "Originally a member of a mercenary band led by their father, Jeralt. However when they rescued students from the Officer\u2019s Academy from bandits, their unique power was recognised and they were invited to become a teacher at the Garreg-Mach Monastery.",
+        "voice_actors": {
+            "male": {
+                "english": "Zach Aguilar",
+                "japanese": "Y\u016bsuke Kobayashi"
+            },
+            "female": {
+                "english": "Jeannine Tirado",
+                "japanese": "Shizuka Ito"
+            }
+        }
+    },
+    {
+        "name": "Sothis",
+        "house": "You and the Enigmatic Girl",
+        "age": null,
+        "height": 135,
+        "birthday": null,
+        "crests": [
+            "(Spoiler)",
+            "Major Crest of Flames"
+        ],
+        "image": "https://serenesforest.net/wp-content/gallery/three-houses-famitsu-art/famitsu-sothis-portrait.jpg",
+        "bio": "An enigmatic being that appeared in the protagonist\u2019s dreams. After saving the protagonist with the power to rewind time, she speaks to them as if she\u2019s inside their head, yet nobody else can see or hear her. She has no recollection of her identity and has the body of a young girl, but the tone of an old lady.",
+        "voice_actors": {
+            "english": "Cassandra Lee Morris",
+            "japanese": "Tomoyo Kurosawa"
+        }
+    },
+    {
+        "name": "Edelgard",
+        "house": "Black Eagles",
+        "age": 17,
+        "height": 158,
+        "birthday": "1900-06-22",
+        "crests": [
+            "Minor Crest of Seiros(spoiler)Minor Crest of Seiros",
+            "Major Crest of Flames"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/Edelgard.jpg",
+        "bio": "Full name Edelgard von Hresvelg. The imperial princess of the Adrestian Empire\u2013a mighty nation with a rich history\u2013and its next emperor. Within the Black Eagles, she\u2019s the house leader. She has an extremely noble and dignified air to her, and is able to calmly assess and act upon the situation and the people around her.",
+        "voice_actors": {
+            "english": "Tara Platt",
+            "japanese": "Ai Kakuma"
+        }
+    },
+    {
+        "name": "Hubert",
+        "house": "Black Eagles",
+        "age": 19,
+        "height": 188,
+        "birthday": "1900-04-17",
+        "crests": [],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/hubert-portrait.png",
+        "bio": "Full name Hubert von Vestra. The strategist of the Black Eagles. He\u2019s the heir of Marquis Vestra\u2019s family and has served Edelgard from a young age. He\u2019ll use any means necessary to eliminate her obstacles. According to Edelgard, he\u2019s a cold, but reasonable person.",
+        "voice_actors": {
+            "english": "Robbie Daymond",
+            "japanese": "Katsuyuki Konishi"
+        }
+    },
+    {
+        "name": "Dorothea",
+        "house": "Black Eagles",
+        "age": 18,
+        "height": 170,
+        "birthday": "1900-09-29",
+        "crests": [],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/dorothea-portrait.png",
+        "bio": "Full name Dorothea Arnault. A female student who was a popular songstress in the imperial capital before she enrolled. She admires Manuela, who came from the same Mittelfrank opera company, as her senior. Within the Black Eagles, she\u2019s the only commoner, which makes her feel uneasy, but she treats all of her similarly aged friends as equals.",
+        "voice_actors": {
+            "english": "Allegra Clark",
+            "japanese": "Juri Nagatsuma"
+        }
+    },
+    {
+        "name": "Ferdinand",
+        "house": "Black Eagles",
+        "age": 17,
+        "height": 175,
+        "birthday": "1900-04-30",
+        "crests": [
+            "Minor Crest of Cichol"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/190520_1200.png",
+        "bio": "Full name Ferdinand von Aegir. The heir of Duke Aegir\u2019s family\u2013a renowned family where the title of imperial chancellor is passed down. He\u2019s very proud of his own family because of its importance and influence. Extremely confident and hates to lose. Princess Edelgard\u2019s brilliance ignites a sense of rivalry within him.",
+        "voice_actors": {
+            "english": "Billy Kametz",
+            "japanese": "Taito Ban"
+        }
+    },
+    {
+        "name": "Bernadetta",
+        "house": "Black Eagles",
+        "age": 17,
+        "height": 150,
+        "birthday": "1900-12-12",
+        "crests": [
+            "Minor Crest of Indech"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/190527_HP.png",
+        "bio": "Full name Bernadetta von Varley. The only daughter of Count Varley\u2019s family. She\u2019s abnormally shy and, while she\u2019s far from home, her one safe haven is her room in the dormitory. Except for during lectures, she tends to confine herself to her room, devoting herself to her pastimes.",
+        "voice_actors": {
+            "english": "Erica Mendez",
+            "japanese": "Ayumi Tsuji"
+        }
+    },
+    {
+        "name": "Caspar",
+        "house": "Black Eagles",
+        "age": 16,
+        "height": 159,
+        "birthday": "1900-07-01",
+        "crests": [],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/190603_HP.png",
+        "bio": "Full name Caspar von Bergliez. The second son of Count Bergliez\u2019s family. Since he\u2019s not in line to succeed his family, he decided to train at the Officer\u2019s Academy to become a successful martial artist. His quick temper is his only flaw; otherwise he has a keen sense of justice that despises lies and injustice, and is a honest and straightforward guy.",
+        "voice_actors": {
+            "english": "Ben Diskin",
+            "japanese": "Satoru Murakami"
+        }
+    },
+    {
+        "name": "Petra",
+        "house": "Black Eagles",
+        "age": 15,
+        "height": 161,
+        "birthday": "1900-09-07",
+        "crests": [],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/190610_HP.png",
+        "bio": "Full name Petra Macneary. The granddaughter of the king of the Brigid Isles, a group of islands located west from F\u00f3dlan\u2019s shores. Because Brigid is a vassal of the empire, as a symbol of loyalty, she was sent from her homeland to study abroad at the Officer\u2019s Academy. She\u2019s unaccustomed to the spoken language of F\u00f3dlan, but she is trying her best to learn.",
+        "voice_actors": {
+            "english": "Faye Mata",
+            "japanese": "Shizuka Ishigami"
+        }
+    },
+    {
+        "name": "Linhardt",
+        "house": "Black Eagles",
+        "age": 16,
+        "height": 177,
+        "birthday": "1900-11-07",
+        "crests": [
+            "Minor Crest of Cethleann"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/190617_HP.png",
+        "bio": "Full name Linhardt von Hevring. The heir of Count Hevring\u2019s family. He prefers freedom over restriction; one could also call him incredibly lazy, as despite his brilliant mind, he\u2019s always sleepy. However, he has a keen interest in crest research, to the point that he\u2019ll forget to eat or sleep. Although he and Caspar have very different tastes and personalities, they somehow get along.",
+        "voice_actors": {
+            "english": "Chris Patton",
+            "japanese": "Shun Horie"
+        }
+    },
+    {
+        "name": "Dimitri",
+        "house": "Blue Lions",
+        "age": 17,
+        "height": 180,
+        "birthday": "1900-12-20",
+        "crests": [
+            "Minor Crest of Blaiddyd"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/Dimitri-1.jpg",
+        "bio": "Full name Dimitri Alexandre Blaiddyd. The next king of the Holy Kingdom of Faerghus, the realm of noble knights, and the house leader of the Blue Lions. He\u2019s a sincere young man who embodies chivalry, but at times, a faint shadow can be felt behind his cheeriness.",
+        "voice_actors": {
+            "english": "Chris Hackney",
+            "japanese": "Kaito Ishikawa"
+        }
+    },
+    {
+        "name": "Dedue",
+        "house": "Blue Lions",
+        "age": 18,
+        "height": 204,
+        "birthday": "1900-08-31",
+        "crests": [],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/doudou-portrait.png",
+        "bio": "Full name Dedue Molinaro. A commoner born in the Duscur region, to the kingdom\u2019s north-west, and Dimitri\u2019s servant. He owes a great debt to Dimitri and is determined to protect him at the cost of his own life. Because he\u2019s a bit scary-looking and quiet, many people don\u2019t realise he\u2019s actually a gentle and nice young man.",
+        "voice_actors": {
+            "english": "Ben Lepley",
+            "japanese": "Hidenori Takahashi"
+        }
+    },
+    {
+        "name": "Felix",
+        "house": "Blue Lions",
+        "age": 17,
+        "height": 174,
+        "birthday": "1900-02-20",
+        "crests": [
+            "Major Crest of Fraldarius"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/felix-portrait.png",
+        "bio": "Full name Felix Hugo Fraldarius. The heir of Duke Fraldarius\u2019s family. He has a mean attitude, calling his childhood buddy Dimitri a \u201cboar\u201d. He\u2019s sarcastic and fashions himself a lone wolf, but he takes his sword training seriously, so much that he\u2019ll instantly challenge any strong person to a bout.",
+        "voice_actors": {
+            "english": "Lucien Dodge",
+            "japanese": "Yuichi Hose"
+        }
+    },
+    {
+        "name": "Mercedes",
+        "house": "Blue Lions",
+        "age": 22,
+        "height": 169,
+        "birthday": "1900-05-27",
+        "crests": [
+            "Minor Crest of Lamine"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/190522_HP.png",
+        "bio": "Full name Mercedes von Martritz. A kind woman who carefully observes her surroundings and cannot ignore people in need. She\u2019s a former imperial noble, but now lives as a commoner in the kingdom. Earlier, she was enrolled in the royal capital\u2019s magic academy. Claims to be a \u201clittle older\u201d than the other students.",
+        "voice_actors": {
+            "english": "Dorothy Fahn",
+            "japanese": "Yumiri Hanamori"
+        }
+    },
+    {
+        "name": "Ashe",
+        "house": "Blue Lions",
+        "age": 16,
+        "height": 164,
+        "birthday": "1900-10-17",
+        "crests": [],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/190529_HP.png",
+        "bio": "Full name Ashe Ubert. The adopted son of Lord Lonato, ruler of Gaspard Castle within the kingdom. He feels immense gratitude and respect for Sir Lonato, who adopted him as a child despite being a commoner and allowed him to enroll in the Officer\u2019s Academy. He\u2019s a serious young man who studies and trains diligently to become an admirable adult like his adoptive father",
+        "voice_actors": {
+            "english": "Shannon McKain",
+            "japanese": "Y\u016bki Inoue"
+        }
+    },
+    {
+        "name": "Annette",
+        "house": "Blue Lions",
+        "age": 16,
+        "height": 151,
+        "birthday": "1900-05-09",
+        "crests": [
+            "Minor Crest of Dominic"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/190605_HP.png",
+        "bio": "Full name Annette Fantine Dominic. The niece of Baron Dominic. She graduated from the Magic Academy in the Royal Capital with flying colours. She\u2019s cheerful and hard-working, but she can often waste her energy and end up nowhere. Mercedes is a close friend of hers from her Magic Academy days; the pair call each other \u201cMercie\u201d and \u201cAnn\u201d.",
+        "voice_actors": {
+            "english": "Abby Trott",
+            "japanese": "Takako Tanaka"
+        }
+    },
+    {
+        "name": "Sylvain",
+        "house": "Blue Lions",
+        "age": 19,
+        "height": 186,
+        "birthday": "1900-06-05",
+        "crests": [
+            "Minor Crest of Gautier"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/190612_HP.png",
+        "bio": "Full name Sylvain Jose Gautier.\u00a0The heir of Margrave Gautier who rules near the borders. He values his friends, and is widely looked up as a dependable \u201cbig brother\u201d by the other classmates. Yet at the same time, he\u2019s a hopeless womaniser who loves flirting with girls, which causes him no end of trouble. He had an older brother who was disowned because he lacked a crest.",
+        "voice_actors": {
+            "english": "Joe Brogie",
+            "japanese": "Makoto Furukawa"
+        }
+    },
+    {
+        "name": "Ingrid",
+        "house": "Blue Lions",
+        "age": 17,
+        "height": 165,
+        "birthday": "1900-01-04",
+        "crests": [
+            "Minor Crest of Daphnel"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/190619_HP.png",
+        "bio": "Full name Ingrid Brandl Galatea. A lady from Count Galatea\u2019s family; Dimitri, Felix, Sylvain and her are all childhood friends. Seeing her serious attitude and admiration of virtuous knights, Dimitri would always say \u201cyou\u2019re more of a knight than you think\u201d. However, once she lays eyes on delicious food, she\u2019d forget everything.",
+        "voice_actors": {
+            "english": "Brittany Cox",
+            "japanese": "Manaka Iwami"
+        }
+    },
+    {
+        "name": "Claude",
+        "house": "Golden Deer",
+        "age": 17,
+        "height": 175,
+        "birthday": "1900-07-24",
+        "crests": [
+            "Minor Crest of Riegan"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/Claude.jpg",
+        "bio": "Full name Claude von Riegan. He\u2019s the heir of the renowned Riegan family, which heads the Leicester Alliance, a new power formed by the nobility. Serves as the house leader of the Golden Deer. While he\u2019s memorable for his sociable smile and easy-going attitude, he also harbours a cunning side, calling himself the \u201cembodiment of distrust\u201d.",
+        "voice_actors": {
+            "english": "Joe Zieja",
+            "japanese": "Toshiyuki Toyonaga"
+        }
+    },
+    {
+        "name": "Lorenz",
+        "house": "Golden Deer",
+        "age": 18,
+        "height": 188,
+        "birthday": "1900-06-13",
+        "crests": [
+            "Minor Crest of Gloucester"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/lorentz-portrait.png",
+        "bio": "Full name Lorenz Hellman Gloucester. The heir of Count Gloucester\u2019s family. He\u2019s a serious fellow despite his snobbishness and he\u2019s aware of his pride and responsibility as a noble. Apparently, he\u2019s been approaching several females at the monastery, with limited success.",
+        "voice_actors": {
+            "english": "Ben Diskin",
+            "japanese": "Hiroshi Watanabe"
+        }
+    },
+    {
+        "name": "Hilda",
+        "house": "Golden Deer",
+        "age": 18,
+        "height": 154,
+        "birthday": "1900-02-03",
+        "crests": [
+            "Minor Crest of Goneril"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/05/hilda-portrait-famitsu.jpg",
+        "bio": "Full name Hilda Valentine Goneril. The only daughter of Duke Goneril. Since she was pampered by her father and older brother, she tends to slack off, and is good at acting cute and buttering people up. She has a easy-going and frivolous manner, and is a typical \u201cnobleman\u2019s daughter\u201d. Adores fashionable and glamorous things.",
+        "voice_actors": {
+            "english": "Celeste Henderson",
+            "japanese": "Y\u016bki Kuwahara"
+        }
+    },
+    {
+        "name": "Raphael",
+        "house": "Golden Deer",
+        "age": 17,
+        "height": 190,
+        "birthday": "1900-05-18",
+        "crests": [],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/190524_HP.png",
+        "bio": "Full name Raphael Kirsten. The son of a merchant from Leicester. Both of his parents died in an accident and he\u2019s been through a lot, but he\u2019s an optimistic fellow who\u2019s only concerned about what\u2019s on the menu and his daily muscle-building to become an exemplary knight. That said, he doesn\u2019t seem interested in lectures.",
+        "voice_actors": {
+            "english": "Zachary T. Rice",
+            "japanese": "Takaki \u00d4tomari"
+        }
+    },
+    {
+        "name": "Lysithea",
+        "house": "Golden Deer",
+        "age": 15,
+        "height": 148,
+        "birthday": "1900-02-28",
+        "crests": [
+            "Minor Crest of Charon(spoiler)Minor Crest of Charon",
+            "Major Crest of Gloucester"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/05/101-Lysithea.jpg",
+        "bio": "Full name Lysithea von Ordelia. The eldest daughter of Count Ordelia\u2019s family. She\u2019s the youngest student enrolled this year, at 15 years of age. She\u2019s a child prodigy who excels at magic, yet she\u2019s a hard worker who doesn\u2019t make a fuss about her talent. Despite that, she still has a childish side, not wanting to be seen as a child and having a fear of ghosts.",
+        "voice_actors": {
+            "english": "Janice Roman Roku",
+            "japanese": "Aoi Y\u016bki"
+        }
+    },
+    {
+        "name": "Ignatz",
+        "house": "Golden Deer",
+        "age": 17,
+        "height": 164,
+        "birthday": "1900-03-14",
+        "crests": [],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/190607_HP.png",
+        "bio": "Full name Ignatz Victor. The second son of a merchant family within the Leicester Alliance. His older brother is set to take over the family business, so his parents wished for him to enter the Officer\u2019s Academy, although deep down there are other things he\u2019d rather be doing. He\u2019s a kind-hearted person who loves beautiful natural scenery and art.",
+        "voice_actors": {
+            "english": "Christian La Monte",
+            "japanese": "Shogo Yano"
+        }
+    },
+    {
+        "name": "Marianne",
+        "house": "Golden Deer",
+        "age": 17,
+        "height": 163,
+        "birthday": "1900-11-23",
+        "crests": [
+            "Minor Crest of the Beast"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/190614_HP.png",
+        "bio": "Full name Marianne von Edmund. The adopted daughter of Margrave Edmund who rules near the borders. She tends not to associate with others, so there many people who have yet to hear her voice. On the other hand, she adores birds and animals and can talk very openly to them. She is extremely devout and offers prayers to the Goddess everyday",
+        "voice_actors": {
+            "english": "Xanthe Huynh",
+            "japanese": "Sawako Hata"
+        }
+    },
+    {
+        "name": "Leonie",
+        "house": "Golden Deer",
+        "age": 19,
+        "height": 168,
+        "birthday": "1900-08-21",
+        "crests": [],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/190621_HP.png",
+        "bio": "Full name Leonie Pinelli. A hunter\u2019s daughter from Sauin Village, within the alliance. To become a money-making mercenary, she entered the Officer\u2019s Academy with money loaned from her village. She trains hard and lives frugally every day, so she can repay her village\u2019s money and goodwill. She calls Jeralt, who motivated her to become a mercenary, her master and claims that she\u2019s his top student.",
+        "voice_actors": {
+            "english": "Ratana",
+            "japanese": "Sakura Nogawa"
+        }
+    },
+    {
+        "name": "Rhea",
+        "house": "Church of Seiros",
+        "age": null,
+        "height": 172,
+        "birthday": null,
+        "crests": [
+            "Major Crest of Seiros"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/rhea-portrait.png",
+        "bio": "The archbishop and supreme ruler of the Church of Seiros, since the time Jeralt was in the Knights of Seiros. She recognises the protagonist\u2019s potential and invites them to the officer\u2019s academy. Although she\u2019s like a kind and loving mother, she has a harsh side that passes judgement on those who oppose the church.",
+        "voice_actors": {
+            "english": "Cherami Leigh",
+            "japanese": "Kikuko Inoue"
+        }
+    },
+    {
+        "name": "Manuela",
+        "house": "Church of Seiros",
+        "age": 34,
+        "height": 172,
+        "birthday": "1900-08-03",
+        "crests": [],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/manuela-portrait.png",
+        "bio": "Full name Manuela Casagranda. An ex-songstress who once stood at the pinnacle of the Mittelfrank opera company in the imperial capital. Now she\u2019s a teacher and doctor in the officer\u2019s academy. She\u2019s been seen lamenting her inability to find the man of her dreams. She\u2019s a bit boorish, but is friendly to her new colleague, the protagonist.",
+        "voice_actors": {
+            "english": "Veronica Taylor",
+            "japanese": "Sachiko Kojima"
+        }
+    },
+    {
+        "name": "Hanneman",
+        "house": "Church of Seiros",
+        "age": 51,
+        "height": 190,
+        "birthday": "1900-02-08",
+        "crests": [
+            "Minor Crest of Indech"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/hanneman-portrait.png",
+        "bio": "Full name Hanneman von Essar. A teacher who\u2019s also researching the \u201ccrests\u201d bestowed by the Goddess. He\u2019s usually calm, but when it comes to the crests, he can get absorbed and forget everything. It\u2019s hard for him to contain his curiousity, especially towards the unknown crest that the protagonist bears. Doesn\u2019t really get along with his colleague, Manuela.",
+        "voice_actors": {
+            "english": "W.T. Falke",
+            "japanese": "Kenji Hamada"
+        }
+    },
+    {
+        "name": "Seteth",
+        "house": "Church of Seiros",
+        "age": null,
+        "height": 182,
+        "birthday": "1900-12-27",
+        "crests": [
+            "Major Crest of Cichol"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/190626_HP.png",
+        "bio": "Assistant to the Archbishop of the Church of Seiros. He\u2019s somebody who values order and discipline; although he respects Rhea\u2019s unprecedented decision to invite the protagonist to the Officer\u2019s Academy, nonetheless he remains wary towards them. He dotes on his young sister Flayn and many of his concerns relate to her, but he can seem a little overprotective.",
+        "voice_actors": {
+            "english": "Mark Whitten",
+            "japanese": "Takehito Koyasu"
+        }
+    },
+    {
+        "name": "Flayn",
+        "house": "Church of Seiros",
+        "age": null,
+        "height": 151,
+        "birthday": "1900-07-12",
+        "crests": [
+            "Major Crest of Cethleann"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/flayn-portrait.png",
+        "bio": "The younger sister of Seteth, the Archbishop\u2019s assistant. She resides in the monastery, although she\u2019s not a student. She has a calm personality and is carefree towards others, but she can often behave eccentrically when her curiousity takes hold, much to the concern of her older brother.",
+        "voice_actors": {
+            "english": "Deva Marie Gregory",
+            "japanese": "Yuko Ono"
+        }
+    },
+    {
+        "name": "Jeritza",
+        "house": "Church of Seiros",
+        "age": null,
+        "height": 193,
+        "birthday": null,
+        "crests": [
+            "Minor Crest of Lamine"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/jeritza-twitter.png",
+        "bio": "Full name Jeritza von Hrym. A teacher within the Officer\u2019s Academy. He\u2019s a sword instructor who\u2019s main job is to train others. He dislikes involving himself with others, even straight out rejecting those who try to start an idle conversation with him. He\u2019s a man of many mysteries, but when considering his role as the students\u2019 trainer, his sword skills are undeniable.",
+        "voice_actors": {
+            "english": "Patrick Seitz",
+            "japanese": "Atsushi Imaruoka"
+        }
+    },
+    {
+        "name": "Tomas",
+        "house": "Church of Seiros",
+        "age": null,
+        "height": 176,
+        "birthday": null,
+        "crests": [],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/tomas-portrait.png",
+        "bio": "A man who\u2019s been serving as an archivist at Garreg Mach Monastery for over 40 years. Besides the books within the library, he\u2019s well versed with the monastery\u2019s happenings throughout the years. He\u2019s also a devout follower of the Church of Seiros.",
+        "voice_actors": {
+            "english": "Joseph Whimms",
+            "japanese": "Shinya Fukumatsu"
+        }
+    },
+    {
+        "name": "Cyril",
+        "house": "Church of Seiros",
+        "age": 14,
+        "height": 148,
+        "birthday": "1900-10-25",
+        "crests": [],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/cyril-twitter.png",
+        "bio": "A young boy who acts as one of Archbishop Rhea\u2019s servants. He feels indebted towards Rhea for rescuing him from his troubled life as a war orphan. He takes his work at the monastery extremely seriously, to the point that he gives off a cold impression. To help out Rhea, he studied archery under Shamir.",
+        "voice_actors": {
+            "english": "Griffin Burns",
+            "japanese": "Kengo Kawanishi"
+        }
+    },
+    {
+        "name": "Jeralt",
+        "house": "Church of Seiros",
+        "age": null,
+        "height": 185,
+        "birthday": null,
+        "crests": [
+            "Major Crest of Seiros"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/jeralt-portrait.png",
+        "bio": "Full name Jeralt Reus Eisner. The protagonist\u2019s father. He\u2019s a veteran warrior who once served as captain of the Knights of Seiros and regarded as the strongest knight in history. After leaving the knights, he continued his journey with his newly established mercenary band. His wife has since passed away. After the students were rescued from the bandit attack, he used the opportunity to return to the knights.",
+        "voice_actors": {
+            "english": "David Lodge",
+            "japanese": "Akio \u014ctsuka"
+        }
+    },
+    {
+        "name": "Catherine",
+        "house": "Church of Seiros",
+        "age": 27,
+        "height": 175,
+        "birthday": "1900-09-15",
+        "crests": [
+            "Major Crest of Charon"
+        ],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/190615_HP.png",
+        "bio": "A graduate of the Officer\u2019s Academy at Garreg Mach Monastery, and a member of the Knights of Seiros. She\u2019s a master swordswoman who wields the \u201cThunderbrand\u201d, one of the legendary weapons referred to as \u201chero relics\u201d, and a knight who has sworn loyalty to Archbishop Rhea.",
+        "voice_actors": {
+            "english": "Laura Post",
+            "japanese": "Chie Matsuura"
+        }
+    },
+    {
+        "name": "Alois",
+        "house": "Church of Seiros",
+        "age": 44,
+        "height": 174,
+        "birthday": "1900-12-01",
+        "crests": [],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/190624_HP.png",
+        "bio": "Full name Alois Rangeld. A member of the Knights of Seiros. When Jeralt still served as knight captain, he was one of his subordinates and he\u2019s admired him since then. He gave the protagonist a rare recommendation to become a teacher, after they repelled the bandits that attacked the students. He\u2019s cheerful, friendly and likes telling (bad) jokes.",
+        "voice_actors": {
+            "english": "Raymond K. Essel",
+            "japanese": "Manabu Sakamaki"
+        }
+    },
+    {
+        "name": "Gilbert",
+        "house": "Church of Seiros",
+        "age": 55,
+        "height": 186,
+        "birthday": "1900-01-26",
+        "crests": [],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/gilbert-portrait.png",
+        "bio": "Full name Gilbert Pronislav. A member of the Knights of Seiros, hailing from the Holy Kingdom. He\u2019s a pious, serious and polite individual. His expression rarely changes and he tends not to speak of himself. So it\u2019s hard to know his inner thoughts, but he does enjoy fishing and cooking.",
+        "voice_actors": {
+            "english": "Doug Stone",
+            "japanese": "Hiriomichi Kogami"
+        }
+    },
+    {
+        "name": "Shamir",
+        "house": "Church of Seiros",
+        "age": 25,
+        "height": 169,
+        "birthday": "1900-03-27",
+        "crests": [],
+        "image": "https://serenesforest.net/wp-content/uploads/2019/02/shamir-portrait.png",
+        "bio": "Full name Shamir Nevrand. A bow adept who\u2019s stationed in the Knights of Seiros. She was once a mercenary, but now serves as a knight to repay a debt to Rhea from the past. She\u2019s a rarity within the knights because she\u2019s not a follower of the church; for now, she swears allegiance to Rhea only.",
+        "voice_actors": {
+            "english": "Allegra Clark",
+            "japanese": "Yurina Watanabe"
+        }
+    }
+]

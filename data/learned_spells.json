@@ -1,0 +1,1821 @@
+[
+    {
+        "name": "Protagonist",
+        "house": "You",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Fire",
+                "level": "D"
+            },
+            {
+                "name": "Thunder",
+                "level": "D+"
+            },
+            {
+                "name": "Bolganone",
+                "level": "C"
+            },
+            {
+                "name": "Ragnarok",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Edelgard",
+        "house": "Black Eagles",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Fire",
+                "level": "D"
+            },
+            {
+                "name": "Bolganone",
+                "level": "C"
+            },
+            {
+                "name": "Luna \u039b",
+                "level": "B"
+            },
+            {
+                "name": "Hades \u03a9",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Hubert",
+        "house": "Black Eagles",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Miasma \u0394",
+                "level": "D"
+            },
+            {
+                "name": "Mire \u0392",
+                "level": "D+"
+            },
+            {
+                "name": "Banshee \u0398",
+                "level": "C"
+            },
+            {
+                "name": "Death \u0393",
+                "level": "B"
+            },
+            {
+                "name": "Dark Spikes \u03a4",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Dorothea",
+        "house": "Black Eagles",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Thunder",
+                "level": "D"
+            },
+            {
+                "name": "Thoron",
+                "level": "C"
+            },
+            {
+                "name": "Sagittae",
+                "level": "B"
+            },
+            {
+                "name": "Meteor",
+                "level": "A"
+            },
+            {
+                "name": "Agnea\u2019s Arrow",
+                "level": "A+"
+            }
+        ]
+    },
+    {
+        "name": "Ferdinand",
+        "house": "Black Eagles",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Thunder",
+                "level": "D"
+            },
+            {
+                "name": "Fire",
+                "level": "D+"
+            },
+            {
+                "name": "Thoron",
+                "level": "C"
+            },
+            {
+                "name": "Bolganone",
+                "level": "B"
+            }
+        ]
+    },
+    {
+        "name": "Bernadetta",
+        "house": "Black Eagles",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Blizzard",
+                "level": "D"
+            },
+            {
+                "name": "Thunder",
+                "level": "D+"
+            },
+            {
+                "name": "Thoron",
+                "level": "C"
+            },
+            {
+                "name": "Fimbulvetr",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Caspar",
+        "house": "Black Eagles",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Fire",
+                "level": "D"
+            },
+            {
+                "name": "Bolganone",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Petra",
+        "house": "Black Eagles",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Wind",
+                "level": "D"
+            },
+            {
+                "name": "Sagittae",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Linhardt",
+        "house": "Black Eagles",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Wind",
+                "level": "D"
+            },
+            {
+                "name": "Fire",
+                "level": "D+"
+            },
+            {
+                "name": "Cutting Gale",
+                "level": "C"
+            },
+            {
+                "name": "Bolganone",
+                "level": "B"
+            },
+            {
+                "name": "Excalibur",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Dimitri",
+        "house": "Blue Lions",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Thunder",
+                "level": "D"
+            },
+            {
+                "name": "Thoron",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Dedue",
+        "house": "Blue Lions",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Fire",
+                "level": "D"
+            },
+            {
+                "name": "Bolganone",
+                "level": "C"
+            },
+            {
+                "name": "Ragnarok",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Felix",
+        "house": "Blue Lions",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Thunder",
+                "level": "D"
+            },
+            {
+                "name": "Thoron",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Mercedes",
+        "house": "Blue Lions",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Fire",
+                "level": "D"
+            },
+            {
+                "name": "Thunder",
+                "level": "D+"
+            },
+            {
+                "name": "Bolganone",
+                "level": "C"
+            },
+            {
+                "name": "Ragnarok",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Ashe",
+        "house": "Blue Lions",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Wind",
+                "level": "D"
+            },
+            {
+                "name": "Cutting Gale",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Annette",
+        "house": "Blue Lions",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Wind",
+                "level": "D"
+            },
+            {
+                "name": "Cutting Gale",
+                "level": "C"
+            },
+            {
+                "name": "Sagittae",
+                "level": "B"
+            },
+            {
+                "name": "Excalibur",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Sylvain",
+        "house": "Blue Lions",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Fire",
+                "level": "D"
+            },
+            {
+                "name": "Bolganone",
+                "level": "C"
+            },
+            {
+                "name": "Sagittae",
+                "level": "B"
+            },
+            {
+                "name": "Ragnarok",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Ingrid",
+        "house": "Blue Lions",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Blizzard",
+                "level": "D"
+            },
+            {
+                "name": "Thoron",
+                "level": "C"
+            },
+            {
+                "name": "Fimbulvetr",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Claude",
+        "house": "Golden Deer",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Wind",
+                "level": "D"
+            },
+            {
+                "name": "Sagittae",
+                "level": "C"
+            },
+            {
+                "name": "Cutting Gale",
+                "level": "B"
+            },
+            {
+                "name": "Excalibur",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Lorenz",
+        "house": "Golden Deer",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Fire",
+                "level": "D"
+            },
+            {
+                "name": "Sagittae",
+                "level": "C"
+            },
+            {
+                "name": "Ragnarok",
+                "level": "B"
+            },
+            {
+                "name": "Agnea\u2019s Arrow",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Hilda",
+        "house": "Golden Deer",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Thunder",
+                "level": "D"
+            },
+            {
+                "name": "Thoron",
+                "level": "C"
+            },
+            {
+                "name": "Bolting",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Raphael",
+        "house": "Golden Deer",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Fire",
+                "level": "D"
+            },
+            {
+                "name": "Bolganone",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Lysithea",
+        "house": "Golden Deer",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Miasma \u0394",
+                "level": "D"
+            },
+            {
+                "name": "Swarm \u0396",
+                "level": "D+"
+            },
+            {
+                "name": "Luna \u039b",
+                "level": "C"
+            },
+            {
+                "name": "Dark Spikes \u03a4",
+                "level": "B"
+            },
+            {
+                "name": "Hades \u03a9",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Ignatz",
+        "house": "Golden Deer",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Blizzard",
+                "level": "D"
+            },
+            {
+                "name": "Cutting Gale",
+                "level": "C"
+            },
+            {
+                "name": "Fimbulvetr",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Marianne",
+        "house": "Golden Deer",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Blizzard",
+                "level": "D"
+            },
+            {
+                "name": "Thoron",
+                "level": "C"
+            },
+            {
+                "name": "Cutting Gale",
+                "level": "B"
+            },
+            {
+                "name": "Fimbulvetr",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Leonie",
+        "house": "Golden Deer",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Fire",
+                "level": "D"
+            },
+            {
+                "name": "Bolganone",
+                "level": "C"
+            },
+            {
+                "name": "Ragnarok",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Rhea",
+        "house": "Church of Seiros",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Fire",
+                "level": "E+"
+            },
+            {
+                "name": "Bolganone",
+                "level": "D"
+            },
+            {
+                "name": "Ragnarok",
+                "level": "A"
+            },
+            {
+                "name": "Agnea\u2019s Arrow",
+                "level": "A"
+            },
+            {
+                "name": "",
+                "level": ""
+            }
+        ]
+    },
+    {
+        "name": "Manuela",
+        "house": "Church of Seiros",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Thunder",
+                "level": "D"
+            },
+            {
+                "name": "Bolganone",
+                "level": "C"
+            },
+            {
+                "name": "Bolting",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Hanneman",
+        "house": "Church of Seiros",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Wind",
+                "level": "D"
+            },
+            {
+                "name": "Sagittae",
+                "level": "C"
+            },
+            {
+                "name": "Thoron",
+                "level": "B"
+            },
+            {
+                "name": "Ragnarok",
+                "level": "A"
+            },
+            {
+                "name": "Meteor",
+                "level": "A+"
+            }
+        ]
+    },
+    {
+        "name": "Seteth",
+        "house": "Church of Seiros",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Wind",
+                "level": "D"
+            },
+            {
+                "name": "Cutting Gale",
+                "level": "C"
+            },
+            {
+                "name": "Bolganone",
+                "level": "B"
+            },
+            {
+                "name": "Excalibur",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Flayn",
+        "house": "Church of Seiros",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Wind",
+                "level": "D"
+            },
+            {
+                "name": "Fire",
+                "level": "D+"
+            },
+            {
+                "name": "Cutting Gale",
+                "level": "C"
+            },
+            {
+                "name": "Excalibur",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Cyril",
+        "house": "Church of Seiros",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Wind",
+                "level": "D"
+            },
+            {
+                "name": "Cutting Gale",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Jeralt",
+        "house": "Knights of Seiros",
+        "magic_type": "Reason",
+        "spell_list": []
+    },
+    {
+        "name": "Catherine",
+        "house": "Knights of Seiros",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Fire",
+                "level": "D"
+            },
+            {
+                "name": "Bolganone",
+                "level": "C"
+            },
+            {
+                "name": "Ragnarok",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Alois",
+        "house": "Knights of Seiros",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Fire",
+                "level": "D"
+            },
+            {
+                "name": "Bolganone",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Gilbert",
+        "house": "Knights of Seiros",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Thunder",
+                "level": "D"
+            },
+            {
+                "name": "Thoron",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Shamir",
+        "house": "Knights of Seiros",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Blizzard",
+                "level": "D"
+            },
+            {
+                "name": "Wind",
+                "level": "D+"
+            },
+            {
+                "name": "Sagittae",
+                "level": "C"
+            },
+            {
+                "name": "Fimbulvetr",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Yuri",
+        "house": "DLC Exclusive",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Wind",
+                "level": "D"
+            },
+            {
+                "name": "Cutting Gale",
+                "level": "C"
+            },
+            {
+                "name": "Sagittae",
+                "level": "B"
+            },
+            {
+                "name": "Excalibur",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Balthus",
+        "house": "DLC Exclusive",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Fire",
+                "level": "D"
+            },
+            {
+                "name": "Bolganone",
+                "level": "C"
+            },
+            {
+                "name": "Ragnarok",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Constance",
+        "house": "DLC Exclusive",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Fire",
+                "level": "D"
+            },
+            {
+                "name": "Sagittae",
+                "level": "C"
+            },
+            {
+                "name": "Fimbulvetr",
+                "level": "B"
+            },
+            {
+                "name": "Bolting",
+                "level": "A"
+            },
+            {
+                "name": "Agnea\u2019s Arrow",
+                "level": "A+"
+            }
+        ]
+    },
+    {
+        "name": "Hapi",
+        "house": "DLC Exclusive",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Miasma \u0394",
+                "level": "D"
+            },
+            {
+                "name": "Swarm \u0396",
+                "level": "D+"
+            },
+            {
+                "name": "Banshee \u0398",
+                "level": "C"
+            },
+            {
+                "name": "Death \u0393",
+                "level": "B"
+            },
+            {
+                "name": "Hades \u03a9",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Jeritza",
+        "house": "DLC Exclusive",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Thunder",
+                "level": "D"
+            },
+            {
+                "name": "Thoron",
+                "level": "C"
+            },
+            {
+                "name": "Death \u0393",
+                "level": "B"
+            }
+        ]
+    },
+    {
+        "name": "Anna",
+        "house": "DLC Exclusive",
+        "magic_type": "Reason",
+        "spell_list": [
+            {
+                "name": "Fire",
+                "level": "D"
+            },
+            {
+                "name": "Thunder",
+                "level": "D+"
+            },
+            {
+                "name": "Meteor",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Protagonist",
+        "house": "You",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            },
+            {
+                "name": "Aura",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Edelgard",
+        "house": "Black Eagles",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            },
+            {
+                "name": "Seraphim",
+                "level": "B"
+            }
+        ]
+    },
+    {
+        "name": "Hubert",
+        "house": "Black Eagles",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Dorothea",
+        "house": "Black Eagles",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Physic",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Ferdinand",
+        "house": "Black Eagles",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Ward",
+                "level": "C"
+            },
+            {
+                "name": "Restore",
+                "level": "B"
+            }
+        ]
+    },
+    {
+        "name": "Bernadetta",
+        "house": "Black Eagles",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Physic",
+                "level": "C"
+            },
+            {
+                "name": "Rescue",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Caspar",
+        "house": "Black Eagles",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Petra",
+        "house": "Black Eagles",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Restore",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Linhardt",
+        "house": "Black Eagles",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Physic",
+                "level": "C"
+            },
+            {
+                "name": "Restore",
+                "level": "B"
+            },
+            {
+                "name": "Warp",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Dimitri",
+        "house": "Blue Lions",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            },
+            {
+                "name": "Aura",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Dedue",
+        "house": "Blue Lions",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Felix",
+        "house": "Blue Lions",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Noferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            },
+            {
+                "name": "Restore",
+                "level": "B"
+            }
+        ]
+    },
+    {
+        "name": "Mercedes",
+        "house": "Blue Lions",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Physic",
+                "level": "C"
+            },
+            {
+                "name": "Restore",
+                "level": "B"
+            },
+            {
+                "name": "Fortify",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Ashe",
+        "house": "Blue Lions",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Physic",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Annette",
+        "house": "Blue Lions",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            },
+            {
+                "name": "Abraxas",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Sylvain",
+        "house": "Blue Lions",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Physic",
+                "level": "C"
+            },
+            {
+                "name": "Seraphim",
+                "level": "B"
+            }
+        ]
+    },
+    {
+        "name": "Ingrid",
+        "house": "Blue Lions",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Physic",
+                "level": "C"
+            },
+            {
+                "name": "Seraphim",
+                "level": "B"
+            }
+        ]
+    },
+    {
+        "name": "Claude",
+        "house": "Golden Deer",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            },
+            {
+                "name": "Silence",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Lorenz",
+        "house": "Golden Deer",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            },
+            {
+                "name": "Ward",
+                "level": "B"
+            }
+        ]
+    },
+    {
+        "name": "Hilda",
+        "house": "Golden Deer",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Raphael",
+        "house": "Golden Deer",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Lysithea",
+        "house": "Golden Deer",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Seraphim",
+                "level": "C"
+            },
+            {
+                "name": "Warp",
+                "level": "B"
+            },
+            {
+                "name": "Abraxas",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Ignatz",
+        "house": "Golden Deer",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Physic",
+                "level": "C"
+            },
+            {
+                "name": "Ward",
+                "level": "B"
+            }
+        ]
+    },
+    {
+        "name": "Marianne",
+        "house": "Golden Deer",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Physic",
+                "level": "C"
+            },
+            {
+                "name": "Silence",
+                "level": "B"
+            },
+            {
+                "name": "Aura",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Leonie",
+        "house": "Golden Deer",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Physic",
+                "level": "C"
+            },
+            {
+                "name": "Restore",
+                "level": "B"
+            }
+        ]
+    },
+    {
+        "name": "Rhea",
+        "house": "Church of Seiros",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            },
+            {
+                "name": "",
+                "level": ""
+            },
+            {
+                "name": "",
+                "level": ""
+            }
+        ]
+    },
+    {
+        "name": "Manuela",
+        "house": "Church of Seiros",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Ward",
+                "level": "C"
+            },
+            {
+                "name": "Silence",
+                "level": "B"
+            },
+            {
+                "name": "Warp",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Hanneman",
+        "house": "Church of Seiros",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            },
+            {
+                "name": "Ward",
+                "level": "B"
+            }
+        ]
+    },
+    {
+        "name": "Seteth",
+        "house": "Church of Seiros",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Flayn",
+        "house": "Church of Seiros",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Restore",
+                "level": "C"
+            },
+            {
+                "name": "Rescue",
+                "level": "B"
+            },
+            {
+                "name": "Fortify",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Cyril",
+        "house": "Church of Seiros",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Jeralt",
+        "house": "Knights of Seiros",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            },
+            {
+                "name": "",
+                "level": ""
+            },
+            {
+                "name": "",
+                "level": ""
+            }
+        ]
+    },
+    {
+        "name": "Catherine",
+        "house": "Knights of Seiros",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Alois",
+        "house": "Knights of Seiros",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Gilbert",
+        "house": "Knights of Seiros",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Ward",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Shamir",
+        "house": "Knights of Seiros",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Physic",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Yuri",
+        "house": "DLC Exclusive",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Recover",
+                "level": "C"
+            },
+            {
+                "name": "Silence",
+                "level": "B"
+            },
+            {
+                "name": "Aura",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Balthus",
+        "house": "DLC Exclusive",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Seraphim",
+                "level": "B"
+            },
+            {
+                "name": "Restore",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Constance",
+        "house": "DLC Exclusive",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Ward",
+                "level": "C"
+            },
+            {
+                "name": "Rescue",
+                "level": "B"
+            },
+            {
+                "name": "Abraxas",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Hapi",
+        "house": "DLC Exclusive",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Physic",
+                "level": "C"
+            },
+            {
+                "name": "Seraphim",
+                "level": "B"
+            },
+            {
+                "name": "Warp",
+                "level": "A"
+            }
+        ]
+    },
+    {
+        "name": "Jeritza",
+        "house": "DLC Exclusive",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Restore",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "name": "Anna",
+        "house": "DLC Exclusive",
+        "magic_type": "Faith",
+        "spell_list": [
+            {
+                "name": "Heal",
+                "level": "D"
+            },
+            {
+                "name": "Nosferatu",
+                "level": "D+"
+            },
+            {
+                "name": "Ward",
+                "level": "C"
+            },
+            {
+                "name": "Rescue",
+                "level": "B"
+            }
+        ]
+    }
+]

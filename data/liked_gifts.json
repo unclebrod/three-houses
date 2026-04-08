@@ -1,0 +1,368 @@
+[
+    {
+        "name": "Edelgard",
+        "items": [
+            "Carnation",
+            "Armored Bear Stuffy",
+            "Monarch Studies Book",
+            "Board Game"
+        ]
+    },
+    {
+        "name": "Dimitri",
+        "items": [
+            "Training Weight",
+            "Whetstone",
+            "Riding Boots",
+            "Ceremonial Sword"
+        ]
+    },
+    {
+        "name": "Claude",
+        "items": [
+            "Riding Boots",
+            "Book of Crest Designs",
+            "Exotic Spices",
+            "Board Game"
+        ]
+    },
+    {
+        "name": "Hubert",
+        "items": [
+            "Coffee Beans",
+            "Board Game",
+            "The History of Fodlan"
+        ]
+    },
+    {
+        "name": "Ferdinand",
+        "items": [
+            "Riding Boots",
+            "Whetstone",
+            "Tea Leaves"
+        ]
+    },
+    {
+        "name": "Linhardt",
+        "items": [
+            "Tasty Baked Treat",
+            "Book of Crest Designs",
+            "Fishing Float"
+        ]
+    },
+    {
+        "name": "Caspar",
+        "items": [
+            "Training Weight",
+            "Whetstone",
+            "Hunting Dagger",
+            "Smoked Meat"
+        ]
+    },
+    {
+        "name": "Bernadetta",
+        "items": [
+            "Pitcher Plant",
+            "Armored Bear Stuffy",
+            "Book of Sheet Music",
+            "Watering Can",
+            "Landscape Painting",
+            "Dapper Handkerchief"
+        ]
+    },
+    {
+        "name": "Dorothea",
+        "items": [
+            "Book of Sheet Music",
+            "Gemstone Beads",
+            "Stylish Hair Clip"
+        ]
+    },
+    {
+        "name": "Petra",
+        "items": [
+            "Sunflower",
+            "Hunting Dagger",
+            "Exotic Spices",
+            "Smoked Meat"
+        ]
+    },
+    {
+        "name": "Dedue",
+        "items": [
+            "Exotic Spices",
+            "Floral Adornment",
+            "Watering Can"
+        ]
+    },
+    {
+        "name": "Felix",
+        "items": [
+            "Smoked Meat",
+            "Hunting Dagger",
+            "Training Weight",
+            "Ceremonial Sword"
+        ]
+    },
+    {
+        "name": "Ashe",
+        "items": [
+            "Violet",
+            "Legends of Chivalry",
+            "Exotic Spices",
+            "Tasty Baked Treat",
+            "Ancient Coin"
+        ]
+    },
+    {
+        "name": "Sylvain",
+        "items": [
+            "Landscape Painting",
+            "Dapper Handkerchief",
+            "Board Game"
+        ]
+    },
+    {
+        "name": "Mercedes",
+        "items": [
+            "Lavender",
+            "Tasty Bake Treat",
+            "Goddess Statuette",
+            "Armored Bear Stuffy",
+            "Gemstone Beads"
+        ]
+    },
+    {
+        "name": "Annette",
+        "items": [
+            "Book of Sheet Music",
+            "Stylish Hair Clip",
+            "Arithmetic Textbook"
+        ]
+    },
+    {
+        "name": "Ingrid",
+        "items": [
+            "Riding Boots",
+            "Smoked Meat",
+            "Legends of Chivalry"
+        ]
+    },
+    {
+        "name": "Lorenz",
+        "items": [
+            "Rose",
+            "Floral Adornment",
+            "Tea Leaves",
+            "Book of Sheet Music"
+        ]
+    },
+    {
+        "name": "Raphael",
+        "items": [
+            "Smoked Meat",
+            "Training Weight",
+            "Tasty Baked Treat",
+            "Blue Cheese"
+        ]
+    },
+    {
+        "name": "Ignatz",
+        "items": [
+            "Forget-me-nots",
+            "Ancient Coin",
+            "Landscape Painting",
+            "Goddess Statuette",
+            "Ceremonial Sword"
+        ]
+    },
+    {
+        "name": "Lysithea",
+        "items": [
+            "Lily",
+            "Armored Bear Stuffy",
+            "Arithmetic Textbook",
+            "Tasty Baked Treat",
+            "Book of Crest Designs"
+        ]
+    },
+    {
+        "name": "Marianne",
+        "items": [
+            "Lily of the Valley",
+            "Dapper Handkerchief",
+            "Floral Adornment",
+            "Armored Bear Stuffy"
+        ]
+    },
+    {
+        "name": "Hilda",
+        "items": [
+            "Anemone",
+            "Gemstone Beads",
+            "Dapper Handkerchief",
+            "Book of Sheet Music",
+            "Stylish Hair Clip",
+            "Armored Bear Stuffy"
+        ]
+    },
+    {
+        "name": "Leonie",
+        "items": [
+            "Hunting Dagger",
+            "Training Weight",
+            "Fishing Float"
+        ]
+    },
+    {
+        "name": "Seteth",
+        "items": [
+            "The History of Fodlan",
+            "Fishing Float",
+            "Dapper Handkerchief"
+        ]
+    },
+    {
+        "name": "Flayn",
+        "items": [
+            "Forget-me-nots",
+            "Tasty Baked Treat",
+            "Armored Bear Stuffy",
+            "Stylish Hair Clip",
+            "Dapper Handkerchief"
+        ]
+    },
+    {
+        "name": "Hanneman",
+        "items": [
+            "Arithmetic Textbook",
+            "Tea Leaves",
+            "Book of Crest Designs",
+            "Dapper Handkerchief"
+        ]
+    },
+    {
+        "name": "Manuela",
+        "items": [
+            "Book of Sheet Music",
+            "Gemstone Beads",
+            "Blue Cheese",
+            "Goddess Statuette"
+        ]
+    },
+    {
+        "name": "Gilbert",
+        "items": [
+            "Goddess Statuette",
+            "Fishing Float",
+            "Ceremonial Sword"
+        ]
+    },
+    {
+        "name": "Alois",
+        "items": [
+            "Sunflower",
+            "Ancient Coin",
+            "Fishing Float",
+            "Floral Adornment"
+        ]
+    },
+    {
+        "name": "Catherine",
+        "items": [
+            "Training Weight",
+            "Whetstone",
+            "Legends of Chivalry",
+            "Blue Cheese"
+        ]
+    },
+    {
+        "name": "Shamir",
+        "items": [
+            "Sunflower",
+            "Exotic Spices",
+            "Coffee Beans",
+            "Hunting Dagger",
+            "Book of Sheet Music"
+        ]
+    },
+    {
+        "name": "Cyril",
+        "items": [
+            "Baby\u2019s Breath",
+            "Smoked Meat",
+            "Hunting Dagger",
+            "Watering Can"
+        ]
+    },
+    {
+        "name": "Jeralt",
+        "items": []
+    },
+    {
+        "name": "Rhea",
+        "items": [
+            "Landscape Painting",
+            "Goddess Statuette",
+            "Ancient Coin"
+        ]
+    },
+    {
+        "name": "Yuri",
+        "items": [
+            "Board Game",
+            "Tasty Baked Treat",
+            "Goddess Statuette",
+            "Arithmetic Textbook"
+        ]
+    },
+    {
+        "name": "Balthus",
+        "items": [
+            "Ancient Coin",
+            "Ceremonial Sword",
+            "Whetstone",
+            "Blue Cheese"
+        ]
+    },
+    {
+        "name": "Constance",
+        "items": [
+            "Lily of the Valley",
+            "Tea Leaves",
+            "Arithmetic Textbook",
+            "Book of Crest Designs"
+        ]
+    },
+    {
+        "name": "Hapi",
+        "items": [
+            "Pitcher Plant",
+            "Tasty Baked Treat",
+            "Smoked Meat",
+            "Exotic Spices",
+            "Coffee Beans",
+            "Hunting Dagger"
+        ]
+    },
+    {
+        "name": "Jeritza",
+        "items": [
+            "Rose",
+            "Tasty Baked Treat",
+            "Whetstone",
+            "Hunting Dagger"
+        ]
+    },
+    {
+        "name": "Anna",
+        "items": [
+            "Forget-me-nots",
+            "Exotic Spices",
+            "Coffee Beans",
+            "Blue Cheese",
+            "Landscape Painting",
+            "Goddess Statuette"
+        ]
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "name": "Protagonist",
+        "skill_level": "Faith",
+        "unlock": "White Magic Avoid +20",
+        "description": "Grants Avo +20 when using white magic."
+    },
+    {
+        "name": "Edelgard",
+        "skill_level": "Reason",
+        "unlock": "Black Magic Crit +10",
+        "description": "Grants Crit +10 when using black magic."
+    },
+    {
+        "name": "Dimitri",
+        "skill_level": "Riding",
+        "unlock": "Seal Movement",
+        "description": "If unit damages foe during combat, foe suffers Mv -1 for 1 turn after combat."
+    },
+    {
+        "name": "Claude",
+        "skill_level": "Axe",
+        "unlock": "Diamond Axe",
+        "description": "A powerful attack that greatly increases Mt."
+    },
+    {
+        "name": "Hubert",
+        "skill_level": "Lance",
+        "unlock": "Frozen Lance",
+        "description": "A magic attack. Mt increases based on unit\u2019s Dex."
+    },
+    {
+        "name": "Ferdinand",
+        "skill_level": "Heavy Armour",
+        "unlock": "Seal Speed",
+        "description": "If unit damages foe during combat, foe suffers Spd -6 for 1 turn after combat."
+    },
+    {
+        "name": "Bernadetta",
+        "skill_level": "Riding",
+        "unlock": "Pass",
+        "description": "Allows unit to pass through spaces occupied by foes."
+    },
+    {
+        "name": "Dorothea",
+        "skill_level": "Faith",
+        "unlock": "White Magic Avoid +20",
+        "description": "Grants Avo +20 when using white magic."
+    },
+    {
+        "name": "Felix",
+        "skill_level": "Reason",
+        "unlock": "Black Magic Crit +10",
+        "description": "Grants Crit +10 when using black magic."
+    },
+    {
+        "name": "Ashe",
+        "skill_level": "Lance",
+        "unlock": "Shatter Smash",
+        "description": "Enemies hit by this attack suffer -5 Def for 1 turn."
+    },
+    {
+        "name": "Sylvain",
+        "skill_level": "Reason",
+        "unlock": "Black Magic Avo +20",
+        "description": "Grants Avo +20 when using black magic."
+    },
+    {
+        "name": "Mercedes",
+        "skill_level": "Bow",
+        "unlock": "Waning Shot",
+        "description": "Enemies hit by this attack suffer -5 Str for 1 turn."
+    },
+    {
+        "name": "Ignatz",
+        "skill_level": "Reason",
+        "unlock": "Seal Strength",
+        "description": "If unit damages foe during combat, foe suffers Str -6 for 1 turn after combat."
+    },
+    {
+        "name": "Lysithea",
+        "skill_level": "Sword",
+        "unlock": "Soulblade",
+        "description": "A magic attack. Mt increases based on unit\u2019s Res."
+    },
+    {
+        "name": "Hilda",
+        "skill_level": "Heavy Armour",
+        "unlock": "Seal Speed",
+        "description": "If unit damages foe during combat, foe suffers Spd -6 for 1 turn after combat."
+    },
+    {
+        "name": "Marianne",
+        "skill_level": "Lance",
+        "unlock": "Frozen Lance",
+        "description": "A magic attack. Mt increases based on unit\u2019s Dex."
+    },
+    {
+        "name": "Flayn",
+        "skill_level": "Reason",
+        "unlock": "Seal Magic",
+        "description": "If unit damages foe during combat, foe suffers Mag -6 for 1 turn after combat."
+    },
+    {
+        "name": "Yuri",
+        "skill_level": "Bow",
+        "unlock": "Deadeye",
+        "description": "A bow attack with a long range."
+    },
+    {
+        "name": "Balthus",
+        "skill_level": "Reason",
+        "unlock": "Black Magic Crit +10",
+        "description": "Grants Crit +10 when using black magic."
+    },
+    {
+        "name": "Constance",
+        "skill_level": "Brawling",
+        "unlock": "Mystic Blow",
+        "description": "A magic attack."
+    },
+    {
+        "name": "Hapi",
+        "skill_level": "Axe",
+        "unlock": "Exhaustive Strike",
+        "description": "An attack that consumes all remaining durability and adds 30% of it to Mt."
+    },
+    {
+        "name": "Jeritza",
+        "skill_level": "Flying",
+        "unlock": "Darting Blow",
+        "description": "If unit initiates combat, grants AS +6 during combat"
+    },
+    {
+        "name": "Anna",
+        "skill_level": "Riding",
+        "unlock": "Pass",
+        "description": "Allows unit to pass through spaces occupied by foes."
+    }
+]

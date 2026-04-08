@@ -1,0 +1,247 @@
+[
+    {
+        "name": "Edelgard",
+        "skill_levels": [
+            "Sword",
+            "Axe",
+            "Authority",
+            "Heavy Armour"
+        ]
+    },
+    {
+        "name": "Annette",
+        "skill_levels": [
+            "Axe",
+            "Reason",
+            "Authority"
+        ]
+    },
+    {
+        "name": "Dimitri",
+        "skill_levels": [
+            "Sword",
+            "Lance",
+            "Authority"
+        ]
+    },
+    {
+        "name": "Ingrid",
+        "skill_levels": [
+            "Sword",
+            "Lance",
+            "Riding",
+            "Flying"
+        ]
+    },
+    {
+        "name": "Claude",
+        "skill_levels": [
+            "Sword",
+            "Bow",
+            "Authority",
+            "Riding",
+            "Flying"
+        ]
+    },
+    {
+        "name": "Lorenz",
+        "skill_levels": [
+            "Lance",
+            "Reason",
+            "Riding"
+        ]
+    },
+    {
+        "name": "Hubert",
+        "skill_levels": [
+            "Bow",
+            "Reason",
+            "Authority"
+        ]
+    },
+    {
+        "name": "Raphael",
+        "skill_levels": [
+            "Axe",
+            "Brawling",
+            "Heavy Armour"
+        ]
+    },
+    {
+        "name": "Ferdinand",
+        "skill_levels": [
+            "Sword",
+            "Lance",
+            "Axe",
+            "Riding"
+        ]
+    },
+    {
+        "name": "Ignatz",
+        "skill_levels": [
+            "Sword",
+            "Bow",
+            "Authority"
+        ]
+    },
+    {
+        "name": "Linhardt",
+        "skill_levels": [
+            "Reason",
+            "Faith"
+        ]
+    },
+    {
+        "name": "Lysithea",
+        "skill_levels": [
+            "Reason",
+            "Faith",
+            "Authority"
+        ]
+    },
+    {
+        "name": "Caspar",
+        "skill_levels": [
+            "Axe",
+            "Brawling"
+        ]
+    },
+    {
+        "name": "Marianne",
+        "skill_levels": [
+            "Sword",
+            "Faith",
+            "Riding",
+            "Flying"
+        ]
+    },
+    {
+        "name": "Bernadetta",
+        "skill_levels": [
+            "Lance",
+            "Bow"
+        ]
+    },
+    {
+        "name": "Hilda",
+        "skill_levels": [
+            "Lance",
+            "Axe"
+        ]
+    },
+    {
+        "name": "Dorothea",
+        "skill_levels": [
+            "Sword",
+            "Reason"
+        ]
+    },
+    {
+        "name": "Leonie",
+        "skill_levels": [
+            "Lance",
+            "Bow",
+            "Riding"
+        ]
+    },
+    {
+        "name": "Petra",
+        "skill_levels": [
+            "Sword",
+            "Axe",
+            "Bow",
+            "Riding"
+        ]
+    },
+    {
+        "name": "Flayn",
+        "skill_levels": [
+            "Lance",
+            "Faith"
+        ]
+    },
+    {
+        "name": "Dedue",
+        "skill_levels": [
+            "Lance",
+            "Axe",
+            "Brawling",
+            "Heavy Armour"
+        ]
+    },
+    {
+        "name": "Cyril",
+        "skill_levels": [
+            "Lance",
+            "Axe",
+            "Bow",
+            "Riding",
+            "Flying"
+        ]
+    },
+    {
+        "name": "Felix",
+        "skill_levels": [
+            "Sword",
+            "Bow",
+            "Brawling"
+        ]
+    },
+    {
+        "name": "Yuri",
+        "skill_levels": [
+            "Sword",
+            "Bow",
+            "Reason",
+            "Faith",
+            "Authority"
+        ]
+    },
+    {
+        "name": "Ashe",
+        "skill_levels": [
+            "Axe",
+            "Bow"
+        ]
+    },
+    {
+        "name": "Balthus",
+        "skill_levels": [
+            "Sword",
+            "Brawling",
+            "Heavy Armour"
+        ]
+    },
+    {
+        "name": "Sylvain",
+        "skill_levels": [
+            "Lance",
+            "Axe",
+            "Riding"
+        ]
+    },
+    {
+        "name": "Constance",
+        "skill_levels": [
+            "Sword",
+            "Reason",
+            "Authority",
+            "Flying"
+        ]
+    },
+    {
+        "name": "Mercedes",
+        "skill_levels": [
+            "Reason",
+            "Faith"
+        ]
+    },
+    {
+        "name": "Hapi",
+        "skill_levels": [
+            "Faith",
+            "Riding",
+            "Flying"
+        ]
+    }
+]

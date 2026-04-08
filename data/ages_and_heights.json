@@ -1,0 +1,506 @@
+[
+    {
+        "name": "Protagonist",
+        "house": "You",
+        "age": 21,
+        "birthday": null,
+        "height": {
+            "male": 175,
+            "female": 164,
+            "part_one": null,
+            "part_two": null
+        }
+    },
+    {
+        "name": "Edelgard",
+        "house": "Black Eagles",
+        "age": 17,
+        "birthday": "1900-06-22",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 158,
+            "part_two": 158
+        }
+    },
+    {
+        "name": "Hubert",
+        "house": "Black Eagles",
+        "age": 19,
+        "birthday": "1900-04-17",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 188,
+            "part_two": 188
+        }
+    },
+    {
+        "name": "Dorothea",
+        "house": "Black Eagles",
+        "age": 18,
+        "birthday": "1900-09-29",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 170,
+            "part_two": 170
+        }
+    },
+    {
+        "name": "Ferdinand",
+        "house": "Black Eagles",
+        "age": 17,
+        "birthday": "1900-04-30",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 175,
+            "part_two": 180
+        }
+    },
+    {
+        "name": "Bernadetta",
+        "house": "Black Eagles",
+        "age": 17,
+        "birthday": "1900-12-12",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 150,
+            "part_two": 165
+        }
+    },
+    {
+        "name": "Caspar",
+        "house": "Black Eagles",
+        "age": 16,
+        "birthday": "1900-07-01",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 159,
+            "part_two": 173
+        }
+    },
+    {
+        "name": "Petra",
+        "house": "Black Eagles",
+        "age": 15,
+        "birthday": "1900-09-07",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 161,
+            "part_two": 161
+        }
+    },
+    {
+        "name": "Linhardt",
+        "house": "Black Eagles",
+        "age": 16,
+        "birthday": "1900-11-07",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 177,
+            "part_two": 177
+        }
+    },
+    {
+        "name": "Dimitri",
+        "house": "Blue Lions",
+        "age": 17,
+        "birthday": "1900-12-20",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 180,
+            "part_two": 188
+        }
+    },
+    {
+        "name": "Dedue",
+        "house": "Blue Lions",
+        "age": 18,
+        "birthday": "1900-08-31",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 204,
+            "part_two": 204
+        }
+    },
+    {
+        "name": "Felix",
+        "house": "Blue Lions",
+        "age": 17,
+        "birthday": "1900-02-20",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 174,
+            "part_two": 174
+        }
+    },
+    {
+        "name": "Mercedes",
+        "house": "Blue Lions",
+        "age": 22,
+        "birthday": "1900-05-27",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 169,
+            "part_two": 169
+        }
+    },
+    {
+        "name": "Ashe",
+        "house": "Blue Lions",
+        "age": 16,
+        "birthday": "1900-10-17",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 164,
+            "part_two": 174
+        }
+    },
+    {
+        "name": "Annette",
+        "house": "Blue Lions",
+        "age": 16,
+        "birthday": "1900-05-09",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 151,
+            "part_two": 153
+        }
+    },
+    {
+        "name": "Sylvain",
+        "house": "Blue Lions",
+        "age": 19,
+        "birthday": "1900-06-05",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 186,
+            "part_two": 186
+        }
+    },
+    {
+        "name": "Ingrid",
+        "house": "Blue Lions",
+        "age": 17,
+        "birthday": "1900-01-04",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 165,
+            "part_two": 165
+        }
+    },
+    {
+        "name": "Claude",
+        "house": "Golden Deer",
+        "age": 17,
+        "birthday": "1900-07-24",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 175,
+            "part_two": 175
+        }
+    },
+    {
+        "name": "Lorenz",
+        "house": "Golden Deer",
+        "age": 18,
+        "birthday": "1900-06-13",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 188,
+            "part_two": 188
+        }
+    },
+    {
+        "name": "Hilda",
+        "house": "Golden Deer",
+        "age": 18,
+        "birthday": "1900-02-03",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 154,
+            "part_two": 154
+        }
+    },
+    {
+        "name": "Raphael",
+        "house": "Golden Deer",
+        "age": 17,
+        "birthday": "1900-05-18",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 190,
+            "part_two": 190
+        }
+    },
+    {
+        "name": "Lysithea",
+        "house": "Golden Deer",
+        "age": 15,
+        "birthday": "1900-02-28",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 148,
+            "part_two": 160
+        }
+    },
+    {
+        "name": "Ignatz",
+        "house": "Golden Deer",
+        "age": 17,
+        "birthday": "1900-03-14",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 164,
+            "part_two": 168
+        }
+    },
+    {
+        "name": "Marianne",
+        "house": "Golden Deer",
+        "age": 17,
+        "birthday": "1900-11-23",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 163,
+            "part_two": 163
+        }
+    },
+    {
+        "name": "Leonie",
+        "house": "Golden Deer",
+        "age": 19,
+        "birthday": "1900-08-21",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 168,
+            "part_two": 168
+        }
+    },
+    {
+        "name": "Rhea",
+        "house": "Church of Seiros",
+        "age": 28,
+        "birthday": null,
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 172,
+            "part_two": 172
+        }
+    },
+    {
+        "name": "Manuela",
+        "house": "Church of Seiros",
+        "age": 34,
+        "birthday": "1900-08-03",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 172,
+            "part_two": 172
+        }
+    },
+    {
+        "name": "Hanneman",
+        "house": "Church of Seiros",
+        "age": 51,
+        "birthday": "1900-02-08",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 190,
+            "part_two": 190
+        }
+    },
+    {
+        "name": "Seteth",
+        "house": "Church of Seiros",
+        "age": 26,
+        "birthday": "1900-12-27",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 182,
+            "part_two": 182
+        }
+    },
+    {
+        "name": "Flayn",
+        "house": "Church of Seiros",
+        "age": 17,
+        "birthday": "1900-07-12",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 151,
+            "part_two": 151
+        }
+    },
+    {
+        "name": "Cyril",
+        "house": "Church of Seiros",
+        "age": 14,
+        "birthday": "1900-10-25",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 148,
+            "part_two": 168
+        }
+    },
+    {
+        "name": "Jeralt",
+        "house": "Knights of Seiros",
+        "age": 45,
+        "birthday": null,
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 185,
+            "part_two": null
+        }
+    },
+    {
+        "name": "Catherine",
+        "house": "Knights of Seiros",
+        "age": 27,
+        "birthday": "1900-09-15",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 175,
+            "part_two": null
+        }
+    },
+    {
+        "name": "Alois",
+        "house": "Knights of Seiros",
+        "age": 44,
+        "birthday": "1900-12-01",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 174,
+            "part_two": null
+        }
+    },
+    {
+        "name": "Gilbert",
+        "house": "Knights of Seiros",
+        "age": 55,
+        "birthday": "1900-01-26",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 186,
+            "part_two": null
+        }
+    },
+    {
+        "name": "Shamir",
+        "house": "Knights of Seiros",
+        "age": 25,
+        "birthday": "1900-03-27",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 169,
+            "part_two": null
+        }
+    },
+    {
+        "name": "Yuri",
+        "house": "DLC Exclusive",
+        "age": 19,
+        "birthday": "1900-08-12",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 171,
+            "part_two": null
+        }
+    },
+    {
+        "name": "Balthus",
+        "house": "DLC Exclusive",
+        "age": 26,
+        "birthday": "1900-07-09",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 198,
+            "part_two": null
+        }
+    },
+    {
+        "name": "Constance",
+        "house": "DLC Exclusive",
+        "age": 18,
+        "birthday": "1900-03-20",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 164,
+            "part_two": null
+        }
+    },
+    {
+        "name": "Hapi",
+        "house": "DLC Exclusive",
+        "age": 20,
+        "birthday": "1900-01-15",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 169,
+            "part_two": null
+        }
+    },
+    {
+        "name": "Jeritza",
+        "house": "DLC Exclusive",
+        "age": 21,
+        "birthday": "1900-03-04",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 193,
+            "part_two": null
+        }
+    },
+    {
+        "name": "Anna",
+        "house": "DLC Exclusive",
+        "age": 25,
+        "birthday": "1900-06-09",
+        "height": {
+            "male": null,
+            "female": null,
+            "part_one": 168,
+            "part_two": null
+        }
+    }
+]

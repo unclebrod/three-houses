@@ -1,0 +1,817 @@
+[
+    {
+        "name": "Byleth (M)",
+        "supports": [
+            "Edelgard",
+            "Dimtri",
+            "Claude",
+            "Hubert",
+            "Ferdinand",
+            "Linhardt",
+            "Caspar",
+            "Bernadetta",
+            "Dorothea",
+            "Petra",
+            "Dedue",
+            "Felix",
+            "Ashe",
+            "Sylvain",
+            "Mercedes",
+            "Annette",
+            "Ingrid",
+            "Lorenz",
+            "Raphael",
+            "Ignatz",
+            "Lysithea",
+            "Marianne",
+            "Hilda",
+            "Seteth",
+            "Flayn",
+            "Hanneman",
+            "Manuela",
+            "Gilbert",
+            "Alois",
+            "Catherine",
+            "Shamir",
+            "Rhea",
+            "Sothis",
+            "Jeritza",
+            "Yuri",
+            "Balthus",
+            "Constance",
+            "Hapi"
+        ]
+    },
+    {
+        "name": "Byleth (F)",
+        "supports": [
+            "Edelgard",
+            "Dimtri",
+            "Claude",
+            "Hubert",
+            "Ferdinand",
+            "Linhardt",
+            "Caspar",
+            "Bernadetta",
+            "Dorothea",
+            "Petra",
+            "Dedue",
+            "Felix",
+            "Ashe",
+            "Sylvain",
+            "Mercedes",
+            "Annette",
+            "Ingrid",
+            "Lorenz",
+            "Raphael",
+            "Ignatz",
+            "Lysithea",
+            "Marianne",
+            "Hilda",
+            "Seteth",
+            "Flayn",
+            "Hanneman",
+            "Manuela",
+            "Gilbert",
+            "Alois",
+            "Catherine",
+            "Shamir",
+            "Rhea",
+            "Sothis",
+            "Jeritza",
+            "Yuri",
+            "Balthus",
+            "Constance",
+            "Hapi"
+        ]
+    },
+    {
+        "name": "Edelgard",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Hubert",
+            "Ferdinand",
+            "Linhardt",
+            "Caspar",
+            "Bernadetta",
+            "Dorothea",
+            "Petra",
+            "Lysithea",
+            "Hanneman",
+            "Manuela",
+            "Constance"
+        ]
+    },
+    {
+        "name": "Dimitri",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Dedue",
+            "Felix",
+            "Ashe",
+            "Sylvain",
+            "Mercedes",
+            "Annette",
+            "Ingrid",
+            "Raphael",
+            "Marianne",
+            "Flayn",
+            "Gilbert",
+            "Alois",
+            "Catherine",
+            "Hapi"
+        ]
+    },
+    {
+        "name": "Claude",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Petra",
+            "Annette",
+            "Ingrid",
+            "Lorenz",
+            "Raphael",
+            "Ignatz",
+            "Lysithea",
+            "Marainne",
+            "Hilda",
+            "Leonie",
+            "Flayn",
+            "Shamir",
+            "Cyril",
+            "Balthus"
+        ]
+    },
+    {
+        "name": "Hubert",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Edelgard",
+            "Ferdinand",
+            "Linhardt",
+            "Caspar",
+            "Bernadetta",
+            "Dorothea",
+            "Petra",
+            "Hanneman",
+            "Shamir"
+        ]
+    },
+    {
+        "name": "Ferdinand",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Edelgard",
+            "Hubert",
+            "Linhardt",
+            "Caspar",
+            "Bernadetta",
+            "Dorothea",
+            "Petra",
+            "Mercedes",
+            "Lorenz",
+            "Marianne",
+            "Hilda",
+            "Flayn",
+            "Manuela",
+            "Constance"
+        ]
+    },
+    {
+        "name": "Linhardt",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Edelgard",
+            "Hubert",
+            "Ferdinand",
+            "Caspar",
+            "Bernadetta",
+            "Dorothea",
+            "Petra",
+            "Annette",
+            "Lysithea",
+            "Marianne",
+            "Flayn",
+            "Hanneman",
+            "Catherine",
+            "Hapi"
+        ]
+    },
+    {
+        "name": "Caspar",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Edelgard",
+            "Hubert",
+            "Ferdinand",
+            "Linhardt",
+            "Bernadetta",
+            "Dorothea",
+            "Petra",
+            "Ashe",
+            "Annette",
+            "Raphael",
+            "Hilda",
+            "Catherine",
+            "Shamir"
+        ]
+    },
+    {
+        "name": "Bernadetta",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Edelgard",
+            "Hubert",
+            "Ferdinand",
+            "Linhardt",
+            "Caspar",
+            "Dorothea",
+            "Petra",
+            "Felix",
+            "Sylvain",
+            "Ingrid",
+            "Raphael",
+            "Leonie",
+            "Seteth",
+            "Alois",
+            "Jeritza",
+            "Yuri"
+        ]
+    },
+    {
+        "name": "Dorothea",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Edelgard",
+            "Hubert",
+            "Ferdinand",
+            "Linhardt",
+            "Caspar",
+            "Bernadetta",
+            "Petra",
+            "Felix",
+            "Sylvain",
+            "Ingrid",
+            "Lorenz",
+            "Hanneman",
+            "Manuela",
+            "Yuri"
+        ]
+    },
+    {
+        "name": "Petra",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Edelgard",
+            "Claude",
+            "Hubert",
+            "Ferdinand",
+            "Linhardt",
+            "Caspar",
+            "Bernadetta",
+            "Dorothea",
+            "Ashe",
+            "Ignatz",
+            "Alois",
+            "Shamir",
+            "Cyril"
+        ]
+    },
+    {
+        "name": "Dedue",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Dimitri",
+            "Dedue",
+            "Felix",
+            "Ashe",
+            "Sylvain",
+            "Mercedes",
+            "Annette",
+            "Ingrid",
+            "Flayn",
+            "Gilbert",
+            "Shamir"
+        ]
+    },
+    {
+        "name": "Felix",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Dimitri",
+            "Dedue",
+            "Bernadetta",
+            "Dorothea",
+            "Ashe",
+            "Sylvain",
+            "Mercedes",
+            "Annette",
+            "Ingrid",
+            "Lysithea",
+            "Leonie",
+            "Seteth",
+            "Flayn"
+        ]
+    },
+    {
+        "name": "Ashe",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Dimitri",
+            "Caspar",
+            "Petra",
+            "Dedue",
+            "Felix",
+            "Sylvain",
+            "Mercedes",
+            "Annette",
+            "Ingrid",
+            "Marianne",
+            "Gilbert",
+            "Catherine",
+            "Cyril",
+            "Hapi"
+        ]
+    },
+    {
+        "name": "Sylvain",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Dimitri",
+            "Bernadetta",
+            "Dorothea",
+            "Dedue",
+            "Felix",
+            "Ashe",
+            "Mercedes",
+            "Annette",
+            "Ingrid",
+            "Lorenz",
+            "Lysithea",
+            "Marianne",
+            "Hilda",
+            "Leonie",
+            "Flayn",
+            "Manuela"
+        ]
+    },
+    {
+        "name": "Mercedes",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Dimitri",
+            "Ferdinand",
+            "Dedue",
+            "Felix",
+            "Ashe",
+            "Sylvain",
+            "Annette",
+            "Ingrid",
+            "Lorenz",
+            "Ignatz",
+            "Hilda",
+            "Alois",
+            "Cyril",
+            "Jeritza",
+            "Constance"
+        ]
+    },
+    {
+        "name": "Annette",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Dimitri",
+            "Claude",
+            "Linhardt",
+            "Caspar",
+            "Dedue",
+            "Felix",
+            "Ashe",
+            "Sylvain",
+            "Mercedes",
+            "Ingrid",
+            "Lysithea",
+            "Hilda",
+            "Hanneman",
+            "Gilbert"
+        ]
+    },
+    {
+        "name": "Ingrid",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Dimitri",
+            "Claude",
+            "Bernadetta",
+            "Dorothea",
+            "Dedue",
+            "Felix",
+            "Ashe",
+            "Sylvain",
+            "Mercedes",
+            "Annette",
+            "Raphael",
+            "Ignatz",
+            "Seteth",
+            "Catherine",
+            "Yuri"
+        ]
+    },
+    {
+        "name": "Lorenz",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Claude",
+            "Ferdinand",
+            "Dorothea",
+            "Sylvain",
+            "Mercedes",
+            "Raphael",
+            "Ignatz",
+            "Lysithea",
+            "Marianne",
+            "Hilda",
+            "Leonie",
+            "Manuela",
+            "Catherine"
+        ]
+    },
+    {
+        "name": "Raphael",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Dimitri",
+            "Claude",
+            "Caspar",
+            "Bernadetta",
+            "Ingrid",
+            "Lorenz",
+            "Ignatz",
+            "Lysithea",
+            "Marianne",
+            "Hilda",
+            "Leonie",
+            "Flayn",
+            "Shamir"
+        ]
+    },
+    {
+        "name": "Ignatz",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Claude",
+            "Petra",
+            "Mercedes",
+            "Ingrid",
+            "Lorenz",
+            "Raphael",
+            "Lysithea",
+            "Marianne",
+            "Hilda",
+            "Leonie",
+            "Flayn",
+            "Shamir",
+            "Cyril"
+        ]
+    },
+    {
+        "name": "Lysithea",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Edelgard",
+            "Claude",
+            "Linhardt",
+            "Felix",
+            "Sylvain",
+            "Annette",
+            "Lorenz",
+            "Raphael",
+            "Ignatz",
+            "Marianne",
+            "Hilda",
+            "Leonie",
+            "Hanneman",
+            "Catherine",
+            "Cyril",
+            "Balthus"
+        ]
+    },
+    {
+        "name": "Marianne",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Dimitri",
+            "Claude",
+            "Ferdinand",
+            "Linhardt",
+            "Ashe",
+            "Sylvain",
+            "Lorenz",
+            "Raphael",
+            "Ignatz",
+            "Lysithea",
+            "Hilda",
+            "Leonie",
+            "Hanneman"
+        ]
+    },
+    {
+        "name": "Hilda",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Claude",
+            "Ferdinand",
+            "Caspar",
+            "Sylvain",
+            "Mercedes",
+            "Annette",
+            "Lorenz",
+            "Raphael",
+            "Ignatz",
+            "Lysithea",
+            "Marianne",
+            "Leonie",
+            "Seteth",
+            "Cyril",
+            "Balthus"
+        ]
+    },
+    {
+        "name": "Leonie",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Claude",
+            "Bernadetta",
+            "Felix",
+            "Sylvain",
+            "Lorenz",
+            "Raphael",
+            "Ignatz",
+            "Lysithea",
+            "Marianne",
+            "Hilda",
+            "Seteth",
+            "Alois",
+            "Catherine",
+            "Shamir"
+        ]
+    },
+    {
+        "name": "Seteth",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Bernadetta",
+            "Felix",
+            "Ingrid",
+            "Hilda",
+            "Leonie",
+            "Flayn",
+            "Hanneman",
+            "Manuela",
+            "Catherine",
+            "Cyril"
+        ]
+    },
+    {
+        "name": "Flayn",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Dimitri",
+            "Claude",
+            "Ferdinand",
+            "Linhardt",
+            "Dedue",
+            "Felix",
+            "Sylvain",
+            "Raphael",
+            "Ignatz",
+            "Seteth",
+            "Manuela"
+        ]
+    },
+    {
+        "name": "Hanneman",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Edelgard",
+            "Hubert",
+            "Linhardt",
+            "Dorothea",
+            "Annette",
+            "Lysithea",
+            "Marianne",
+            "Seteth",
+            "Manuela",
+            "Gilbert",
+            "Alois"
+        ]
+    },
+    {
+        "name": "Manuela",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Edelgard",
+            "Ferdinand",
+            "Dorothea",
+            "Sylvain",
+            "Lorenz",
+            "Seteth",
+            "Flayn",
+            "Hanneman",
+            "Gilbert",
+            "Alois",
+            "Cyril"
+        ]
+    },
+    {
+        "name": "Gilbert",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Dimitri",
+            "Dedue",
+            "Ashe",
+            "Annette",
+            "Hanneman",
+            "Manuela",
+            "Alois",
+            "Catherine"
+        ]
+    },
+    {
+        "name": "Alois",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Dimitri",
+            "Bernadetta",
+            "Petra",
+            "Mercedes",
+            "Leonie",
+            "Hanneman",
+            "Manuela",
+            "Gilbert",
+            "Catherine",
+            "Shamir"
+        ]
+    },
+    {
+        "name": "Catherine",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Dimitri",
+            "Linhardt",
+            "Caspar",
+            "Ashe",
+            "Ingrid",
+            "Lorenz",
+            "Lysithea",
+            "Leonie",
+            "Seteth",
+            "Gilbert",
+            "Alois",
+            "Shamir"
+        ]
+    },
+    {
+        "name": "Shamir",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Claude",
+            "Hubert",
+            "Caspar",
+            "Petra",
+            "Dedue",
+            "Raphael",
+            "Ignatz",
+            "Leonie",
+            "Alois",
+            "Catherine",
+            "Cyril"
+        ]
+    },
+    {
+        "name": "Cyril",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Claude",
+            "Petra",
+            "Ashe",
+            "Mercedes",
+            "Ignatz",
+            "Lysithea",
+            "Hilda",
+            "Seteth",
+            "Manuela",
+            "Shamir"
+        ]
+    },
+    {
+        "name": "Rhea",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)"
+        ]
+    },
+    {
+        "name": "Sothis",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)"
+        ]
+    },
+    {
+        "name": "Jeritza",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Bernadetta",
+            "Mercedes",
+            "Constance"
+        ]
+    },
+    {
+        "name": "Yuri",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Bernadetta",
+            "Dorothea",
+            "Ingrid",
+            "Balthus",
+            "Constance",
+            "Hapi"
+        ]
+    },
+    {
+        "name": "Balthus",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Claude",
+            "Lysithea",
+            "Hilda",
+            "Yuri",
+            "Constance",
+            "Hapi"
+        ]
+    },
+    {
+        "name": "Constance",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Edelgard",
+            "Ferdinand",
+            "Mercedes",
+            "Jeritza",
+            "Yuri",
+            "Balthus",
+            "Hapi"
+        ]
+    },
+    {
+        "name": "Hapi",
+        "supports": [
+            "Byleth (M)",
+            "Byleth (F)",
+            "Dimitri",
+            "Linhardt",
+            "Ashe",
+            "Yuri",
+            "Balthus",
+            "Constance"
+        ]
+    }
+]

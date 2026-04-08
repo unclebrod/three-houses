@@ -1,0 +1,4525 @@
+[
+    {
+        "name": "Edelgard",
+        "house": "Black Eagles",
+        "favorite_teas": [
+            "Bergamot"
+        ],
+        "interested_topics": [
+            "A new gambit\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Tell me about yourself\u2026",
+            "A strong battalion\u2026",
+            "Hopes for your future\u2026",
+            "Thanks for everything\u2026",
+            "A word of advice\u2026",
+            "I heard some gossip\u2026",
+            "The existence of Crests\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "I\u2019m counting on you\u2026",
+            "The ideal professor\u2026",
+            "Capable comrades\u2026",
+            "Monastery mysteries\u2026",
+            "The last battle\u2026",
+            "Cats\u2026",
+            "Monastery rules\u2026",
+            "The library\u2019s collection\u2026",
+            "Classes you might enjoy\u2026",
+            "Monastery security\u2026",
+            "The opera\u2026",
+            "Close calls\u2026",
+            "Our first meeting\u2026",
+            "The view from the bridge\u2026",
+            "Dreaming of lazy days\u2026",
+            "Overcoming weaknesses\u2026",
+            "Things that bother you\u2026",
+            "Equipment upkeep\u2026",
+            "Past laughs\u2026",
+            "Things you find romantic\u2026",
+            "Evaluating allies\u2026",
+            "Plans for the future\u2026",
+            "You seem different\u2026",
+            "Exploring the monastery\u2026",
+            "Reliable allies\u2026",
+            "You\u2019re doing great work\u2026",
+            "Favorite sweets\u2026",
+            "School days\u2026",
+            "Your ambitions\u2026",
+            "Fodlan\u2019s future\u2026",
+            "School uniforms\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "It upsets Hubert when I spend time alone with you. I\u2019ll refrain from telling him about this.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "If I hadn\u2019t been born to House Hresvelg, I imagine life would have been much simpler.",
+                "valid_answers": [
+                    "Laugh",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "You\u2019re much more meticulous than I would have guessed.",
+                "valid_answers": [
+                    "Nod",
+                    "Disagree",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "A moment of relaxation\u2026 It has been a while. I find spending these quiet moments with you rather comforting.",
+                "valid_answers": [
+                    "Sip tea",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "Do you remember the day we met? You protected me from those bandits.",
+                "valid_answers": [
+                    "Nod",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "You\u2019re always so calm.",
+                "valid_answers": [
+                    "Disagree",
+                    "Sigh",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "One day, I\u2019ll show you around the palace in Enbarr. It has a lovely garden.",
+                "valid_answers": [
+                    "Nod"
+                ]
+            },
+            {
+                "comment": "Here I can take a break from the burden of being emperor. Perhaps that\u2019s why I\u2019m so comfortable with you.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I have no intention of handing the Imperial throne over to any child I might have. Instead, I\u2019ll choose an outsider who\u2019s brilliant and kind.",
+                "valid_answers": [
+                    "Commend",
+                    "Chat",
+                    "Praise"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dimitri",
+        "house": "Blue Lions",
+        "favorite_teas": [
+            "Chamomile"
+        ],
+        "interested_topics": [
+            "A new gambit\u2026",
+            "I\u2019m counting on you\u2026",
+            "Tell me about yourself\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "Mighty weapons\u2026",
+            "Thanks for everything\u2026",
+            "A strong battalion\u2026",
+            "Monastery rules\u2026",
+            "The ideal professor\u2026",
+            "A word of advice\u2026",
+            "Monastery security\u2026",
+            "The last battle\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "Our first meeting\u2026",
+            "The library\u2019s collection\u2026",
+            "Children at the market\u2026",
+            "Overcoming weaknesses\u2026",
+            "The view from the bridge\u2026",
+            "Close calls\u2026",
+            "Past laughs\u2026",
+            "Things that bother you\u2026",
+            "Cooking mishaps\u2026",
+            "Potential training partners\u2026",
+            "Working hours for guards\u2026",
+            "Equipment upkeep\u2026",
+            "Reliable allies\u2026",
+            "Working together\u2026",
+            "Evaluating allies\u2026",
+            "School days\u2026",
+            "You seem well\u2026",
+            "Exploring the monastery\u2026",
+            "Someone you look up to\u2026",
+            "You\u2019re doing great work\u2026",
+            "Fodlan\u2019s future\u2026",
+            "Sturdy weapons\u2026",
+            "Your ambitions\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "Please join me for training when you have the time. There is much I could learn from you.",
+                "valid_answers": [
+                    "Nod",
+                    "Disagree",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I cannot tell you how long it has been since I indulged in a nice, relaxing conversation\u2026",
+                "valid_answers": [
+                    "Laugh",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I apologize for troubling you. I am grateful for your support.",
+                "valid_answers": [
+                    "Nod",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "Perhaps because of my strength, I have always been rather clumsy. I always end up breaking things that are precious\u2026",
+                "valid_answers": [
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "When I feel down, I go out for a long ride on my own. There is no place more relaxing than a trusted steed\u2019s back.",
+                "valid_answers": [
+                    "Nod"
+                ]
+            },
+            {
+                "comment": "I do my training, and then care for my swords and spears\u2026and then the day is over before I know it.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "You really helped me. More than I can say. If it weren\u2019t for you, I do not know where I would be now\u2026",
+                "valid_answers": [
+                    "Disagree",
+                    "Blush",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I would invite you to my quarters next, but I fear my space is so bare it is almost laughable.",
+                "valid_answers": [
+                    "Laugh",
+                    "Disagree"
+                ]
+            },
+            {
+                "comment": "These last five years, I have been many places, and I have seen many things.",
+                "valid_answers": [
+                    "Chat",
+                    "Praise"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Claude",
+        "house": "Golden Deer",
+        "favorite_teas": [
+            "Almyran Pine Needles",
+            "Chamomile"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Food in the dining hall\u2026",
+            "Plans for the future\u2026",
+            "A new gambit\u2026",
+            "Gardening mishaps\u2026",
+            "Reliable allies\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "School days\u2026",
+            "A strong battalion\u2026",
+            "Guessing someone\u2019s age\u2026",
+            "Strange fish in the pond\u2026",
+            "A word of advice\u2026",
+            "Hopes for your future\u2026",
+            "Tell me about yourself\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "I heard some gossip\u2026",
+            "Thanks for everything\u2026",
+            "Capable comrades\u2026",
+            "I\u2019m counting on you\u2026",
+            "The existence of Crests\u2026",
+            "Celebrations\u2026",
+            "Likable allies\u2026",
+            "The ideal professor\u2026",
+            "Children at the market\u2026",
+            "Mighty weapons\u2026",
+            "The last battle\u2026",
+            "Classes you might enjoy\u2026",
+            "Monastery mysteries\u2026",
+            "The library\u2019s collection\u2026",
+            "Close calls\u2026",
+            "Monastery security\u2026",
+            "Things that bother you\u2026",
+            "Equipment upkeep\u2026",
+            "Our first meeting\u2026",
+            "Working together\u2026",
+            "Evaluating allies\u2026",
+            "Overcoming weaknesses\u2026",
+            "You seem different\u2026",
+            "Exploring the monastery\u2026",
+            "Past laughs\u2026",
+            "You seem well\u2026",
+            "Fodlan\u2019s future\u2026",
+            "Perfect recipes\u2026",
+            "Your ambitions\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "You\u2019re such a mystery.",
+                "valid_answers": [
+                    "Disagree"
+                ]
+            },
+            {
+                "comment": "I want to know more about you.",
+                "valid_answers": [
+                    "Nod"
+                ]
+            },
+            {
+                "comment": "Do you really have time for this? I know how busy you are\u2026",
+                "valid_answers": [
+                    "Disagree",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I feel like we\u2019ve known each other for a while, and yet, I\u2019m still fascinated by you.",
+                "valid_answers": [
+                    "Laugh",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "You\u2019re not like the others. You\u2019re an outsider, just like me.",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "There are too many mysteries in this world. I wonder how many we can solve in our lifetime\u2026",
+                "valid_answers": [
+                    "Nod",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I\u2019ll take you to my hometown one day. There are some truly tasty dishes you can\u2019t find in Fodlan.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "By the way, they\u2019ve discovered a new kind of poison mushroom. When you eat it, your body exudes a mysterious steam! Um, or so I hear\u2026",
+                "valid_answers": [
+                    "Laugh",
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "You\u2019ve become quite expressive, haven\u2019t you? You weren\u2019t like that when we first met.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh",
+                    "Blush"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Seteth",
+        "house": "Church of Seiros",
+        "favorite_teas": [
+            "Four-Spice Blend",
+            "Ginger Tea",
+            "Angelica Tea"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Flayn\u2026",
+            "Reliable allies\u2026",
+            "A new gambit\u2026",
+            "Fodlan\u2019s future\u2026",
+            "Tell me about yourself\u2026",
+            "A strong battalion\u2026",
+            "Guessing someone\u2019s age\u2026",
+            "Thanks for everything\u2026",
+            "A word of advice\u2026",
+            "Hopes for your future\u2026",
+            "The ideal professor\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "I heard some gossip\u2026",
+            "The last battle\u2026",
+            "Capable comrades\u2026",
+            "I\u2019m counting on you\u2026",
+            "The library\u2019s collection\u2026",
+            "Children at the market\u2026",
+            "Likable allies\u2026",
+            "The opera\u2026",
+            "Classes you might enjoy\u2026",
+            "Mighty weapons\u2026",
+            "Things that bother you\u2026",
+            "Close calls\u2026",
+            "Monastery rules\u2026",
+            "Working hours for guards\u2026",
+            "Equipment upkeep\u2026",
+            "Monastery security\u2026",
+            "Working together\u2026",
+            "Evaluating allies\u2026",
+            "Our first meeting\u2026",
+            "You\u2019re doing great work\u2026",
+            "Exploring the monastery\u2026",
+            "Relaxing at the sauna\u2026",
+            "Your ambitions\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "I wonder why the archbishop is so interested in you.",
+                "valid_answers": [
+                    "Chat",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I do hope you will inform me of any issues you may encounter in the monastery.",
+                "valid_answers": [
+                    "Nod"
+                ]
+            },
+            {
+                "comment": "I know I speak harshly at times, but I hope you understand that I am merely doing my job.",
+                "valid_answers": [
+                    "Nod",
+                    "Sigh"
+                ]
+            },
+            {
+                "comment": "You have become very special to us.",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "The more you learn about yourself, the more paths will become open to you.",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "If there is anything I can do for you, please tell me.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "When my own thoughts grow tiresome, I go fishing. You should join me sometime.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "Whatever happens, know I am proud to support you.",
+                "valid_answers": [
+                    "Chat",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I put up a stiff front with people, due to my position. But that\u2019s not really me.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh",
+                    "Blush"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hubert",
+        "house": "Black Eagles",
+        "favorite_teas": [
+            "Dagda Fruit Blend",
+            "Cinnamon Blend"
+        ],
+        "interested_topics": [
+            "A new gambit\u2026",
+            "Fodlan\u2019s future\u2026",
+            "Reliable allies\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "Guessing someone\u2019s age\u2026",
+            "Someone you look up to\u2026",
+            "A strong battalion\u2026",
+            "I heard some gossip\u2026",
+            "Successful plots\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "I\u2019m counting on you\u2026",
+            "The last battle\u2026",
+            "Capable comrades\u2026",
+            "Mighty weapons\u2026",
+            "The library\u2019s collection\u2026",
+            "Close calls\u2026",
+            "Monastery mysteries\u2026",
+            "Working together\u2026",
+            "Equipment upkeep\u2026",
+            "Monastery rules\u2026",
+            "Your ambitions\u2026",
+            "Evaluating allies\u2026",
+            "Monastery security\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "While I am quite busy, this is not a waste of my time. I\u2019m grateful for the opportunity to observe you.",
+                "valid_answers": [
+                    "Sigh",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "The head of House Vestra has always been a minister to the emperor.",
+                "valid_answers": [
+                    "Commend",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Lady Edelgard has taken a liking to you. She will want to hear all about this.",
+                "valid_answers": [
+                    "Nod",
+                    "Disagree"
+                ]
+            },
+            {
+                "comment": "Most who spend time around me seem to become bored and depressed. Heh. Can\u2019t imagine why.",
+                "valid_answers": [
+                    "Disagree",
+                    "Admonish",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Sometimes your insights are so keen they seem to border on precognition.",
+                "valid_answers": [
+                    "Disagree",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "House Vestra is one of few noble houses not to lay claim to any territory.",
+                "valid_answers": [
+                    "Commend",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "As a humble servant to Her Majesty, I sometimes envy the status she has given you.",
+                "valid_answers": [
+                    "Disagree",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "For choosing to walk this path with Her Majesty, you have my eternal gratitude.",
+                "valid_answers": [
+                    "Nod",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "Sometimes I like to imagine that you were sent to us by a rival of the goddess to bring her low.",
+                "valid_answers": [
+                    "Chat",
+                    "Blush"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dedue",
+        "house": "Blue Lions",
+        "favorite_teas": [
+            "Cinnamon Blend",
+            "Four-Spice Blend",
+            "Ginger Tea"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Food in the dining hall\u2026",
+            "Shareable snacks\u2026",
+            "A strong battalion\u2026",
+            "Gardening mishaps\u2026",
+            "Someone you look up to\u2026",
+            "A word of advice\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Strange fish in the pond\u2026",
+            "Capable comrades\u2026",
+            "I\u2019m counting on you\u2026",
+            "Thanks for everything\u2026",
+            "Cooking mishaps\u2026",
+            "Monastery security\u2026",
+            "The last battle\u2026",
+            "Dimitri\u2026",
+            "Our first meeting\u2026",
+            "Working hours for guards\u2026",
+            "Equipment upkeep\u2026",
+            "Overcoming weaknesses\u2026",
+            "Working together\u2026",
+            "Exploring the monastery\u2026",
+            "Perfect recipes\u2026",
+            "Your ambitions\u2026",
+            "Favorite sweets\u2026",
+            "Potential training partners\u2026",
+            "Fodlan\u2019s future\u2026",
+            "Reliable allies\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "Was there something you wanted to discuss?",
+                "valid_answers": [
+                    "Nod",
+                    "Sip tea",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I do not like classrooms. I would rather learn at my own pace.",
+                "valid_answers": [
+                    "Disagree",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I am the sword and shield of His Highness. I must constantly work to improve.",
+                "valid_answers": [
+                    "Commend",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Should I have brought sweets?",
+                "valid_answers": [
+                    "Nod",
+                    "Disagree"
+                ]
+            },
+            {
+                "comment": "This life was given to me by His Highness. I do not intend to give it to anyone else.",
+                "valid_answers": [
+                    "Commend",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "The flowers in the greenhouse are in bloom. You should have a look later.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "I feel comfortable here.",
+                "valid_answers": [
+                    "Laugh",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "Next time, you should visit me. I will prepare tea and cake.",
+                "valid_answers": [
+                    "Nod",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "Long ago, I once held a grudge against the blood of Duscur. Now, I\u2026 Well, it is not important.",
+                "valid_answers": [
+                    "Chat",
+                    "Praise"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lorenz",
+        "house": "Golden Deer",
+        "favorite_teas": [
+            "Bergamot",
+            "Rose Petal Blend",
+            "Seiros Tea"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Hopes for your future\u2026",
+            "Someone you look up to\u2026",
+            "A new gambit\u2026",
+            "I\u2019m counting on you\u2026",
+            "Tell me about yourself\u2026",
+            "A word of advice\u2026",
+            "Likable allies\u2026",
+            "Thanks for everything\u2026",
+            "Capable comrades\u2026",
+            "Monastery rules\u2026",
+            "The existence of Crests\u2026",
+            "Cute monks\u2026",
+            "Our first meeting\u2026",
+            "The ideal professor\u2026",
+            "Dining partners\u2026",
+            "Overcoming weaknesses\u2026",
+            "The ideal relationship\u2026",
+            "Dreamy knights\u2026",
+            "Past laughs\u2026",
+            "The opera\u2026",
+            "Evaluating allies\u2026",
+            "Plans for the future\u2026",
+            "Things that bother you\u2026",
+            "Exploring the monastery\u2026",
+            "Relaxing at the sauna\u2026",
+            "Things you find romantic\u2026",
+            "Fashion\u2026",
+            "Reliable allies\u2026",
+            "Working together\u2026",
+            "First crushes\u2026",
+            "Roses\u2026",
+            "You seem different\u2026",
+            "Fodlan\u2019s future\u2026",
+            "School days\u2026",
+            "You seem well\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "School uniforms\u2026",
+            "Your ambitions\u2026",
+            "Heart-racing memories\u2026",
+            "Shareable snacks\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "A noble\u2019s life is full of rigid expectation. I sometimes envy the freedom of commoners.",
+                "valid_answers": [
+                    "Disagree",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "The rose perfectly embodies the blend of elegance and power that I seek to possess.",
+                "valid_answers": [
+                    "Nod",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "Do not concern yourself with the rumors. It is not possible for a lady to find me irritating.",
+                "valid_answers": [
+                    "Admonish",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "Even a noble needs a break now and then. One cannot be at one\u2019s best all the time.",
+                "valid_answers": [
+                    "Nod",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I am not mindlessly following my father. When it is time to make a choice, I decide what I will do.",
+                "valid_answers": [
+                    "Commend",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "You are quite an intriguing person. I would be lying if I said I did not find you fascinating.",
+                "valid_answers": [
+                    "Laugh",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "Being here helps soothe the heartache from all the bloodshed of this war.",
+                "valid_answers": [
+                    "Nod",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I cannot yet speak to you as an equal. Not when there is still so much left to learn.",
+                "valid_answers": [
+                    "Commend",
+                    "Disagree",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I hope it is not untoward of me to ask, but\u2026might I stay a little longer?",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh",
+                    "Blush"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Flayn",
+        "house": "Church of Seiros",
+        "favorite_teas": [
+            "Sweet-Apple Blend",
+            "Crescent-Moon Tea",
+            "Almond Blend"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Tell me about yourself\u2026",
+            "A word of advice\u2026",
+            "Guessing someone\u2019s age\u2026",
+            "Thanks for everything\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "Heart-racing memories\u2026",
+            "The courtyard couple\u2026",
+            "Cats\u2026",
+            "Hopes for your future\u2026",
+            "The ideal professor\u2026",
+            "Children at the market\u2026",
+            "I heard some gossip\u2026",
+            "The ideal relationship\u2026",
+            "Close calls\u2026",
+            "I\u2019m counting on you\u2026",
+            "The library\u2019s collection\u2026",
+            "Cooking mishaps\u2026",
+            "Likable allies\u2026",
+            "The opera\u2026",
+            "Cute monks\u2026",
+            "Our first meeting\u2026",
+            "The view from the bridge\u2026",
+            "Dining partners\u2026",
+            "Past laughs\u2026",
+            "Things that bother you\u2026",
+            "Dreamy knights\u2026",
+            "Perfect recipes\u2026",
+            "Things you find romantic\u2026",
+            "Favorite sweets\u2026",
+            "Plans for the future\u2026",
+            "Working together\u2026",
+            "First crushes\u2026",
+            "Potential training partners\u2026",
+            "You seem well\u2026",
+            "Fish and the sea\u2026",
+            "School days\u2026",
+            "You\u2019re doing great work\u2026",
+            "Fodlan\u2019s future\u2026",
+            "Shareable snacks\u2026",
+            "Gardening mishaps\u2026",
+            "Strange fish in the pond\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "Lively places are my favorite. I like the monastery because there are always so many people bustling about.",
+                "valid_answers": [
+                    "Nod",
+                    "\u2014"
+                ]
+            },
+            {
+                "comment": "I desire to see the ocean again\u2013it is difficult being so far away from it",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "You are an interesting person, Professor. You do not seem to know much about yourself.",
+                "valid_answers": [
+                    "Nod",
+                    "Disagree"
+                ]
+            },
+            {
+                "comment": "Have you any idea how many types of fish there are? It is unthinkable\u2013their different sizes, shapes, colors\u2026 I find it fascinating!",
+                "valid_answers": [
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "Whenever I look at you, a wave of nostalgia washes over me. I wonder why that is.",
+                "valid_answers": [
+                    "Laugh",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I have a fear of sleeping. I worry that I will awake, and everyone I know and love will have vanished.",
+                "valid_answers": [
+                    "Disagree",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I was born in Enbarr, though I have lived in remote lands far away, at times\u2026",
+                "valid_answers": [
+                    "Nod"
+                ]
+            },
+            {
+                "comment": "You and I are of a rare breed. We should take care of each other.",
+                "valid_answers": [
+                    "Nod"
+                ]
+            },
+            {
+                "comment": "Even if I fall asleep, please do not leave my side. Promise you will stay near.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh",
+                    "Blush"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ferdinand",
+        "house": "Black Eagles",
+        "favorite_teas": [
+            "Almyran Pine Needles",
+            "Southern Fruit Blend",
+            "Seiros Tea"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Food in the dining hall\u2026",
+            "Tell me about yourself\u2026",
+            "A strong battalion\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Thanks for everything\u2026",
+            "A word of advice\u2026",
+            "Guessing someone\u2019s age\u2026",
+            "The existence of Crests\u2026",
+            "Capable comrades\u2026",
+            "Heart-racing memories\u2026",
+            "The ideal professor\u2026",
+            "Children at the market\u2026",
+            "Hopes for your future\u2026",
+            "The ideal relationship\u2026",
+            "Classes you might enjoy\u2026",
+            "I heard some gossip\u2026",
+            "The last battle\u2026",
+            "Close calls\u2026",
+            "I\u2019m counting on you\u2026",
+            "The meaning of nobility\u2026",
+            "Cooking mishaps\u2026",
+            "Likable allies\u2026",
+            "The opera\u2026",
+            "Cute monks\u2026",
+            "Mighty weapons\u2026",
+            "Things that bother you\u2026",
+            "Dining partners\u2026",
+            "Monastery rules\u2026",
+            "Things you find romantic\u2026",
+            "Dreamy knights\u2026",
+            "Past laughs\u2026",
+            "Working together\u2026",
+            "Equipment upkeep\u2026",
+            "Plans for the future\u2026",
+            "You seem different\u2026",
+            "Evaluating allies\u2026",
+            "Potential training partners\u2026",
+            "You seem well\u2026",
+            "Exploring the monastery\u2026",
+            "Relaxing at the sauna\u2026",
+            "You\u2019re doing great work\u2026",
+            "Fashion\u2026",
+            "School days\u2026",
+            "Your ambitions\u2026",
+            "First crushes\u2026",
+            "School uniforms\u2026",
+            "Fodlan\u2019s future\u2026",
+            "Someone you look up to\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "You have a way of making people feel comfortable. I almost cannot help telling you everything.",
+                "valid_answers": [
+                    "Disagree",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "Since I was a child, I have loved riding horses and fighting. People used to tell me to act more like a noble.",
+                "valid_answers": [
+                    "Laugh",
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "You often hear stories of nobles and commoners in love. I am not against such things, but reality is not so simple.",
+                "valid_answers": [
+                    "Nod",
+                    "Commend",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "When I am unhappy, I try to bestow happiness upon others. Such is the way of the true noble.",
+                "valid_answers": [
+                    "Sigh",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "You treat everyone the same, regardless of status. Perhaps I should do that as well.",
+                "valid_answers": [
+                    "Commend",
+                    "Blush",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I am extremely versatile. In fact, I fear I am a jack-of-all-trades.",
+                "valid_answers": [
+                    "Laugh",
+                    "Disagree",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I suppose the Sword of the Creator never goes dull, so you do not need to sharpen it.",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "You will always remember me, will you not?",
+                "valid_answers": [
+                    "Sip tea",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "Hmm. It can be good to relax now and then. Shall we play a game?",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Felix",
+        "house": "Blue Lions",
+        "favorite_teas": [
+            "Almyran Pine Needles",
+            "Four-Spice Blend"
+        ],
+        "interested_topics": [
+            "A new gambit\u2026",
+            "Exploring the monastery\u2026",
+            "Reliable allies\u2026",
+            "A new sword technique\u2026",
+            "Food in the dining hall\u2026",
+            "Shareable snacks\u2026",
+            "A strong battalion\u2026",
+            "I\u2019m counting on you\u2026",
+            "Someone you look up to\u2026",
+            "Capable comrades\u2026",
+            "Mighty weapons\u2026",
+            "The last battle\u2026",
+            "Cats\u2026",
+            "Monastery security\u2026",
+            "The opera\u2026",
+            "Children at the market\u2026",
+            "Our first meeting\u2026",
+            "Working together\u2026",
+            "Classes you might enjoy\u2026",
+            "Overcoming weaknesses\u2026",
+            "You\u2019re doing great work\u2026",
+            "Equipment upkeep\u2026",
+            "Plans for the future\u2026",
+            "Your ambitions\u2026",
+            "Evaluating allies\u2026",
+            "Potential training partners\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "Crests, lineage, knighthood\u2026 Trifles. Skill and survival are the only things that matter.",
+                "valid_answers": [
+                    "Nod",
+                    "Commend",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "You intrigue me. What made you so strong?",
+                "valid_answers": [
+                    "Chat",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I\u2019m glad I was born into a family of soldiers. I\u2019ve been wielding a sword for as long as I can remember.",
+                "valid_answers": [
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "I know it\u2019s important to take a break, but if you rest too long, your muscles wither.",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "Some people like to snack when they take a break. No willpower.",
+                "valid_answers": [
+                    "Nod",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "Spending time with you is\u2026not bad.",
+                "valid_answers": [
+                    "Laugh",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "Join me for sword training again. I want to know my victory isn\u2019t a fluke.",
+                "valid_answers": [
+                    "Nod",
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "I\u2019m always thinking about wars, but this room feels so peaceful.",
+                "valid_answers": [
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "Well\u2026I appreciate all that you do for me.",
+                "valid_answers": [
+                    "Laugh",
+                    "Blush"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Raphael",
+        "house": "Golden Deer",
+        "favorite_teas": [
+            "Almond Blend",
+            "Ginger Tea"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Gardening mishaps\u2026",
+            "Strange fish in the pond\u2026",
+            "A strong battalion\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Tell me about yourself\u2026",
+            "A word of advice\u2026",
+            "I\u2019m counting on you\u2026",
+            "Thanks for everything\u2026",
+            "Cats\u2026",
+            "Muscle growth\u2026",
+            "The last battle\u2026",
+            "Children at the market\u2026",
+            "Overcoming weaknesses\u2026",
+            "The opera\u2026",
+            "Classes you might enjoy\u2026",
+            "Past laughs\u2026",
+            "Things that bother you\u2026",
+            "Close calls\u2026",
+            "Perfect recipes\u2026",
+            "Working together\u2026",
+            "Cooking mishaps\u2026",
+            "Plans for the future\u2026",
+            "You seem well\u2026",
+            "Dining partners\u2026",
+            "Potential training partners\u2026",
+            "You\u2019re doing great work\u2026",
+            "Dreamy knights\u2026",
+            "School days\u2026",
+            "Your ambitions\u2026",
+            "Favorite sweets\u2026",
+            "Shareable snacks\u2026",
+            "Food in the dining hall\u2026",
+            "Someone you look up to\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "I gotta become a proper knight so I can take care of my little sis!",
+                "valid_answers": [
+                    "Commend",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "No one else comes close to having muscles like me, but that\u2019s not good enough, is it?",
+                "valid_answers": [
+                    "Laugh",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "Is there anything to eat, Professor? My stomach\u2019s saying it\u2019s snack time!",
+                "valid_answers": [
+                    "Laugh",
+                    "Commend",
+                    "Admonish"
+                ]
+            },
+            {
+                "comment": "I can\u2019t miss a single lecture if I wanna become a proper knight!",
+                "valid_answers": [
+                    "Nod",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "My grandpa used to be real strong when he was younger. I obviously take after the guy!",
+                "valid_answers": [
+                    "Laugh",
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "You\u2019re pretty strong for being so shrimpy. You\u2019d be unstoppable if you put on some muscle!",
+                "valid_answers": [
+                    "Laugh",
+                    "Disagree",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "Wanna train together? I can show you some new techniques I thought up!",
+                "valid_answers": [
+                    "Nod",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I wouldn\u2019t have come here if my parents were still alive. That means I never woulda met you!",
+                "valid_answers": [
+                    "Nod",
+                    "Sigh"
+                ]
+            },
+            {
+                "comment": "You seem tired, Professor. The best cure for sleepiness is sleep!",
+                "valid_answers": [
+                    "Laugh",
+                    "Disagree"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hanneman",
+        "house": "Church of Seiros",
+        "favorite_teas": [
+            "Bergamot",
+            "Sweet-Apple Blend",
+            "Honeyed-Fruit Blend",
+            "Cinnamon Blend"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "School days\u2026",
+            "A new gambit\u2026",
+            "Heart-racing memories\u2026",
+            "Shareable snacks\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "Hopes for your future\u2026",
+            "Tell me about yourself\u2026",
+            "A word of advice\u2026",
+            "I heard some gossip\u2026",
+            "Thanks for everything\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "I\u2019m counting on you\u2026",
+            "The existence of Crests\u2026",
+            "Capable comrades\u2026",
+            "Likable allies\u2026",
+            "The ideal professor\u2026",
+            "Cooking mishaps\u2026",
+            "Monastery mysteries\u2026",
+            "The last battle\u2026",
+            "Equipment upkeep\u2026",
+            "Monastery rules\u2026",
+            "The library\u2019s collection\u2026",
+            "Evaluating allies\u2026",
+            "Monastery security\u2026",
+            "Things that bother you\u2026",
+            "Exploring the monastery\u2026",
+            "Our first meeting\u2026",
+            "You seem well\u2026",
+            "Fashion\u2026",
+            "Overcoming weaknesses\u2026",
+            "You\u2019re doing great work\u2026",
+            "Favorite sweets\u2026",
+            "Past laughs\u2026",
+            "Your research\u2026",
+            "Fodlan\u2019s future\u2026",
+            "Plans for the future\u2026",
+            "Food in the dining hall\u2026",
+            "Relaxing at the sauna\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "The \u201cAshen Demon.\u201d What an unbelievable title, knowing who you are now\u2026",
+                "valid_answers": [
+                    "Disagree",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "Since I have never found out the secret of your birth, I am exceptionally intrigued.",
+                "valid_answers": [
+                    "Chat",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "Why don\u2019t you come by later? I\u2019d very much like to dive into some research together.",
+                "valid_answers": [
+                    "Commend",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "The Crest of Flames shares many traits with other Crests. Yet, it also has many unique characteristics.",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "It was my own choice to leave behind my noble title and holdings. I\u2019ll not be going back.",
+                "valid_answers": [
+                    "Commend",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "The monastery holds so many documents in its library, yet certain facts continue to elude me.",
+                "valid_answers": [
+                    "Commend",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "All of my hard work, my unrelenting study of Crests, is all in the name of my sister, rest her soul.",
+                "valid_answers": [
+                    "Sigh",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I never can stop talking about Crests, can I? Don\u2019t you dare laugh at me.",
+                "valid_answers": [
+                    "Laugh",
+                    "Admonish"
+                ]
+            },
+            {
+                "comment": "Can\u2019t be helped. I\u2019ll tell you about my favorite food again. Or perhaps we should talk about drinks?",
+                "valid_answers": [
+                    "Laugh",
+                    "Admonish",
+                    "Sip tea"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Linhardt",
+        "house": "Black Eagles",
+        "favorite_teas": [
+            "Almyran Pine Needles",
+            "Angelica Tea"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Thanks for everything\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "I heard some gossip\u2026",
+            "The art of napping\u2026",
+            "A word of advice\u2026",
+            "Monastery mysteries\u2026",
+            "The existence of Crests\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "Our first meeting\u2026",
+            "The library\u2019s collection\u2026",
+            "Capable comrades\u2026",
+            "Overcoming weaknesses\u2026",
+            "The view from the bridge\u2026",
+            "Cats\u2026",
+            "Past laughs\u2026",
+            "Things that bother you\u2026",
+            "Exploring the monastery\u2026",
+            "Plans for the future\u2026",
+            "Working hours for guards\u2026",
+            "Favorite sweets\u2026",
+            "Strange fish in the pond\u2026",
+            "Gardening mishaps\u2026",
+            "Tell me about yourself\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "You are full of mysteries and yet offer no answers. How unfair.",
+                "valid_answers": [
+                    "Disagree",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "Being surrounded by all these Crest-bearers makes me want to better understand Crestology.",
+                "valid_answers": [
+                    "Nod",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Crest versus nurture. Which causes a noble\u2019s personality disorder? There\u2019s a research project, eh?",
+                "valid_answers": [
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "I always feel as if I cannot keep up with other people. Everyone else seems to have a destination in mind.",
+                "valid_answers": [
+                    "Laugh",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Please wake me if I fall asleep. I don\u2019t wish to be a rude guest.",
+                "valid_answers": [
+                    "Admonish",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "They say the Crest\u2019s power dwells in blood. So why does it have to be so disgusting?",
+                "valid_answers": [
+                    "Admonish",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "If I don\u2019t become a scholar then perhaps librarian is the job for me.",
+                "valid_answers": [
+                    "Nod",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "You bear the legendary Crest of Flames. You simply must allow me to study it\u2013please, Professor.",
+                "valid_answers": [
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "We should explore ways to utilize the power of Relics and Crests for something other than combat.",
+                "valid_answers": [
+                    "Nod",
+                    "Commend",
+                    "Chat"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ashe",
+        "house": "Blue Lions",
+        "favorite_teas": [
+            "Mint Leaves",
+            "Angelica Tea"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Gardening mishaps\u2026",
+            "Thanks for everything\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "The existence of Crests\u2026",
+            "A strong battalion\u2026",
+            "I\u2019m counting on you\u2026",
+            "The ideal professor\u2026",
+            "A word of advice\u2026",
+            "Monastery security\u2026",
+            "The last battle\u2026",
+            "Being the perfect knight\u2026",
+            "Past laughs\u2026",
+            "The library\u2019s collection\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "Perfect recipes\u2026",
+            "Things that bother you\u2026",
+            "Cats\u2026",
+            "Plans for the future\u2026",
+            "Working hours for guards\u2026",
+            "Children at the market\u2026",
+            "School days\u2026",
+            "Working together\u2026",
+            "Close calls\u2026",
+            "Shareable snacks\u2026",
+            "You seem well\u2026",
+            "Dreamy knights\u2026",
+            "Someone you look up to\u2026",
+            "Your ambitions\u2026",
+            "Equipment upkeep\u2026",
+            "Strange fish in the pond\u2026",
+            "Favorite sweets\u2026",
+            "Tell me about yourself\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "I still have a lot to learn. I need to work harder.",
+                "valid_answers": [
+                    "Disagree",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Have you ever seen a ghost? Probably for the best if you haven\u2019t\u2026",
+                "valid_answers": [
+                    "Disagree",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I\u2019m good with children. I\u2019ve taken care of my younger siblings since I was a kid.",
+                "valid_answers": [
+                    "Laugh",
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "It\u2019s nice in here. I feel like I can relax.",
+                "valid_answers": [
+                    "Laugh",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "The years I had with Lonato\u2026those were some of the best of my life.",
+                "valid_answers": [
+                    "Nod",
+                    "Sigh",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I\u2019m confident in my speed. No one can outrun me!",
+                "valid_answers": [
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "I get letters from my brother and sister every once in a while. They have it tough, but they\u2019re getting by.",
+                "valid_answers": [
+                    "Laugh",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Time flies when I\u2019m with you.",
+                "valid_answers": [
+                    "Nod",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "A lot\u2019s happened, but none of it\u2019s been in vain. That\u2019s what I believe.",
+                "valid_answers": [
+                    "Nod",
+                    "Commend"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ignatz",
+        "house": "Golden Deer",
+        "favorite_teas": [
+            "Dagda Fruit Blend",
+            "Seiros Tea",
+            "Lavender Blend"
+        ],
+        "interested_topics": [
+            "A place you\u2019d like to visit\u2026",
+            "Gardening mishaps\u2026",
+            "Someone you look up to\u2026",
+            "A word of advice\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Strange fish in the pond\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "Guessing someone\u2019s age\u2026",
+            "Tell me about yourself\u2026",
+            "Capable comrades\u2026",
+            "I heard some gossip\u2026",
+            "Thanks for everything\u2026",
+            "Cats\u2026",
+            "I\u2019m counting on you\u2026",
+            "The courtyard couple\u2026",
+            "Children at the market\u2026",
+            "Likable allies\u2026",
+            "The library\u2019s collection\u2026",
+            "Classes you might enjoy\u2026",
+            "Mixing pigments\u2026",
+            "The opera\u2026",
+            "Close calls\u2026",
+            "Monastery mysteries\u2026",
+            "The view from the bridge\u2026",
+            "Cute monks\u2026",
+            "Monastery rules\u2026",
+            "Things that bother you\u2026",
+            "Equipment upkeep\u2026",
+            "Our first meeting\u2026",
+            "Working together\u2026",
+            "Evaluating allies\u2026",
+            "Overcoming weaknesses\u2026",
+            "You seem different\u2026",
+            "Exploring the monastery\u2026",
+            "Past laughs\u2026",
+            "You seem well\u2026",
+            "First crushes\u2026",
+            "Plans for the future\u2026",
+            "You\u2019re doing great work\u2026",
+            "Fodlan\u2019s future\u2026",
+            "School days\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "I wanna support my family, but I don\u2019t know if I can handle being a knight.",
+                "valid_answers": [
+                    "Nod",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I think it\u2019s good to have a hobby. Some people say it\u2019s a waste of time, but I think it\u2019s nice.",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "You\u2019re so young and so accomplished! I admire you.",
+                "valid_answers": [
+                    "Disagree",
+                    "Sip tea",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I\u2019m realizing that I can learn a lot from you.",
+                "valid_answers": [
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "I don\u2019t know what I can do, but I\u2019m prepared to assume responsibility for my future.",
+                "valid_answers": [
+                    "Commend",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "With you and all the friends I\u2019ve made, I\u2019m glad I came here.",
+                "valid_answers": [
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "Thank you for letting me continue with my art. I\u2019ll do my part on the battlefield.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Oh, don\u2019t mind me. I was just admiring you.",
+                "valid_answers": [
+                    "Sip tea",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I need to keep training. I know a brush and canvas aren\u2019t enough to protect you.",
+                "valid_answers": [
+                    "Chat",
+                    "Blush",
+                    "Praise"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Manuela",
+        "house": "Church of Seiros",
+        "favorite_teas": [
+            "Mint Leaves",
+            "Lavender Blend"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Gardening mishaps\u2026",
+            "School days\u2026",
+            "A strong battalion\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Shareable snacks\u2026",
+            "A word of advice\u2026",
+            "Guessing someone\u2019s age\u2026",
+            "Tell me about yourself\u2026",
+            "Best performance venues\u2026",
+            "Heart-racing memories\u2026",
+            "Thanks for everything\u2026",
+            "Children at the market\u2026",
+            "Hopes for your future\u2026",
+            "The courtyard couple\u2026",
+            "Classes you might enjoy\u2026",
+            "I heard some gossip\u2026",
+            "The ideal professor\u2026",
+            "Close calls\u2026",
+            "I\u2019m counting on you\u2026",
+            "The ideal relationship\u2026",
+            "Cooking mishaps\u2026",
+            "Likable allies\u2026",
+            "The opera\u2026",
+            "Cute monks\u2026",
+            "Monastery security\u2026",
+            "Things that bother you\u2026",
+            "Dining partners\u2026",
+            "Our first meeting\u2026",
+            "Things you find romantic\u2026",
+            "Dreamy knights\u2026",
+            "Overcoming weaknesses\u2026",
+            "Working hours for guards\u2026",
+            "Exploring the monastery\u2026",
+            "Past laughs\u2026",
+            "Working together\u2026",
+            "Fashion\u2026",
+            "Perfect recipes\u2026",
+            "You seem well\u2026",
+            "Favorite sweets\u2026",
+            "Plans for the future\u2026",
+            "You\u2019re doing great work\u2026",
+            "First crushes\u2026",
+            "Relaxing at the sauna\u2026",
+            "Food in the dining hall\u2026",
+            "Reliable allies\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "There\u2019s no alcohol in here. It\u2019s better if you can sleep without it, but\u2026 All you have is tea?",
+                "valid_answers": [
+                    "Admonish",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "Am I that terrible of a woman? So, I\u2019m a little unkempt, what of it?",
+                "valid_answers": [
+                    "Disagree",
+                    "Admonish"
+                ]
+            },
+            {
+                "comment": "Who are you really? Such a mystery. I don\u2019t really understand you\u2026 Tell me everything.",
+                "valid_answers": [
+                    "Sigh",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "What should I do to find love, Professor? I don\u2019t want to spend my days alone.",
+                "valid_answers": [
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "You think I complain too much, don\u2019t you? I know I do, but I can\u2019t help it.",
+                "valid_answers": [
+                    "Disagree",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Sometimes I think back to when I used to shine as a songstress.",
+                "valid_answers": [
+                    "Nod",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I must thank you for spending so much time with me. Your company helps me keep sane.",
+                "valid_answers": [
+                    "Laugh",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Your room is so nice and clean. How do you keep it like this?",
+                "valid_answers": [
+                    "Disagree",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "You are always so kind to me, Professor. I love it, but that, too, is its own vice, isn\u2019t it?",
+                "valid_answers": [
+                    "Sip tea",
+                    "Blush"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Caspar",
+        "house": "Black Eagles",
+        "favorite_teas": [
+            "Ginger Tea"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Gardening mishaps\u2026",
+            "Someone you look up to\u2026",
+            "A new gambit\u2026",
+            "Hopes for your future\u2026",
+            "Strange fish in the pond\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "I\u2019m counting on you\u2026",
+            "Tell me about yourself\u2026",
+            "A strong battalion\u2026",
+            "Methods for growing taller\u2026",
+            "Thanks for everything\u2026",
+            "A word of advice\u2026",
+            "Mighty weapons\u2026",
+            "The last battle\u2026",
+            "Cats\u2026",
+            "Our first meeting\u2026",
+            "The view from the bridge\u2026",
+            "Children at the market\u2026",
+            "Overcoming weaknesses\u2026",
+            "Things that bother you\u2026",
+            "Classes you might enjoy\u2026",
+            "Past laughs\u2026",
+            "Working hours for guards\u2026",
+            "Close calls\u2026",
+            "Perfect recipes\u2026",
+            "Working together\u2026",
+            "Cooking mishaps\u2026",
+            "Plans for the future\u2026",
+            "You seem well\u2026",
+            "Dreamy knights\u2026",
+            "Potential training partners\u2026",
+            "You\u2019re doing great work\u2026",
+            "Equipment upkeep\u2026",
+            "Relaxing at the sauna\u2026",
+            "Your ambitions\u2026",
+            "Exploring the monastery\u2026",
+            "School days\u2026",
+            "Food in the dining hall\u2026",
+            "Shareable snacks\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "Hey, are you getting hungry?",
+                "valid_answers": [
+                    "Laugh",
+                    "Sigh"
+                ]
+            },
+            {
+                "comment": "I\u2019m gonna keep training until I can beat you!",
+                "valid_answers": [
+                    "Disagree",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I just wanna go wild and let it all out! Come on, Professor, send me out front in our next battle!",
+                "valid_answers": [
+                    "Admonish",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "I usually don\u2019t get hung up on things, but when I do, I feel stuck!",
+                "valid_answers": [
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "What is justice really? I\u2019m not so sure I know anymore\u2026",
+                "valid_answers": [
+                    "Commend",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "Who was that guy? You don\u2019t know who I\u2019m talking about? The suspicious guy who killed himself!",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "They say hard work pays off, but I don\u2019t think that\u2019s always true. Either way, I\u2019m gonna keep trying!",
+                "valid_answers": [
+                    "Commend",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I really love fighting alongside you. I can always count on your commands to get us through!",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I\u2019m always gonna do things my way. If there\u2019s a wall blocking my path, I\u2019ll punch a hole right through it!",
+                "valid_answers": [
+                    "Laugh",
+                    "Commend",
+                    "Praise"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sylvain",
+        "house": "Blue Lions",
+        "favorite_teas": [
+            "Bergamot",
+            "Seiros Tea"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Guessing someone\u2019s age\u2026",
+            "Shareable snacks\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "Heart-racing memories\u2026",
+            "Strange fish in the pond\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "Hopes for your future\u2026",
+            "Tell me about yourself\u2026",
+            "Capable comrades\u2026",
+            "I heard some gossip\u2026",
+            "Thanks for everything\u2026",
+            "Classes you might enjoy\u2026",
+            "I\u2019m counting on you\u2026",
+            "The courtyard couple\u2026",
+            "Close calls\u2026",
+            "Likable allies\u2026",
+            "The ideal relationship\u2026",
+            "Cooking mishaps\u2026",
+            "Monastery mysteries\u2026",
+            "The library\u2019s collection\u2026",
+            "Cute monks\u2026",
+            "Our first meeting\u2026",
+            "The opera\u2026",
+            "Dating escapades\u2026",
+            "Overcoming weaknesses\u2026",
+            "The view from the bridge\u2026",
+            "Dining partners\u2026",
+            "Past laughs\u2026",
+            "Things that bother you\u2026",
+            "Evaluating allies\u2026",
+            "Perfect recipes\u2026",
+            "Things you find romantic\u2026",
+            "Exploring the monastery\u2026",
+            "Plans for the future\u2026",
+            "Working together\u2026",
+            "Fashion\u2026",
+            "Potential training partners\u2026",
+            "You seem different\u2026",
+            "Favorite sweets\u2026",
+            "Relaxing at the sauna\u2026",
+            "You seem well\u2026",
+            "First crushes\u2026",
+            "Reliable allies\u2026",
+            "You\u2019re doing great work\u2026",
+            "Food in the dining hall\u2026",
+            "School days\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "School uniforms\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "Everyone has their own reason to fight. At least I\u2019m honest about mine.",
+                "valid_answers": [
+                    "Commend",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Opera, art, literature, I love \u2019em. They always give you something to talk about.",
+                "valid_answers": [
+                    "Commend",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "You\u2019re always really stoic.",
+                "valid_answers": [
+                    "Chat",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I was thinking I should do some proper training sometime. Care to join me, Professor?",
+                "valid_answers": [
+                    "Sip tea",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Sometimes, I\u2019m surprised how warm the monastery is. I wish my parents\u2019 home was like this.",
+                "valid_answers": [
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Somebody gave me some candy earlier. I should have brought some with me.",
+                "valid_answers": [
+                    "Nod",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I feel like you can see right through me.",
+                "valid_answers": [
+                    "Disagree",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I\u2019m in a bit of trouble with a girl right now. Although, I can\u2019t think of a time when that hasn\u2019t been the case.",
+                "valid_answers": [
+                    "Nod",
+                    "Commend",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "You are really curious, aren\u2019t you? Eh, I\u2019m glad you\u2019re like that.",
+                "valid_answers": [
+                    "Laugh",
+                    "Blush"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lysithea",
+        "house": "Golden Deer",
+        "favorite_teas": [
+            "Sweet-Apple Blend",
+            "Southern Fruit Blend",
+            "Crescent-Moon Tea",
+            "Honeyed-Fruit Blend"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "School uniforms\u2026",
+            "A new gambit\u2026",
+            "Hopes for your future\u2026",
+            "Shareable snacks\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "I heard some gossip\u2026",
+            "Someone you look up to\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "I\u2019m counting on you\u2026",
+            "Strange fish in the pond\u2026",
+            "Capable comrades\u2026",
+            "Likable allies\u2026",
+            "Tell me about yourself\u2026",
+            "Cats\u2026",
+            "Monastery mysteries\u2026",
+            "Thanks for everything\u2026",
+            "Classes you might enjoy\u2026",
+            "Monastery rules\u2026",
+            "The existence of Crests\u2026",
+            "Close calls\u2026",
+            "Our first meeting\u2026",
+            "The ideal professor\u2026",
+            "Cooking mishaps\u2026",
+            "Overcoming weaknesses\u2026",
+            "The last battle\u2026",
+            "Evaluating allies\u2026",
+            "Past laughs\u2026",
+            "The library\u2019s collection\u2026",
+            "Fashion\u2026",
+            "Perfect recipes\u2026",
+            "The thrill of sweets\u2026",
+            "Favorite sweets\u2026",
+            "Plans for the future\u2026",
+            "Working together\u2026",
+            "Fodlan\u2019s future\u2026",
+            "Relaxing at the sauna\u2026",
+            "You seem different\u2026",
+            "Food in the dining hall\u2026",
+            "School days\u2026",
+            "Your ambitions\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "I know I could stand to lighten up from time to time.",
+                "valid_answers": [
+                    "Admonish",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "One of the few pleasures I find is in eating sweets. It\u2019s\u2026kind of embarrassing.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "Do you believe in ghosts, Professor? Just wondering.",
+                "valid_answers": [
+                    "Laugh",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "If I hadn\u2019t met you, I don\u2019t think I\u2019d be who I am today.",
+                "valid_answers": [
+                    "Laugh",
+                    "Disagree"
+                ]
+            },
+            {
+                "comment": "It\u2019s not in me to put energy into things that won\u2019t yield results. I just don\u2019t see the point.",
+                "valid_answers": [
+                    "Admonish",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "Talking to you feels worth my time. I feel there\u2019s a lot I can learn from you.",
+                "valid_answers": [
+                    "Laugh",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I wonder what I\u2019d do, who I\u2019d be, if I gave everything up for freedom. I think about that all the time.",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "If not for Crests, the world might\u2019ve been a more peaceful place.",
+                "valid_answers": [
+                    "Sigh",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I\u2019m exhausted by all my incessant thoughts. I just want to empty my mind for now.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh",
+                    "Sip tea"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gilbert",
+        "house": "Church of Seiros",
+        "favorite_teas": [
+            "Almond Blend",
+            "Lavender Blend"
+        ],
+        "interested_topics": [
+            "A new gambit\u2026",
+            "Fodlan\u2019s future\u2026",
+            "Someone you look up to\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "I\u2019m counting on you\u2026",
+            "Strange fish in the pond\u2026",
+            "A strong battalion\u2026",
+            "Mighty weapons\u2026",
+            "Thanks for everything\u2026",
+            "A word of advice\u2026",
+            "Monastery rules\u2026",
+            "The ideal professor\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "Monastery security\u2026",
+            "The last battle\u2026",
+            "Capable comrades\u2026",
+            "Overcoming weaknesses\u2026",
+            "The library\u2019s collection\u2026",
+            "Children at the market\u2026",
+            "Perfect recipes\u2026",
+            "Wood carving\u2026",
+            "Equipment upkeep\u2026",
+            "Potential training partners\u2026",
+            "Working hours for guards\u2026",
+            "Evaluating allies\u2026",
+            "Reliable allies\u2026",
+            "Working together\u2026",
+            "Favorite sweets\u2026",
+            "Shareable snacks\u2026",
+            "Your ambitions\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "Walking first thing in the morning is a pleasant way to begin your day. Try it sometime.",
+                "valid_answers": [
+                    "Nod"
+                ]
+            },
+            {
+                "comment": "I enjoy a bit of fishing. I hear you do as well?",
+                "valid_answers": [
+                    "Nod"
+                ]
+            },
+            {
+                "comment": "Spear, sword, archery, martial arts, soldiery\u2026 I believe I\u2019ve mastered most things worth mastering.",
+                "valid_answers": [
+                    "Nod"
+                ]
+            },
+            {
+                "comment": "I\u2019ve served the royal family for decades, and marched through history by their side.",
+                "valid_answers": [
+                    "Nod",
+                    "Sigh"
+                ]
+            },
+            {
+                "comment": "I am an unforgivable sinner. I do not deserve a peaceful life.",
+                "valid_answers": [
+                    "Disagree",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "No judge, not even the goddess herself, will bring me to justice. Though I deserve it.",
+                "valid_answers": [
+                    "Sigh",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "It\u2019s true that strength alone will not make you powerful. Yet you will not become powerful without it.",
+                "valid_answers": [
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "The Holy Kingdom of Faerghus is the nation of proud knights. I love that country\u2026 and miss it deeply.",
+                "valid_answers": [
+                    "Nod"
+                ]
+            },
+            {
+                "comment": "I am sorry, but relaxing is\u2026not a skill I possess.",
+                "valid_answers": [
+                    "Laugh",
+                    "Praise"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bernadetta",
+        "house": "Black Eagles",
+        "favorite_teas": [
+            "Albinean Berry Blend",
+            "Honeyed-Fruit Blend"
+        ],
+        "interested_topics": [
+            "A place you\u2019d like to visit\u2026",
+            "I heard some gossip\u2026",
+            "Thanks for everything\u2026",
+            "A word of advice\u2026",
+            "I\u2019m counting on you\u2026",
+            "The courtyard couple\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "Insectivorous plants\u2026",
+            "The ideal relationship\u2026",
+            "Cats\u2026",
+            "Likable allies\u2026",
+            "The last battle\u2026",
+            "Children at the market\u2026",
+            "Our first meeting\u2026",
+            "The library\u2019s collection\u2026",
+            "Close calls\u2026",
+            "Overcoming weaknesses\u2026",
+            "The view from the bridge\u2026",
+            "Cooking mishaps\u2026",
+            "Past laughs\u2026",
+            "Things that bother you\u2026",
+            "Cute monks\u2026",
+            "Perfect recipes\u2026",
+            "Things you find romantic\u2026",
+            "Exploring the monastery\u2026",
+            "Plans for the future\u2026",
+            "You seem different\u2026",
+            "Fashion\u2026",
+            "School days\u2026",
+            "You seem well\u2026",
+            "Favorite sweets\u2026",
+            "School uniforms\u2026",
+            "You\u2019re doing great work\u2026",
+            "Food in the dining hall\u2026",
+            "Shareable snacks\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Tell me about yourself\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "My mother works in the Imperial capital. People there say she\u2019s a genius.",
+                "valid_answers": [
+                    "Laugh",
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "Please don\u2019t eavesdrop on my singing anymore, OK?",
+                "valid_answers": [
+                    "Nod",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I was worried you called me here to punish me for something. I\u2019m glad I was wrong.",
+                "valid_answers": [
+                    "Admonish"
+                ]
+            },
+            {
+                "comment": "If two people decide to be recluses together\u2026does that even still count?",
+                "valid_answers": [
+                    "Laugh",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "I like to hide out in the greenhouse, but I always have to leave eventually. No place to sleep.",
+                "valid_answers": [
+                    "Nod"
+                ]
+            },
+            {
+                "comment": "It\u2019s relaxing here! Should\u2019ve brought my sewing kit.",
+                "valid_answers": [
+                    "Nod"
+                ]
+            },
+            {
+                "comment": "You\u2019re spoiling me. I don\u2019t want to go out on my own anymore.",
+                "valid_answers": [
+                    "Admonish",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "My room at the monastery is my home away from home, but this is cozy too.",
+                "valid_answers": [
+                    "Laugh",
+                    "Disagree",
+                    "Admonish"
+                ]
+            },
+            {
+                "comment": "The room feels a little\u2026empty. Needs more cuteness.",
+                "valid_answers": [
+                    "Laugh",
+                    "Admonish"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mercedes",
+        "house": "Blue Lions",
+        "favorite_teas": [
+            "Albinean Berry Blend",
+            "Southern Fruit Blend",
+            "Crescent-Moon Tea"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Food in the dining hall\u2026",
+            "School uniforms\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "Gardening mishaps\u2026",
+            "Shareable snacks\u2026",
+            "A word of advice\u2026",
+            "Ghost stories\u2026",
+            "Tell me about yourself\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Thanks for everything\u2026",
+            "Cats\u2026",
+            "Heart-racing memories\u2026",
+            "The courtyard couple\u2026",
+            "Children at the market\u2026",
+            "I heard some gossip\u2026",
+            "The ideal relationship\u2026",
+            "Cooking mishaps\u2026",
+            "I\u2019m counting on you\u2026",
+            "The last battle\u2026",
+            "Cute monks\u2026",
+            "Likable allies\u2026",
+            "The library\u2019s collection\u2026",
+            "Dining partners\u2026",
+            "Monastery rules\u2026",
+            "The opera\u2026",
+            "Dreamy knights\u2026",
+            "Overcoming weaknesses\u2026",
+            "Things that bother you\u2026",
+            "Exploring the monastery\u2026",
+            "Past laughs\u2026",
+            "You seem different\u2026",
+            "Fashion\u2026",
+            "Perfect recipes\u2026",
+            "You\u2019re doing great work\u2026",
+            "Favorite sweets\u2026",
+            "Relaxing at the sauna\u2026",
+            "First crushes\u2026",
+            "School days\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "I baked a cake earlier today. Should I have brought some with me?",
+                "valid_answers": [
+                    "Nod",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "The cathedral is nice and quiet. It\u2019s so relaxing!",
+                "valid_answers": [
+                    "Disagree",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I\u2019m actually quite skilled at drawing. I wouldn\u2019t mind using you as a model!",
+                "valid_answers": [
+                    "Nod",
+                    "Commend",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I baked a cake earlier today. Should I have brought some with me? [Note: This is repeated]",
+                "valid_answers": [
+                    "Nod",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I used to live in a quiet and beautiful church\u2026but it\u2019s not bad here either!",
+                "valid_answers": [
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "I should probably write to my mother soon\u2026",
+                "valid_answers": [
+                    "Nod",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "You should really brighten this room up a bit. Have you considered putting flowers in the window?",
+                "valid_answers": [
+                    "Nod",
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "As I continue to grow, I\u2019ve learned not to regret the choices I\u2019ve made!",
+                "valid_answers": [
+                    "Commend",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Not to be a bother, but do you mind if I stay just a little longer?",
+                "valid_answers": [
+                    "Nod",
+                    "Sip tea",
+                    "Blush"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Marianne",
+        "house": "Golden Deer",
+        "favorite_teas": [
+            "Dagda Fruit Blend",
+            "Cinnamon Blend",
+            "Lavender Blend"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Gardening mishaps\u2026",
+            "Strange fish in the pond\u2026",
+            "A new gambit\u2026",
+            "Hopes for your future\u2026",
+            "Tell me about yourself\u2026",
+            "A word of advice\u2026",
+            "I heard some gossip\u2026",
+            "Thanks for everything\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "Likable allies\u2026",
+            "The existence of Crests\u2026",
+            "Cats\u2026",
+            "Monastery mysteries\u2026",
+            "The ideal professor\u2026",
+            "Children at the market\u2026",
+            "Our first meeting\u2026",
+            "The last battle\u2026",
+            "Close calls\u2026",
+            "Overcoming weaknesses\u2026",
+            "The library\u2019s collection\u2026",
+            "Exploring the monastery\u2026",
+            "Plans for the future\u2026",
+            "The view from the bridge\u2026",
+            "Fodlan\u2019s future\u2026",
+            "Relaxing at the sauna\u2026",
+            "You seem different\u2026",
+            "Forest birds\u2026",
+            "School days\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "Spending time with me must be boring, isn\u2019t it?",
+                "valid_answers": [
+                    "Disagree",
+                    "Admonish"
+                ]
+            },
+            {
+                "comment": "I-I\u2019m sorry\u2026 I don\u2019t know what to say\u2026",
+                "valid_answers": [
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "It\u2019s a waste to spend your time with me\u2026",
+                "valid_answers": [
+                    "Disagree"
+                ]
+            },
+            {
+                "comment": "You\u2019ll be met with misfortune if you spend too much time with me\u2026",
+                "valid_answers": [
+                    "Disagree",
+                    "Admonish",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "You don\u2019t seem to be very good at talking\u2026 At least you\u2019re not as bad as me.",
+                "valid_answers": [
+                    "Nod",
+                    "Sigh"
+                ]
+            },
+            {
+                "comment": "It\u2019s not like I can go home\u2026 My adoptive father doesn\u2019t want me there\u2026",
+                "valid_answers": [
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Thanks to you, I\u2019m beginning to feel more comfortable talking to people.",
+                "valid_answers": [
+                    "Nod",
+                    "Disagree"
+                ]
+            },
+            {
+                "comment": "I\u2019m all right now. I think I can look forward to living my life.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh",
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "I hope you never leave\u2026oh! Never mind\u2026 Ignore me.",
+                "valid_answers": [
+                    "Laugh",
+                    "Blush"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Alois",
+        "house": "Church of Seiros",
+        "favorite_teas": [
+            "Crescent-Moon Tea",
+            "Honeyed-Fruit Blend"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Gardening mishaps\u2026",
+            "Someone you look up to\u2026",
+            "A new gambit\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Strange fish in the pond\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "Good jokes\u2026",
+            "Tell me about yourself\u2026",
+            "A strong battalion\u2026",
+            "I heard some gossip\u2026",
+            "Thanks for everything\u2026",
+            "A word of advice\u2026",
+            "I\u2019m counting on you\u2026",
+            "The ideal professor\u2026",
+            "Cats\u2026",
+            "Mighty weapons\u2026",
+            "The last battle\u2026",
+            "Children at the market\u2026",
+            "Monastery rules\u2026",
+            "The opera\u2026",
+            "Close calls\u2026",
+            "Monastery security\u2026",
+            "The view from the bridge\u2026",
+            "Cooking mishaps\u2026",
+            "Our first meeting\u2026",
+            "Things that bother you\u2026",
+            "Equipment upkeep\u2026",
+            "Overcoming weaknesses\u2026",
+            "Working hours for guards\u2026",
+            "Exploring the monastery\u2026",
+            "Past laughs\u2026",
+            "Working together\u2026",
+            "Favorite sweets\u2026",
+            "Perfect recipes\u2026",
+            "You seem well\u2026",
+            "First crushes\u2026",
+            "Plans for the future\u2026",
+            "You\u2019re doing great work\u2026",
+            "Fodlan\u2019s future\u2026",
+            "School days\u2026",
+            "Your ambitions\u2026",
+            "Food in the dining hall\u2026",
+            "Shareable snacks\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "You don\u2019t look much like Captain Jeralt, but you remind me of him.",
+                "valid_answers": [
+                    "Nod",
+                    "Commend",
+                    "Disagree"
+                ]
+            },
+            {
+                "comment": "There\u2019s nothing worse than trying to explain a joke.",
+                "valid_answers": [
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "Ghosts, sailing, spicy foods\u2026 These are the fears I have yet to conquer.",
+                "valid_answers": [
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "You should go fishing with me soon! The other day, I almost caught one.",
+                "valid_answers": [
+                    "Laugh",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Don\u2019t forget, if you ever need anything, just let me know.",
+                "valid_answers": [
+                    "Nod",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I\u2019ve been prattling on and on about myself. How are you today?",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "The other night, I felt a ghostly presence in my bed. I leapt to my feet, but\u2026no one was there.",
+                "valid_answers": [
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "I\u2019m your big brother Alois! You can ask me anything you want.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh",
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "When the war\u2019s over, I can finally go home to my wife and daughter\u2026",
+                "valid_answers": [
+                    "Nod",
+                    "Praise"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dorothea",
+        "house": "Black Eagles",
+        "favorite_teas": [
+            "Sweet-Apple Blend",
+            "Albinean Berry Blend"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "I heard some gossip\u2026",
+            "Tell me about yourself\u2026",
+            "A new gambit\u2026",
+            "I\u2019m counting on you\u2026",
+            "Thanks for everything\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "Likable allies\u2026",
+            "The courtyard couple\u2026",
+            "Close calls\u2026",
+            "Monastery rules\u2026",
+            "The ideal relationship\u2026",
+            "Cute monks\u2026",
+            "Monastery security\u2026",
+            "The melody of words\u2026",
+            "Dining partners\u2026",
+            "Our first meeting\u2026",
+            "The opera\u2026",
+            "Dreamy knights\u2026",
+            "Past laughs\u2026",
+            "Things that bother you\u2026",
+            "Evaluating allies\u2026",
+            "Plans for the future\u2026",
+            "Things you find romantic\u2026",
+            "Exploring the monastery\u2026",
+            "Potential training partners\u2026",
+            "Working hours for guards\u2026",
+            "Fashion\u2026",
+            "Relaxing at the sauna\u2026",
+            "Working together\u2026",
+            "First crushes\u2026",
+            "School days\u2026",
+            "You seem different\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "School uniforms\u2026",
+            "You seem well\u2026",
+            "Heart-racing memories\u2026",
+            "Someone you look up to\u2026",
+            "You\u2019re doing great work\u2026",
+            "Hopes for your future\u2026",
+            "Strange fish in the pond\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "More nobles than you\u2019d expect make a pilgrimage to Garreg Mach to pray.",
+                "valid_answers": [
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "I am not really a fan of hymns. I don\u2019t want to offer silly songs to my goddess.",
+                "valid_answers": [
+                    "Sigh",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "My ideal partner is religious, but only just. And they have enough money to live on for all our days.",
+                "valid_answers": [
+                    "Blush",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "So, you don\u2019t have any weaknesses after all? I\u2019m totally envious of you.",
+                "valid_answers": [
+                    "Disagree",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "You\u2019re such an open-minded person, Professor. I\u2019m glad you don\u2019t judge me for living how I want to.",
+                "valid_answers": [
+                    "Laugh",
+                    "Sip tea",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "Why are men so vain? They should know their lies will never last.",
+                "valid_answers": [
+                    "Laugh",
+                    "Chat",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "Don\u2019t you think you feel stronger attraction to someone when you know you may die tomorrow?",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "So many people have died\u2026 I\u2019m so terribly down. I feel better here, with you though.",
+                "valid_answers": [
+                    "Nod",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Whatever the future may bring, I\u2019m so glad I met you.",
+                "valid_answers": [
+                    "Blush"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Annette",
+        "house": "Blue Lions",
+        "favorite_teas": [
+            "Sweet-Apple Blend",
+            "Rose Petal Blend",
+            "Almond Blend"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Gardening mishaps\u2026",
+            "Tell me about yourself\u2026",
+            "A new gambit\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Thanks for everything\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "Guessing someone\u2019s age\u2026",
+            "The courtyard couple\u2026",
+            "A word of advice\u2026",
+            "Hopes for your future\u2026",
+            "The ideal professor\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "I\u2019m counting on you\u2026",
+            "The ideal relationship\u2026",
+            "Children at the market\u2026",
+            "Kitchen catastrophes\u2026",
+            "The last battle\u2026",
+            "Close calls\u2026",
+            "Likable allies\u2026",
+            "The library\u2019s collection\u2026",
+            "Cooking mishaps\u2026",
+            "Our first meeting\u2026",
+            "The opera\u2026",
+            "Cute monks\u2026",
+            "Overcoming weaknesses\u2026",
+            "Things that bother you\u2026",
+            "Dining partners\u2026",
+            "Past laughs\u2026",
+            "Things you find romantic\u2026",
+            "Dreamy knights\u2026",
+            "Perfect recipes\u2026",
+            "Working together\u2026",
+            "Equipment upkeep\u2026",
+            "Plans for the future\u2026",
+            "You seem different\u2026",
+            "Evaluating allies\u2026",
+            "Relaxing at the sauna\u2026",
+            "You seem well\u2026",
+            "Exploring the monastery\u2026",
+            "School days\u2026",
+            "You\u2019re doing great work\u2026",
+            "Fashion\u2026",
+            "School uniforms\u2026",
+            "Your ambitions\u2026",
+            "Favorite sweets\u2026",
+            "Shareable snacks\u2026",
+            "Food in the dining hall\u2026",
+            "Someone you look up to\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "No effort is ever in vain\u2026 My father used to tell me that.",
+                "valid_answers": [
+                    "Commend",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "The only way to clean is to clean with all your might! Otherwise you\u2019re wasting your time!",
+                "valid_answers": [
+                    "Nod"
+                ]
+            },
+            {
+                "comment": "Maybe I should have baked us a cake or something\u2026",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "I feel so at ease here! I really like spending time with you.",
+                "valid_answers": [
+                    "Laugh",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I remember the first time I met you. Right away, it was like talking to an old friend.",
+                "valid_answers": [
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "I broke a plate again the other day\u2026 I wish I could be as calm and graceful as you are.",
+                "valid_answers": [
+                    "Disagree",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "There\u2019s an equation I\u2019ve been thinking about\u2026 Can you help me with it later?",
+                "valid_answers": [
+                    "Nod",
+                    "Commend",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "The confectioner is back in town! Would you like to go with me sometime?",
+                "valid_answers": [
+                    "Nod"
+                ]
+            },
+            {
+                "comment": "When I\u2019m with you\u2026I feel like I can be myself.",
+                "valid_answers": [
+                    "Laugh",
+                    "Blush"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hilda",
+        "house": "Golden Deer",
+        "favorite_teas": [
+            "Albinean Berry Blend",
+            "Southern Fruit Blend",
+            "Rose Petal Blend",
+            "Mint Leaves"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Gardening mishaps\u2026",
+            "School uniforms\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Shareable snacks\u2026",
+            "Classes you might enjoy\u2026",
+            "Guessing someone\u2019s age\u2026",
+            "Tell me about yourself\u2026",
+            "Close calls\u2026",
+            "Heart-racing memories\u2026",
+            "Thanks for everything\u2026",
+            "Cute accessories\u2026",
+            "Hopes for your future\u2026",
+            "The courtyard couple\u2026",
+            "Cute monks\u2026",
+            "I heard some gossip\u2026",
+            "The ideal relationship\u2026",
+            "Dining partners\u2026",
+            "Likable allies\u2026",
+            "The opera\u2026",
+            "Dreamy knights\u2026",
+            "Our first meeting\u2026",
+            "Things that bother you\u2026",
+            "Evaluating allies\u2026",
+            "Past laughs\u2026",
+            "Things you find romantic\u2026",
+            "Fashion\u2026",
+            "Plans for the future\u2026",
+            "You seem different\u2026",
+            "Favorite sweets\u2026",
+            "Relaxing at the sauna\u2026",
+            "You seem well\u2026",
+            "First crushes\u2026",
+            "Reliable allies\u2026",
+            "You\u2019re doing great work\u2026",
+            "Food in the dining hall\u2026",
+            "School days\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "You know? I love hearing myself talk!",
+                "valid_answers": [
+                    "Nod",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "Have you ever cried, Professor? It\u2019s hard to imagine you crying.",
+                "valid_answers": [
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "You don\u2019t say much, so you\u2019re easy to talk to.",
+                "valid_answers": [
+                    "Laugh",
+                    "Admonish"
+                ]
+            },
+            {
+                "comment": "My mind keeps drifting today\u2026",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "No matter what happens in this crazy world, I know I\u2019ll be safe if I stay by your side.",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "Everyone\u2019s so serious all the time. Boooooring.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "We should go on a trip together someday, when it\u2019s peaceful.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "Your room\u2019s so neat! You should clean mine too.",
+                "valid_answers": [
+                    "Nod",
+                    "Disagree"
+                ]
+            },
+            {
+                "comment": "I wish I could stay here and chat all day. Time to go back to the real world though.",
+                "valid_answers": [
+                    "Laugh",
+                    "Praise"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Catherine",
+        "house": "Church of Seiros",
+        "favorite_teas": [
+            "Rose Petal Blend"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Gardening mishaps\u2026",
+            "Strange fish in the pond\u2026",
+            "A new gambit\u2026",
+            "Hopes for your future\u2026",
+            "Tell me about yourself\u2026",
+            "A strong battalion\u2026",
+            "I heard some gossip\u2026",
+            "Thanks for everything\u2026",
+            "A word of advice\u2026",
+            "I\u2019m counting on you\u2026",
+            "The existence of Crests\u2026",
+            "Academy memories\u2026",
+            "Likable allies\u2026",
+            "The ideal relationship\u2026",
+            "Capable comrades\u2026",
+            "Mighty weapons\u2026",
+            "The last battle\u2026",
+            "Classes you might enjoy\u2026",
+            "Monastery security\u2026",
+            "Working hours for guards\u2026",
+            "Close calls\u2026",
+            "Our first meeting\u2026",
+            "Working together\u2026",
+            "Cooking mishaps\u2026",
+            "Past laughs\u2026",
+            "You seem well\u2026",
+            "Equipment upkeep\u2026",
+            "Potential training partners\u2026",
+            "You\u2019re doing great work\u2026",
+            "Evaluating allies\u2026",
+            "School days\u2026",
+            "Your ambitions\u2026",
+            "Exploring the monastery\u2026",
+            "Shareable snacks\u2026",
+            "Food in the dining hall\u2026",
+            "Someone you look up to\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "I hear your nickname is \u201cAshen Demon.\u201d It\u2019s good, but not as good as \u201cThunder Catherine.\u201d",
+                "valid_answers": [
+                    "Disagree",
+                    "Sip tea",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I\u2019m always watching you. I guess this is your way of returning the favor.",
+                "valid_answers": [
+                    "Nod",
+                    "Sigh"
+                ]
+            },
+            {
+                "comment": "You know war strategy, not just how to wield a sword. Maybe I should study that too.",
+                "valid_answers": [
+                    "Admonish",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I\u2019m not going to hurt you. No need to look so nervous.",
+                "valid_answers": [
+                    "Sigh",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I\u2019m a little restless. I don\u2019t much care for waiting around.",
+                "valid_answers": [
+                    "Disagree",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "You look calm, as usual. I wonder what you look like when you\u2019re nervous.",
+                "valid_answers": [
+                    "Admonish",
+                    "Sip tea",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I have zero desire to go back to Faerghus. Can you imagine me as a noble?",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "We should train together.",
+                "valid_answers": [
+                    "Laugh",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "You and I both have sword Relics. We should spar with them soon.",
+                "valid_answers": [
+                    "Nod",
+                    "Commend",
+                    "Praise"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Petra",
+        "house": "Black Eagles",
+        "favorite_teas": [
+            "Four-Spice Blend",
+            "Ginger Tea"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Guessing someone\u2019s age\u2026",
+            "Someone you look up to\u2026",
+            "A new gambit\u2026",
+            "Heart-racing memories\u2026",
+            "Strange fish in the pond\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "Hopes for your future\u2026",
+            "Swimming in the ocean\u2026",
+            "A strong battalion\u2026",
+            "I\u2019m counting on you\u2026",
+            "Tell me about yourself\u2026",
+            "A word of advice\u2026",
+            "Likable allies\u2026",
+            "Thanks for everything\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "Mighty weapons\u2026",
+            "The ideal relationship\u2026",
+            "Capable comrades\u2026",
+            "Monastery mysteries\u2026",
+            "The last battle\u2026",
+            "Cats\u2026",
+            "Monastery rules\u2026",
+            "The library\u2019s collection\u2026",
+            "Classes you might enjoy\u2026",
+            "Monastery security\u2026",
+            "The view from the bridge\u2026",
+            "Close calls\u2026",
+            "Overcoming weaknesses\u2026",
+            "Things you find romantic\u2026",
+            "Equipment upkeep\u2026",
+            "Past laughs\u2026",
+            "Working hours for guards\u2026",
+            "Evaluating allies\u2026",
+            "Plans for the future\u2026",
+            "Working together\u2026",
+            "Exploring the monastery\u2026",
+            "Potential training partners\u2026",
+            "You seem different\u2026",
+            "Fashion\u2026",
+            "Relaxing at the sauna\u2026",
+            "You seem well\u2026",
+            "Fodlan\u2019s future\u2026",
+            "School days\u2026",
+            "You\u2019re doing great work\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Shareable snacks\u2026",
+            "Your ambitions\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "If you are having problems, I am happy to be listening.",
+                "valid_answers": [
+                    "Chat",
+                    "\u2014"
+                ]
+            },
+            {
+                "comment": "The ocean is far from Garreg Mach\u2026 I am feeling a bit lonely at times.",
+                "valid_answers": [
+                    "Sigh",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Next I will be studying, training, researching, sparring\u2026 I am having a lot to do!",
+                "valid_answers": [
+                    "Admonish",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "You are working with much\u2026diligence. I am admiring of you.",
+                "valid_answers": [
+                    "Laugh",
+                    "Disagree"
+                ]
+            },
+            {
+                "comment": "You are not remembering where your homeland is? I am thinking that is strange\u2026",
+                "valid_answers": [
+                    "Sigh",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "One day I am wanting to show you the wonderful land of Brigid and its abundant nature.",
+                "valid_answers": [
+                    "Nod",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "It gives me great pleasure to be speaking with you like this.",
+                "valid_answers": [
+                    "Sip tea",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "In Enbarr, I was a hostage. I was spending much time locked away. Books gave me great comfort.",
+                "valid_answers": [
+                    "Sigh",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I am requiring much sleep to be staying alert. At least a quarter of each day.",
+                "valid_answers": [
+                    "Laugh",
+                    "Admonish"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ingrid",
+        "house": "Blue Lions",
+        "favorite_teas": [
+            "Mint Leaves",
+            "Chamomile"
+        ],
+        "interested_topics": [
+            "A new gambit\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Tell me about yourself\u2026",
+            "A strong battalion\u2026",
+            "I\u2019m counting on you\u2026",
+            "Thanks for everything\u2026",
+            "A word of advice\u2026",
+            "Mighty weapons\u2026",
+            "The existence of Crests\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "Monastery rules\u2026",
+            "The ideal professor\u2026",
+            "Cats\u2026",
+            "Monastery security\u2026",
+            "The last battle\u2026",
+            "Classes you might enjoy\u2026",
+            "Our first meeting\u2026",
+            "The library\u2019s collection\u2026",
+            "Cooking mishaps\u2026",
+            "Overcoming weaknesses\u2026",
+            "The view from the bridge\u2026",
+            "Dreamy knights\u2026",
+            "Past laughs\u2026",
+            "Things you find romantic\u2026",
+            "Equipment upkeep\u2026",
+            "Perfect recipes\u2026",
+            "Working hours for guards\u2026",
+            "Evaluating allies\u2026",
+            "Plans for the future\u2026",
+            "Working together\u2026",
+            "Exploring the monastery\u2026",
+            "Potential training partners\u2026",
+            "You seem well\u2026",
+            "Favorite sweets\u2026",
+            "Reliable allies\u2026",
+            "You\u2019re doing great work\u2026",
+            "First crushes\u2026",
+            "School days\u2026",
+            "Your ambitions\u2026",
+            "Fodlan\u2019s future\u2026",
+            "Shareable snacks\u2026",
+            "Food for life\u2026",
+            "Someone you look up to\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "As a child, my father and brother used to yell at me for spending so much time with my horse.",
+                "valid_answers": [
+                    "Laugh",
+                    "Admonish"
+                ]
+            },
+            {
+                "comment": "I\u2019m already thinking of my next meal\u2026",
+                "valid_answers": [
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "It\u2019s warm around the monastery and the soil is rich\u2026 Honestly, I\u2019m envious.",
+                "valid_answers": [
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Being here calms my nerves\u2026 Oh! But I\u2019ll leave if I\u2019m in your way.",
+                "valid_answers": [
+                    "Disagree",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I wonder what your favorite food is. Meat? Veggies? Fish, perhaps? Oh, or maybe sweets\u2026",
+                "valid_answers": [
+                    "Laugh",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "When did you start sword training? I was five when I began\u2026",
+                "valid_answers": [
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "When I\u2019m here, I feel like I can forget about fighting, even if just for a moment.",
+                "valid_answers": [
+                    "Laugh",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Would you like to have a meal with me? Though\u2026it wasn\u2019t long ago that I ate.",
+                "valid_answers": [
+                    "Laugh",
+                    "Admonish"
+                ]
+            },
+            {
+                "comment": "Speaking with you helps me realize I can\u2019t hesitate in life!",
+                "valid_answers": [
+                    "Disagree",
+                    "Blush"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Leonie",
+        "house": "Golden Deer",
+        "favorite_teas": [
+            "Four-Spice Blend",
+            "Angelica Tea"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Shareable snacks\u2026",
+            "A new gambit\u2026",
+            "Hopes for your future\u2026",
+            "Someone you look up to\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "I heard some gossip\u2026",
+            "Tell me about yourself\u2026",
+            "A strong battalion\u2026",
+            "I\u2019m counting on you\u2026",
+            "Thanks for everything\u2026",
+            "A word of advice\u2026",
+            "Jeralt\u2026",
+            "The ideal professor\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "Mighty weapons\u2026",
+            "The last battle\u2026",
+            "Capable comrades\u2026",
+            "Monastery mysteries\u2026",
+            "The view from the bridge\u2026",
+            "Children at the market\u2026",
+            "Monastery security\u2026",
+            "Things that bother you\u2026",
+            "Classes you might enjoy\u2026",
+            "Our first meeting\u2026",
+            "Working together\u2026",
+            "Close calls\u2026",
+            "Overcoming weaknesses\u2026",
+            "You seem different\u2026",
+            "Equipment upkeep\u2026",
+            "Past laughs\u2026",
+            "You seem well\u2026",
+            "Evaluating allies\u2026",
+            "Plans for the future\u2026",
+            "You\u2019re doing great work\u2026",
+            "Exploring the monastery\u2026",
+            "Potential training partners\u2026",
+            "Your ambitions\u2026",
+            "Fodlan\u2019s future\u2026",
+            "Reliable allies\u2026",
+            "Food in the dining hall\u2026",
+            "School days\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "Hope you\u2019ve been keeping up with your training. If you\u2019re not careful, I\u2019ll surpass you.",
+                "valid_answers": [
+                    "Nod",
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "I don\u2019t care what you think of me. I just don\u2019t want to lose to you.",
+                "valid_answers": [
+                    "Commend",
+                    "Admonish"
+                ]
+            },
+            {
+                "comment": "Don\u2019t throw away anything that\u2019s still usable, OK? I\u2019ll take whatever you don\u2019t need.",
+                "valid_answers": [
+                    "Nod",
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "Back home, I always trained alone. No one else in my village wanted to be a mercenary.",
+                "valid_answers": [
+                    "Nod",
+                    "Sigh",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I\u2019m proud to be the greatest apprentice to the best mercenary in Fodlan. That keeps me going.",
+                "valid_answers": [
+                    "Nod",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I feel bad acting out so much around you. Seems like I just can\u2019t help it.",
+                "valid_answers": [
+                    "Laugh",
+                    "Disagree",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "I\u2019ll always be here for you. Just like I promised Captain Jeralt.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "Don\u2019t worry about what I owe to my village. I don\u2019t live this frugally for nothing.",
+                "valid_answers": [
+                    "Nod",
+                    "Commend",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "People always seem to be talking about romance, but\u2026honestly, I\u2019m just not interested in that stuff.",
+                "valid_answers": [
+                    "Commend",
+                    "Chat",
+                    "Praise"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Shamir",
+        "house": "Church of Seiros",
+        "favorite_teas": [
+            "Crescent-Moon Tea",
+            "Chamomile"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Strange fish in the pond\u2026",
+            "A new gambit\u2026",
+            "Hopes for your future\u2026",
+            "Survival skills\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "I heard some gossip\u2026",
+            "Tell me about yourself\u2026",
+            "A strong battalion\u2026",
+            "I\u2019m counting on you\u2026",
+            "Thanks for everything\u2026",
+            "Capable comrades\u2026",
+            "Mighty weapons\u2026",
+            "The courtyard couple\u2026",
+            "Cats\u2026",
+            "Monastery security\u2026",
+            "The ideal relationship\u2026",
+            "Children at the market\u2026",
+            "Overcoming weaknesses\u2026",
+            "The last battle\u2026",
+            "Classes you might enjoy\u2026",
+            "Past laughs\u2026",
+            "The view from the bridge\u2026",
+            "Close calls\u2026",
+            "Plans for the future\u2026",
+            "Working together\u2026",
+            "Equipment upkeep\u2026",
+            "Potential training partners\u2026",
+            "You\u2019re doing great work\u2026",
+            "Evaluating allies\u2026",
+            "Reliable allies\u2026",
+            "Your ambitions\u2026",
+            "Food in the dining hall\u2026",
+            "Shareable snacks\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "I\u2019m not much for conversation. I\u2019ll gladly leave if you\u2019re bored.",
+                "valid_answers": [
+                    "Disagree"
+                ]
+            },
+            {
+                "comment": "Heh. You always have an interesting look on your face.",
+                "valid_answers": [
+                    "Disagree",
+                    "Sip tea",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "The Sword of the Creator\u2026 It\u2019s an interesting Relic.",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "As far as mercenaries go, I\u2019d say I work for a fair price.",
+                "valid_answers": [
+                    "Laugh",
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "I enjoy a lack of conversation. But how are you?",
+                "valid_answers": [
+                    "Nod",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I look forward to the next battle. They seem to go smoothly under your command.",
+                "valid_answers": [
+                    "Nod",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I apologize for what I said before. It was tactless to compare you to memories from my past.",
+                "valid_answers": [
+                    "Disagree",
+                    "Sigh"
+                ]
+            },
+            {
+                "comment": "This room\u2026 It suits you.",
+                "valid_answers": [
+                    "Nod",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "Dagda is far. It would take months to travel there by foot\u2026",
+                "valid_answers": [
+                    "Admonish",
+                    "Chat",
+                    "Praise"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Cyril",
+        "house": "Church of Seiros",
+        "favorite_teas": [
+            "Almyran Pine Needles"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Tell me about yourself\u2026",
+            "Cats\u2026",
+            "Guessing someone\u2019s age\u2026",
+            "Thanks for everything\u2026",
+            "Children at the market\u2026",
+            "I heard some gossip\u2026",
+            "The view from the bridge\u2026",
+            "Classes you might enjoy\u2026",
+            "I\u2019m counting on you\u2026",
+            "Things that bother you\u2026",
+            "Close calls\u2026",
+            "Lady Rhea\u2026",
+            "Working hours for guards\u2026",
+            "Cute monks\u2026",
+            "Likable allies\u2026",
+            "You seem different\u2026",
+            "Equipment upkeep\u2026",
+            "Monastery security\u2026",
+            "You seem well\u2026",
+            "Exploring the monastery\u2026",
+            "Overcoming weaknesses\u2026",
+            "You\u2019re doing great work\u2026",
+            "Favorite sweets\u2026",
+            "Perfect recipes\u2026",
+            "Your ambitions\u2026",
+            "Food in the dining hall\u2026",
+            "Shareable snacks\u2026",
+            "Gardening mishaps\u2026",
+            "Strange fish in the pond\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "Lady Rhea sure seems to like you, Professor. I don\u2019t know why\u2026",
+                "valid_answers": [
+                    "Nod",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "If I got kicked out of the monastery, I\u2019d have no other place to go.",
+                "valid_answers": [
+                    "Commend",
+                    "Disagree",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I like working. Feels real good to be needed.",
+                "valid_answers": [
+                    "Commend",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "If there\u2019s anything \u2019bout Lady Rhea you wanna know, I can probably tell ya.",
+                "valid_answers": [
+                    "Nod",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I\u2019m the best at cleaning. I never miss any smudge or spot or dirt or grime or even\u2026filth.",
+                "valid_answers": [
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "Even if the goddess really does exist, I wonder if she\u2019d protect Almyrans\u2026",
+                "valid_answers": [
+                    "Disagree",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I think you\u2019re an amazing person, Professor. I mean, Lady Rhea is still the best, but I like ya well enough.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh"
+                ]
+            },
+            {
+                "comment": "I\u2019m real busy all the time, but talking with you like this gets me excited to do more!",
+                "valid_answers": [
+                    "Laugh",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I\u2019m getting sleepy\u2026 Busy day and all.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Jeritza",
+        "house": "DLC Exclusive",
+        "favorite_teas": [
+            "Albinean Berry Blend",
+            "Southern Fruit Blend",
+            "Honeyed-Fruit Blend",
+            "Sweet-Apple Blend"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Evaluating allies\u2026",
+            "Shareable snacks\u2026",
+            "A new gambit\u2026",
+            "Exploring the monastery\u2026",
+            "Thanks for everything\u2026",
+            "A strong battalion\u2026",
+            "Favorite sweets\u2026",
+            "The last battle\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "Food in the dining hall\u2026",
+            "The library\u2019s collection\u2026",
+            "Capable comrades\u2026",
+            "Hopes for your future\u2026",
+            "The opera\u2026",
+            "Cats\u2026",
+            "I heard some gossip\u2026",
+            "The view from the bridge\u2026",
+            "Childhood memories\u2026",
+            "Mighty weapons\u2026",
+            "Working together\u2026",
+            "Children at the market\u2026",
+            "Monastery security\u2026",
+            "You seem well\u2026",
+            "Classes you might enjoy\u2026",
+            "Our first meeting\u2026",
+            "Your ambitions\u2026",
+            "Equipment upkeep\u2026",
+            "Potential training partners\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "This is a questionable pastime.",
+                "valid_answers": [
+                    "Nod",
+                    "Disagree"
+                ]
+            },
+            {
+                "comment": "I\u2019m deathly allergic to this sort of thing.",
+                "valid_answers": [
+                    "Admonish",
+                    "Sigh",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "Good tea, bad tea. It\u2019s all the same.",
+                "valid_answers": [
+                    "Nod",
+                    "Chat",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I\u2019m better at fighting than talking.",
+                "valid_answers": [
+                    "Nod",
+                    "Commend",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "I like sweets. What of it?",
+                "valid_answers": [
+                    "Nod",
+                    "Disagree",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "Sitting here reminds me of\u2026 But that was long ago.",
+                "valid_answers": [
+                    "Laugh",
+                    "Sip tea",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "Wouldn\u2019t you like to meet death by my hand? No? Well, that is\u2026frustrating.",
+                "valid_answers": [
+                    "Disagree",
+                    "Admonish",
+                    "Sigh"
+                ]
+            },
+            {
+                "comment": "In such a peaceful setting, I am able to control my impulses. But only just barely.",
+                "valid_answers": [
+                    "Sigh",
+                    "Sip tea",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Ironic, really. The end of war seems more horrible to me, by far.",
+                "valid_answers": [
+                    "Admonish",
+                    "Sigh",
+                    "Chat"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Anna",
+        "house": "DLC Exclusive",
+        "favorite_teas": [
+            "Seiros Tea",
+            "Dagda Fruit Blend",
+            "Bergamot"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Food in the dining hall\u2026",
+            "Relaxing at the sauna\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "Gardening mishaps\u2026",
+            "Reliable allies\u2026",
+            "A strong battalion\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Shareable snacks\u2026",
+            "A word of advice\u2026",
+            "Guessing someone\u2019s age\u2026",
+            "Strange fish in the pond\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "Heart-racing memories\u2026",
+            "Tell me about yourself\u2026",
+            "Cats\u2026",
+            "I heard some gossip\u2026",
+            "Thanks for everything\u2026",
+            "Children at the market\u2026",
+            "I\u2019m counting on you\u2026",
+            "The ideal professor\u2026",
+            "Classes you might enjoy\u2026",
+            "Likeable allies\u2026",
+            "The ideal relationship\u2026",
+            "Close calls\u2026",
+            "Mighty weapons\u2026",
+            "The library\u2019s collection\u2026",
+            "Cooking mishaps\u2026",
+            "Monastery mysteries\u2026",
+            "The opera\u2026",
+            "Dreamy knights\u2026",
+            "Monastery rules\u2026",
+            "The view from the bridge\u2026",
+            "Equipment upkeep\u2026",
+            "Money-making secrets\u2026",
+            "Working hours for guards\u2026",
+            "Exploring the monastery\u2026",
+            "Our first meeting\u2026",
+            "Working together\u2026",
+            "Fashion\u2026",
+            "Overcoming weaknesses\u2026",
+            "You seem different\u2026",
+            "Favorite sweets\u2026",
+            "Past laughs\u2026",
+            "You seem well\u2026",
+            "First crushes\u2026",
+            "Perfect recipes\u2026",
+            "You\u2019re doing great work\u2026",
+            "Fodlan\u2019s future\u2026",
+            "Plans for the future\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "Of course I pay my taxes! The fact that I can even do business at all is thanks to the goddess.",
+                "valid_answers": [
+                    "Commend",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Being a merchant is really dangerous. You have to be able to protect yourself at the very least.",
+                "valid_answers": [
+                    "Nod",
+                    "Commend",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "There\u2019s a lot of competition between us merchants. So if you\u2019ve got any ideas on how I can corner the market\u2026",
+                "valid_answers": [
+                    "Nod",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "You\u2019re not half bad at brewing tea! I bet you could make a killing doing this for a living.",
+                "valid_answers": [
+                    "Disagree",
+                    "Sip tea",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "The Sreng region is rich in high-quality minerals. Wonder how I can distribute them to a buyer\u2026",
+                "valid_answers": [
+                    "Commend",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "This place is just loaded with kids from noble families. So many fat wallets\u2026so little time!",
+                "valid_answers": [
+                    "Nod",
+                    "Admonish",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "I know it\u2019s good to get my mind off of business and enjoy simple things like tea sometimes, but\u2026it\u2019s hard. Really, really hard\u2026",
+                "valid_answers": [
+                    "Laugh",
+                    "Disagree",
+                    "Admonish"
+                ]
+            },
+            {
+                "comment": "You\u2019re wondering where I\u2019m from, are you? Ha! I\u2019ll never reveal my secrets!",
+                "valid_answers": [
+                    "Laugh",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "War pushes the profit margins up, but at what cost\u2026",
+                "valid_answers": [
+                    "Nod",
+                    "Sigh"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Yuri",
+        "house": "DLC Exclusive",
+        "favorite_teas": [
+            "Albinean Berry Blend",
+            "Honeyed-Fruit Blend",
+            "Seiros Tea"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Food in the dining hall\u2026",
+            "School days\u2026",
+            "A new gambit\u2026",
+            "Hopes for your future\u2026",
+            "Shareable snacks\u2026",
+            "A word of advice\u2026",
+            "I heard some gossip\u2026",
+            "Someone you look up to\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "I\u2019m counting on you\u2026",
+            "Tell me about yourself\u2026",
+            "Capable comrades\u2026",
+            "Keeping Abyss safe\u2026",
+            "Thanks for everything\u2026",
+            "Cats\u2026",
+            "Mighty weapons\u2026",
+            "The existence of Crests\u2026",
+            "Children at the market\u2026",
+            "Monastery mysteries\u2026",
+            "The last battle\u2026",
+            "Close calls\u2026",
+            "Monastery security\u2026",
+            "The library\u2019s collection\u2026",
+            "Cooking mishaps\u2026",
+            "Our first meeting\u2026",
+            "The view from the bridge\u2026",
+            "Equipment upkeep\u2026",
+            "Past laughs\u2026",
+            "Things that bother you\u2026",
+            "Evaluating allies\u2026",
+            "Perfect recipes\u2026",
+            "Working hours for guards\u2026",
+            "Exploring the monastery\u2026",
+            "Plans for the future\u2026",
+            "Working together\u2026",
+            "Fashion\u2026",
+            "Relaxing at the sauna\u2026",
+            "Favorite sweets\u2026",
+            "Reliable allies\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "If I established a monopoly on tea, I imagine I\u2019d see no end to the gold\u2026 Ah, never mind me.",
+                "valid_answers": [
+                    "Nod",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "This cake is to die for! Just where did you get it? Don\u2019t tell me you made it yourself.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I don\u2019t dislike dogs or cats by any stretch of the imagination\u2026 I\u2019m just deathly allergic.",
+                "valid_answers": [
+                    "Sigh",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "The sunlight is cloying. I prefer hanging out in the shadows.",
+                "valid_answers": [
+                    "Chat",
+                    "Sip tea",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "You strike me as the naive type. Best be careful around someone like me.",
+                "valid_answers": [
+                    "Nod",
+                    "Disagree",
+                    "Sigh"
+                ]
+            },
+            {
+                "comment": "My father? Never knew the guy. Don\u2019t have any interest in knowing him at this point either.",
+                "valid_answers": [
+                    "Admonish",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I\u2019m a bit more into parties than tea, but I suppose hanging out with you isn\u2019t half bad.",
+                "valid_answers": [
+                    "Nod",
+                    "Laugh",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "If you ever need someone to help you out, I\u2019m your guy. I\u2019ll make your problems vanish into thin air.",
+                "valid_answers": [
+                    "Nod",
+                    "Commend",
+                    "Admonish"
+                ]
+            },
+            {
+                "comment": "I always repay my debts. I don\u2019t allow myself to be indebted to anyone. Ever.",
+                "valid_answers": [
+                    "Laugh",
+                    "Commend",
+                    "Sip tea"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Balthus",
+        "house": "DLC Exclusive",
+        "favorite_teas": [
+            "Almyran Pine Needles",
+            "Ginger Tea"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "First crushes\u2026",
+            "School days\u2026",
+            "A new gambit\u2026",
+            "Food in the dining hall\u2026",
+            "Shareable snacks\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "Gardening mishaps\u2026",
+            "Strange fish in the pond\u2026",
+            "A strong battalion\u2026",
+            "Hopes for your future\u2026",
+            "Tell me about yourself\u2026",
+            "A word of advice\u2026",
+            "I heard some gossip\u2026",
+            "Thanks for everything\u2026",
+            "Capable comrades\u2026",
+            "I\u2019m counting on you\u2026",
+            "The last battle\u2026",
+            "Classes you might enjoy\u2026",
+            "Likable allies\u2026",
+            "The view from the bridge\u2026",
+            "Close calls\u2026",
+            "Mighty weapons\u2026",
+            "Things that bother you\u2026",
+            "Cooking mishaps\u2026",
+            "Mountain folk traditions\u2026",
+            "Things you find romantic\u2026",
+            "Cute monks\u2026",
+            "Our first meeting\u2026",
+            "Working together\u2026",
+            "Dining partners\u2026",
+            "Overcoming weaknesses\u2026",
+            "You seem well\u2026",
+            "Equipment upkeep\u2026",
+            "Past laughs\u2026",
+            "You\u2019re doing great work\u2026",
+            "Evaluating allies\u2026",
+            "Potential training partners\u2026",
+            "Your ambitions\u2026",
+            "Exploring the monastery\u2026",
+            "Relaxing at the sauna\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "Since I gave up my noble status, my tea invitations have really dried up\u2026",
+                "valid_answers": [
+                    "Nod",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I\u2019m not big on stuffy formalities. Do what you like and drink what you like, I always say.",
+                "valid_answers": [
+                    "Commend",
+                    "Admonish",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "Huh, not a bad way to stay alert. I don\u2019t get much sleep, you see.",
+                "valid_answers": [
+                    "Nod",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "You don\u2019t have any dice, do you? Or cards? If so\u2026feelin\u2019 lucky?",
+                "valid_answers": [
+                    "Admonish",
+                    "Sigh",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "A while ago, at a Leicester fighting tourney, I went toe-to-toe with Holst for the title. Nearly won too.",
+                "valid_answers": [
+                    "Nod",
+                    "Commend"
+                ]
+            },
+            {
+                "comment": "My mother\u2019s bloodline is pretty rare. That means\u2026 I\u2019m a walking treasure.",
+                "valid_answers": [
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Ah\u2026 Sunshine. Women. Fighting. Everything\u2019s better in excess, don\u2019t ya think?",
+                "valid_answers": [
+                    "Disagree",
+                    "Admonish",
+                    "Sigh"
+                ]
+            },
+            {
+                "comment": "Everyone and their dog knows now, but not too long ago, this Crest of mine was top secret.",
+                "valid_answers": [
+                    "Commend",
+                    "Chat",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I\u2019ll just come right out and say it. You\u2019ve got a nice face. Oh, and your personality\u2019s all right too.",
+                "valid_answers": [
+                    "Laugh",
+                    "Sip tea",
+                    "Blush"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Constance",
+        "house": "DLC Exclusive",
+        "favorite_teas": [
+            "Bergamot",
+            "Rose Petal Blend",
+            "Sweet-Apple Blend",
+            "Albinean Berry Blend"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Fodlan\u2019s future\u2026",
+            "Shareable snacks\u2026",
+            "A new gambit\u2026",
+            "Food in the dining hall\u2026",
+            "Thanks for everything\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "The existence of Crests\u2026",
+            "Capable comrades\u2026",
+            "Hopes for your future\u2026",
+            "The last battle\u2026",
+            "Cats\u2026",
+            "I heard some gossip\u2026",
+            "The library\u2019s collection\u2026",
+            "Classes you might enjoy\u2026",
+            "Magical innovations\u2026",
+            "The opera\u2026",
+            "Close calls\u2026",
+            "Monastery mysteries\u2026",
+            "The view from the bridge\u2026",
+            "Equipment upkeep\u2026",
+            "Our first meeting\u2026",
+            "Things you find romantic\u2026",
+            "Exploring the monastery\u2026",
+            "Overcoming weaknesses\u2026",
+            "Working together\u2026",
+            "Favorite sweets\u2026",
+            "Relaxing at the sauna\u2026",
+            "First crushes\u2026",
+            "Reliable allies\u2026"
+        ],
+        "final_comments": []
+    },
+    {
+        "name": "Hapi",
+        "house": "DLC Exclusive",
+        "favorite_teas": [
+            "Cinnamon Blend",
+            "Dagda Fruit Blend",
+            "Four-Spice Blend"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Gardening mishaps\u2026",
+            "Plans for the future\u2026",
+            "A place you\u2019d like to visit\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "Shareable snacks\u2026",
+            "Cats\u2026",
+            "Guessing someone\u2019s age\u2026",
+            "Stargazing\u2026",
+            "Close calls\u2026",
+            "Heart-racing memories\u2026",
+            "Tell me about yourself\u2026",
+            "Cooking mishaps\u2026",
+            "Hopes for your future\u2026",
+            "Thanks for everything\u2026",
+            "Exploring the monastery\u2026",
+            "Likable allies\u2026",
+            "Working hours for guards\u2026",
+            "Favorite sweets\u2026",
+            "Our first meeting\u2026",
+            "You seem different\u2026",
+            "Food in the dining hall\u2026",
+            "Past laughs\u2026",
+            "You seem well\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "You\u2019re in no hurry to wrap this up. Don\u2019t you have some actual, y\u2019know\u2026work to do?",
+                "valid_answers": [
+                    "Laugh",
+                    "Disagree",
+                    "Sip tea"
+                ]
+            },
+            {
+                "comment": "I\u2019m feeling a bit sleepy\u2026 Oh, not that you\u2019re boring or anything.",
+                "valid_answers": [
+                    "Sigh",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "Right now I feel so\u2026free. It\u2019s nice.",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "I haven\u2019t seen my parents for more than a decade. I can\u2019t remember what they look like\u2026",
+                "valid_answers": [
+                    "Admonish",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I saw you playing with a cat earlier. How did you manage that? Cats always run away from me\u2026",
+                "valid_answers": [
+                    "Chat",
+                    "Sip tea",
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "Did you know people can sigh simply because they\u2019re happy? Not much risk of me doing that.",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "Sometimes I have regrets about my choices, but\u2026 right now, I\u2019m just grateful to be here.",
+                "valid_answers": [
+                    "Nod",
+                    "Commend",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "Everyone knows about my curse, so I\u2019ve got no shortage of alone time.",
+                "valid_answers": [
+                    "Disagree",
+                    "Sigh"
+                ]
+            },
+            {
+                "comment": "This might sound sappy, but\u2026 I care about you.",
+                "valid_answers": [
+                    "Nod",
+                    "Admonish",
+                    "Blush"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Rhea",
+        "house": "DLC Exclusive",
+        "favorite_teas": [
+            "Crescent-Moon Tea",
+            "Angelica Tea",
+            "Chamomile"
+        ],
+        "interested_topics": [
+            "A dinner invitation\u2026",
+            "Hopes for your future\u2026",
+            "Tell me about yourself\u2026",
+            "A word of advice\u2026",
+            "I heard some gossip\u2026",
+            "Thanks for everything\u2026",
+            "Books you\u2019ve read recently\u2026",
+            "I\u2019m counting on you\u2026",
+            "The existence of Crests\u2026",
+            "Children at the market\u2026",
+            "Monastery mysteries\u2026",
+            "The ideal relationship\u2026",
+            "Close calls\u2026",
+            "Monastery rules\u2026",
+            "The library\u2019s collection\u2026",
+            "Cooking mishaps\u2026",
+            "Monastery security\u2026",
+            "The view from the bridge\u2026",
+            "Dreams of a throne\u2026",
+            "Our first meeting\u2026",
+            "Things that bother you\u2026",
+            "Exploring the monastery\u2026",
+            "Overcoming weaknesses\u2026",
+            "Things you find romantic\u2026",
+            "Fodlan\u2019s future\u2026",
+            "Past laughs\u2026",
+            "Working together\u2026",
+            "Gardening mishaps\u2026",
+            "Plans for the future\u2026",
+            "You seem different\u2026",
+            "Gifts you\u2019d like to receive\u2026",
+            "School days\u2026",
+            "You seem well\u2026",
+            "Heart-racing memories\u2026",
+            "Someone you look up to\u2026",
+            "You\u2019re doing great work\u2026"
+        ],
+        "final_comments": [
+            {
+                "comment": "Have you grown accustomed to living in the monastery?",
+                "valid_answers": [
+                    "Nod",
+                    "Disagree"
+                ]
+            },
+            {
+                "comment": "Have confidence. I truly believe you can lead your students down the right path.",
+                "valid_answers": [
+                    "Nod"
+                ]
+            },
+            {
+                "comment": "I sense great potential in you. You possess something extraordinary\u2026",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "You are truly special. It seems that I was right about you.",
+                "valid_answers": [
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "I would like you to be a pillar of support for the Church in order to keep peace in Fodlan.",
+                "valid_answers": [
+                    "Nod",
+                    "Chat"
+                ]
+            },
+            {
+                "comment": "Being the Archbishop can be lonely, no matter how many followers surrounded you\u2026",
+                "valid_answers": [
+                    "Sigh",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "I, too, like to spread my wings from time to time. Doing so in your company is a treat.",
+                "valid_answers": [
+                    "Blush"
+                ]
+            },
+            {
+                "comment": "I do not have a friend whom I can fully trust. Such is the burden of my position\u2026",
+                "valid_answers": [
+                    "Disagree",
+                    "Chat",
+                    "Praise"
+                ]
+            },
+            {
+                "comment": "You are the only person I can talk to as myself, rather than as the Archbishop.",
+                "valid_answers": [
+                    "Blush"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,324 @@
+[
+    {
+        "name": "Edelgard",
+        "items": [
+            "White Glove",
+            "Time-worn Quill Pen",
+            "Eastern Porcelain"
+        ]
+    },
+    {
+        "name": "Dimitri",
+        "items": [
+            "Dulled Longsword",
+            "Black Leather Gloves",
+            "Training Logbook"
+        ]
+    },
+    {
+        "name": "Claude",
+        "items": [
+            "Leather Bow Sheath",
+            "Mild Stomach Poison",
+            "Board Game Piece"
+        ]
+    },
+    {
+        "name": "Hubert",
+        "items": [
+            "Hresvelg Treatise",
+            "Noxious Handkerchief",
+            "Folding Razor"
+        ]
+    },
+    {
+        "name": "Ferdinand",
+        "items": [
+            "Maintenance Oil",
+            "Agricultural Survey",
+            "Bag of Tea Leaves"
+        ]
+    },
+    {
+        "name": "Linhardt",
+        "items": [
+            "The Saints Revealed",
+            "Feather Pillow",
+            "Animated Bait"
+        ]
+    },
+    {
+        "name": "Caspar",
+        "items": [
+            "Thunderbrand Replica",
+            "Tattered Overcoat",
+            "Grounding Charm"
+        ]
+    },
+    {
+        "name": "Bernadetta",
+        "items": [
+            "Needle and Thread",
+            "Still-Life Picture",
+            "Hedgehog Case"
+        ]
+    },
+    {
+        "name": "Dorothea",
+        "items": [
+            "Silver Brooch",
+            "Songstress Poster",
+            "Lovely Comb"
+        ]
+    },
+    {
+        "name": "Petra",
+        "items": [
+            "Exotic Feather",
+            "Small Tanned Hide",
+            "Annotated Dictionary"
+        ]
+    },
+    {
+        "name": "Dedue",
+        "items": [
+            "Gold Earring",
+            "Gardening Sheers",
+            "Iron Cooking Pot"
+        ]
+    },
+    {
+        "name": "Felix",
+        "items": [
+            "Black Iron Spur",
+            "Sword Belt Fragment",
+            "Toothed Dagger"
+        ]
+    },
+    {
+        "name": "Ashe",
+        "items": [
+            "Moon Knight\u2019s Tale",
+            "Evil-Repelling Amulet",
+            "Bundle of Herbs"
+        ]
+    },
+    {
+        "name": "Sylvain",
+        "items": [
+            "Unused Lipstick",
+            "Crumpled Love Letter",
+            "The History of Sreng"
+        ]
+    },
+    {
+        "name": "Mercedes",
+        "items": [
+            "Book of Ghost Stories",
+            "Fruit Preserves",
+            "How to Bake Sweets"
+        ]
+    },
+    {
+        "name": "Annette",
+        "items": [
+            "Unfinished Score",
+            "School of Sorcery Book",
+            "Wax Diptych"
+        ]
+    },
+    {
+        "name": "Ingrid",
+        "items": [
+            "Pegasus Horseshoes",
+            "Jousting Almanac",
+            "Curry Comb"
+        ]
+    },
+    {
+        "name": "Lorenz",
+        "items": [
+            "Artificial Flower",
+            "A Treatise on Etiquette",
+            "Silk Handkerchief"
+        ]
+    },
+    {
+        "name": "Raphael",
+        "items": [
+            "Wooden Button",
+            "Burlap Sack of Rocks",
+            "Big Spoon"
+        ]
+    },
+    {
+        "name": "Ignatz",
+        "items": [
+            "Blue Stone",
+            "Art Book",
+            "Letter to the Goddess"
+        ]
+    },
+    {
+        "name": "Lysithea",
+        "items": [
+            "Encyclopedia of Sweets",
+            "Princess Doll",
+            "New Bottle of Perfume"
+        ]
+    },
+    {
+        "name": "Marianne",
+        "items": [
+            "Bag of Seeds",
+            "How to be Tidy",
+            "Confessional Letter"
+        ]
+    },
+    {
+        "name": "Hilda",
+        "items": [
+            "Handmade Hair Clip",
+            "Spotless Bandage",
+            "Used Bottle of Perfume"
+        ]
+    },
+    {
+        "name": "Leonie",
+        "items": [
+            "Hand Drawn Map",
+            "Crude Arrowheads",
+            "Fur Scarf"
+        ]
+    },
+    {
+        "name": "Seteth",
+        "items": [
+            "Unfinished Fable",
+            "Old Fishing Rod",
+            "Snapped Writing Quill"
+        ]
+    },
+    {
+        "name": "Flayn",
+        "items": [
+            "Antique Clasp",
+            "Old Map of Enbarr",
+            "Dusty Book of Fables"
+        ]
+    },
+    {
+        "name": "Hanneman",
+        "items": [
+            "Lens Cloth",
+            "Hammer and Chisel",
+            "Sketch of a Sigil"
+        ]
+    },
+    {
+        "name": "Manuela",
+        "items": [
+            "Wellness Herbs",
+            "Clean Dusting Cloth",
+            "Light Purple Veil"
+        ]
+    },
+    {
+        "name": "Gilbert",
+        "items": [
+            "Noseless Puppet",
+            "Carving Hammer",
+            "Silver Necklace"
+        ]
+    },
+    {
+        "name": "Alois",
+        "items": [
+            "Introduction to Magic",
+            "Foreign Gold Coin",
+            "Mysterious Notebook"
+        ]
+    },
+    {
+        "name": "Catherine",
+        "items": [
+            "Weathered Cloak",
+            "Letter to Rhea",
+            "Badge of Graduation"
+        ]
+    },
+    {
+        "name": "Shamir",
+        "items": [
+            "Bundle of Dry Hemp",
+            "Centipede Picture",
+            "Animal Bone Dice"
+        ]
+    },
+    {
+        "name": "Cyril",
+        "items": [
+            "Well-Used Hatchet",
+            "Portrait of Rhea",
+            "Old Cleaning Cloth"
+        ]
+    },
+    {
+        "name": "Jeralt",
+        "items": [
+            "Wooden Flask"
+        ]
+    },
+    {
+        "name": "Rhea",
+        "items": [
+            "Elegant Hair Clip",
+            "Seiros Scriptures",
+            "Faded Star Chart"
+        ]
+    },
+    {
+        "name": "Yuri",
+        "items": [
+            "Makeup Brush",
+            "Suspicious Dice"
+        ]
+    },
+    {
+        "name": "Balthus",
+        "items": [
+            "Well-Worn Hammock",
+            "Stiff Hand Wrap"
+        ]
+    },
+    {
+        "name": "Constance",
+        "items": [
+            "Nimbus Charm",
+            "Repellent Powder"
+        ]
+    },
+    {
+        "name": "Hapi",
+        "items": [
+            "Shiny Striated Pebble",
+            "Basket of Berries"
+        ]
+    },
+    {
+        "name": "Jeritza",
+        "items": [
+            "Jar of Sweets",
+            "Black Hair Tie",
+            "Armor Clasp"
+        ]
+    },
+    {
+        "name": "Anna",
+        "items": [
+            "Secret Ledger",
+            "Balance Scale",
+            "Rare Item Index"
+        ]
+    }
+]

@@ -1,0 +1,389 @@
+[
+    {
+        "skill": "Sword",
+        "abilities": [
+            {
+                "name": "Sword Prowess Lv 1",
+                "level": "E+"
+            },
+            {
+                "name": "Wrath Strike",
+                "level": "D"
+            },
+            {
+                "name": "Sword Prowess Lv 2",
+                "level": "D+"
+            },
+            {
+                "name": "Grounder",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "skill": "Sword Prowess Lv 3 (C+)",
+        "abilities": [
+            {
+                "name": "Axebreaker",
+                "level": "B"
+            },
+            {
+                "name": "Sword Prowess Lv 4",
+                "level": "B+"
+            },
+            {
+                "name": "Sword Prowess Lv 5",
+                "level": "A+"
+            }
+        ]
+    },
+    {
+        "skill": "Sword Crit +10 (S)",
+        "abilities": [
+            {
+                "name": "Swordfaire",
+                "level": "S+"
+            }
+        ]
+    },
+    {
+        "skill": "Lance",
+        "abilities": [
+            {
+                "name": "Lance Prowess Lv 1",
+                "level": "E+"
+            },
+            {
+                "name": "Tempest Lance",
+                "level": "D"
+            },
+            {
+                "name": "Lance Prowess Lv 2",
+                "level": "D+"
+            },
+            {
+                "name": "Knightkneeler",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "skill": "Lance Prowess Lv 3 (C+)",
+        "abilities": [
+            {
+                "name": "Swordbreaker",
+                "level": "B"
+            },
+            {
+                "name": "Lance Prowess Lv 4",
+                "level": "B+"
+            },
+            {
+                "name": "Lance Prowess Lv 5",
+                "level": "A+"
+            }
+        ]
+    },
+    {
+        "skill": "Lance Crit +10 (S)",
+        "abilities": [
+            {
+                "name": "Lancefaire",
+                "level": "S+"
+            }
+        ]
+    },
+    {
+        "skill": "Axe",
+        "abilities": [
+            {
+                "name": "Axe Prowess Lv 1",
+                "level": "E+"
+            },
+            {
+                "name": "Smash",
+                "level": "D"
+            },
+            {
+                "name": "Axe Prowess Lv 2",
+                "level": "D+"
+            },
+            {
+                "name": "Helm Splitter",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "skill": "Axe Prowess Lv 3 (C+)",
+        "abilities": [
+            {
+                "name": "Lancebreaker",
+                "level": "B"
+            },
+            {
+                "name": "Axe Prowess Lv 4",
+                "level": "B+"
+            },
+            {
+                "name": "Axe Prowess Lv 5",
+                "level": "A+"
+            }
+        ]
+    },
+    {
+        "skill": "Axe Crit +10 (S)",
+        "abilities": [
+            {
+                "name": "Axefaire",
+                "level": "S+"
+            }
+        ]
+    },
+    {
+        "skill": "Bow",
+        "abilities": [
+            {
+                "name": "Bow Prowess Lv 1",
+                "level": "E+"
+            },
+            {
+                "name": "Curved Shot",
+                "level": "D"
+            },
+            {
+                "name": "Bow Prowess Lv 2",
+                "level": "D+"
+            },
+            {
+                "name": "Close Counter",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "skill": "Bow Prowess Lv 3 (C+)",
+        "abilities": [
+            {
+                "name": "Bow Prowess Lv 4",
+                "level": "B+"
+            },
+            {
+                "name": "Bow Prowess Lv 5",
+                "level": "A+"
+            },
+            {
+                "name": "Bow Crit +10",
+                "level": "S"
+            }
+        ]
+    },
+    {
+        "skill": "Bowfaire (S+)",
+        "abilities": []
+    },
+    {
+        "skill": "Brawling",
+        "abilities": [
+            {
+                "name": "Brawling Prowess Lv 1",
+                "level": "E+"
+            },
+            {
+                "name": "Fading Blow",
+                "level": "D"
+            },
+            {
+                "name": "Brawling Prowess Lv 2",
+                "level": "D+"
+            },
+            {
+                "name": "Rushing Blow",
+                "level": "C"
+            }
+        ]
+    },
+    {
+        "skill": "Brawling Prowess Lv 3 (C+)",
+        "abilities": [
+            {
+                "name": "Healing Focus",
+                "level": "B"
+            },
+            {
+                "name": "Brawling Prowess Lv 4",
+                "level": "B+"
+            },
+            {
+                "name": "Brawling Prowess Lv 5",
+                "level": "A+"
+            }
+        ]
+    },
+    {
+        "skill": "Brawl Crit +10 (S)",
+        "abilities": [
+            {
+                "name": "Fistfaire",
+                "level": "S+"
+            }
+        ]
+    },
+    {
+        "skill": "Reason",
+        "abilities": [
+            {
+                "name": "Reason Lv 1",
+                "level": "E+"
+            },
+            {
+                "name": "Reason Lv 2",
+                "level": "D+"
+            },
+            {
+                "name": "Reason Lv 3",
+                "level": "C+"
+            },
+            {
+                "name": "Reason Lv 4",
+                "level": "B+"
+            }
+        ]
+    },
+    {
+        "skill": "Reason Lv 5 (A+)",
+        "abilities": [
+            {
+                "name": "Black Magic Range +1",
+                "level": "S"
+            },
+            {
+                "name": "Black Tomefaire",
+                "level": "S+"
+            }
+        ]
+    },
+    {
+        "skill": "Faith",
+        "abilities": [
+            {
+                "name": "Faith Lv 1",
+                "level": "E+"
+            },
+            {
+                "name": "Faith Lv 2",
+                "level": "D+"
+            },
+            {
+                "name": "Faith Lv 3",
+                "level": "C+"
+            },
+            {
+                "name": "Faith Lv 4",
+                "level": "B+"
+            }
+        ]
+    },
+    {
+        "skill": "Faith Lv 5 (A+)",
+        "abilities": [
+            {
+                "name": "White Magic Range +1",
+                "level": "S"
+            },
+            {
+                "name": "White Tomefaire",
+                "level": "S+"
+            }
+        ]
+    },
+    {
+        "skill": "Authority",
+        "abilities": [
+            {
+                "name": "Authority Lv 1",
+                "level": "E+"
+            },
+            {
+                "name": "Authority Lv 2",
+                "level": "D+"
+            },
+            {
+                "name": "Authority Lv 3",
+                "level": "C+"
+            },
+            {
+                "name": "Defensive Tactics",
+                "level": "B"
+            }
+        ]
+    },
+    {
+        "skill": "Authority Lv 4 (B+)",
+        "abilities": [
+            {
+                "name": "Authority Lv 5",
+                "level": "A+"
+            },
+            {
+                "name": "Offensive Tactics",
+                "level": "S+"
+            }
+        ]
+    },
+    {
+        "skill": "Heavy Armour",
+        "abilities": [
+            {
+                "name": "Weight -3",
+                "level": "C"
+            },
+            {
+                "name": "Smite",
+                "level": "B"
+            },
+            {
+                "name": "Weight -5",
+                "level": "A+"
+            },
+            {
+                "name": "Armored Effect Null",
+                "level": "S+"
+            }
+        ]
+    },
+    {
+        "skill": "Riding",
+        "abilities": [
+            {
+                "name": "Dexterity +4",
+                "level": "C"
+            },
+            {
+                "name": "Movement +1",
+                "level": "A+"
+            },
+            {
+                "name": "Cavalry Effect Null",
+                "level": "S+"
+            }
+        ]
+    },
+    {
+        "skill": "Flying",
+        "abilities": [
+            {
+                "name": "Alert Stance",
+                "level": "B"
+            },
+            {
+                "name": "Alert Stance+",
+                "level": "A+"
+            },
+            {
+                "name": "Flying Effect Null",
+                "level": "S+"
+            }
+        ]
+    }
+]

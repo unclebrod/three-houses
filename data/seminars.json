@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Protagonist",
+        "skill_levels": [
+            "Sword",
+            "Authority"
+        ],
+        "part": 1
+    },
+    {
+        "name": "Alois",
+        "skill_levels": [
+            "Axe",
+            "Brawling"
+        ],
+        "part": 1
+    },
+    {
+        "name": "Seteth",
+        "skill_levels": [
+            "Lance",
+            "Authority"
+        ],
+        "part": 1
+    },
+    {
+        "name": "Catherine",
+        "skill_levels": [
+            "Sword",
+            "Brawling"
+        ],
+        "part": 1
+    },
+    {
+        "name": "Hanneman",
+        "skill_levels": [
+            "Bow",
+            "Reason"
+        ],
+        "part": 1
+    },
+    {
+        "name": "Shamir",
+        "skill_levels": [
+            "Lance",
+            "Bow"
+        ],
+        "part": 1
+    },
+    {
+        "name": "Manuela",
+        "skill_levels": [
+            "Sword",
+            "Faith"
+        ],
+        "part": 1
+    },
+    {
+        "name": "Anna",
+        "skill_levels": [
+            "Sword",
+            "Bow"
+        ],
+        "part": 1
+    },
+    {
+        "name": "Gilbert",
+        "skill_levels": [
+            "Lance",
+            "Axe"
+        ],
+        "part": 1
+    },
+    {
+        "name": "Edelgard",
+        "skill_levels": [
+            "Axe",
+            "Authority"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Ingrid",
+        "skill_levels": [
+            "Sword",
+            "Lance"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Dimitri",
+        "skill_levels": [
+            "Lance",
+            "Authority"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Lorenz",
+        "skill_levels": [
+            "Lance",
+            "Reason"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Claude",
+        "skill_levels": [
+            "Bow",
+            "Authority"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Raphael",
+        "skill_levels": [
+            "Axe",
+            "Brawling"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Hubert",
+        "skill_levels": [
+            "Bow",
+            "Reason"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Ignatz",
+        "skill_levels": [
+            "Sword",
+            "Bow"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Ferdinand",
+        "skill_levels": [
+            "Sword",
+            "Lance"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Lysithea",
+        "skill_levels": [
+            "Reason",
+            "Faith"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Linhardt",
+        "skill_levels": [
+            "Reason",
+            "Faith"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Marianne",
+        "skill_levels": [
+            "Sword",
+            "Faith"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Caspar",
+        "skill_levels": [
+            "Axe",
+            "Brawling"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Hilda",
+        "skill_levels": [
+            "Lance",
+            "Axe"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Bernadetta",
+        "skill_levels": [
+            "Lance",
+            "Bow"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Leonie",
+        "skill_levels": [
+            "Lance",
+            "Bow"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Dorothea",
+        "skill_levels": [
+            "Sword",
+            "Reason"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Flayn",
+        "skill_levels": [
+            "Lance",
+            "Faith"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Petra",
+        "skill_levels": [
+            "Sword",
+            "Axe"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Cyril",
+        "skill_levels": [
+            "Axe",
+            "Bow"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Dedue",
+        "skill_levels": [
+            "Axe",
+            "Brawling"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Yuri",
+        "skill_levels": [
+            "Faith",
+            "Authority"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Felix",
+        "skill_levels": [
+            "Sword",
+            "Brawling"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Balthus",
+        "skill_levels": [
+            "Brawling",
+            "Heavy Armour"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Ashe",
+        "skill_levels": [
+            "Axe",
+            "Bow"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Constance",
+        "skill_levels": [
+            "Reason",
+            "Flying"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Sylvain",
+        "skill_levels": [
+            "Lance",
+            "Axe"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Hapi",
+        "skill_levels": [
+            "Reason",
+            "Riding"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Mercedes",
+        "skill_levels": [
+            "Reason",
+            "Faith"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Jeritza",
+        "skill_levels": [
+            "Sword",
+            "Lance"
+        ],
+        "part": 2
+    },
+    {
+        "name": "Annette",
+        "skill_levels": [
+            "Axe",
+            "Reason"
+        ],
+        "part": 2
+    }
+]

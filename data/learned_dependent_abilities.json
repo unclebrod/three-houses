@@ -1,0 +1,732 @@
+[
+    {
+        "name": "Protagonist",
+        "house": "Black Eagles",
+        "items": [
+            {
+                "name": "Battalion Vantage",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Model Leader",
+                "skill": "Authority",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Desperation",
+                "skill": "Authority",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Rally Movement",
+                "skill": "Authority",
+                "level": "S",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Edelgard",
+        "house": "Black Eagles",
+        "items": [
+            {
+                "name": "Battalion Vantage",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Model Leader",
+                "skill": "Authority",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Renewal",
+                "skill": "Authority",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Rally Charm",
+                "skill": "Authority",
+                "level": "S",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Hubert",
+        "house": "Black Eagles",
+        "items": [
+            {
+                "name": "Rally Magic",
+                "skill": "Authority",
+                "level": "D",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Wrath",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Rally Resistance",
+                "skill": "Authority",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Desperation",
+                "skill": "Authority",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Rally Speed",
+                "skill": "Authority",
+                "level": "S",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Dorothea",
+        "house": "Black Eagles",
+        "items": [
+            {
+                "name": "Rally Charm",
+                "skill": "Authority",
+                "level": "D",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Desperation",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Ferdinand",
+        "house": "Black Eagles",
+        "items": [
+            {
+                "name": "Rally Dexterity",
+                "skill": "Authority",
+                "level": "D",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Desperation",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Bernadetta",
+        "house": "Black Eagles",
+        "items": [
+            {
+                "name": "Battalion Wrath",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Caspar",
+        "house": "Black Eagles",
+        "items": [
+            {
+                "name": "Battalion Wrath",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Petra",
+        "house": "Black Eagles",
+        "items": [
+            {
+                "name": "Battalion Wrath",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Linhardt",
+        "house": "Blue Lions",
+        "items": [
+            {
+                "name": "Battalion Renewal",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Dimitri",
+        "house": "Blue Lions",
+        "items": [
+            {
+                "name": "Battalion Wrath",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Model Leader",
+                "skill": "Authority",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Vantage",
+                "skill": "Authority",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Rally Charm",
+                "skill": "Authority",
+                "level": "S",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Dedue",
+        "house": "Blue Lions",
+        "items": [
+            {
+                "name": "Battalion Wrath",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Felix",
+        "house": "Blue Lions",
+        "items": [
+            {
+                "name": "Battalion Vantage",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Mercedes",
+        "house": "Blue Lions",
+        "items": [
+            {
+                "name": "Battalion Renewal",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Ashe",
+        "house": "Blue Lions",
+        "items": [
+            {
+                "name": "Battalion Desperation",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Annette",
+        "house": "Blue Lions",
+        "items": [
+            {
+                "name": "Rally Resistance",
+                "skill": "Authority",
+                "level": "D",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Renewal",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Rally Speed",
+                "skill": "Authority",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Wrath",
+                "skill": "Authority",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Rally Movement",
+                "skill": "Authority",
+                "level": "S",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Sylvain",
+        "house": "Blue Lions",
+        "items": [
+            {
+                "name": "Battalion Vantage",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Ingrid",
+        "house": "Golden Deer",
+        "items": [
+            {
+                "name": "Rally Magic",
+                "skill": "Authority",
+                "level": "D",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Desperation",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Claude",
+        "house": "Golden Deer",
+        "items": [
+            {
+                "name": "Battalion Desperation",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Model Leader",
+                "skill": "Authority",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Wrath",
+                "skill": "Authority",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Rally Charm",
+                "skill": "Authority",
+                "level": "S",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Lorenz",
+        "house": "Golden Deer",
+        "items": [
+            {
+                "name": "Battalion Vantage",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Hilda",
+        "house": "Golden Deer",
+        "items": [
+            {
+                "name": "Battalion Wrath",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Raphael",
+        "house": "Golden Deer",
+        "items": [
+            {
+                "name": "Rally Strength",
+                "skill": "Authority",
+                "level": "D",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Wrath",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Lysithea",
+        "house": "Golden Deer",
+        "items": [
+            {
+                "name": "Battalion Desperation",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Ignatz",
+        "house": "Golden Deer",
+        "items": [
+            {
+                "name": "Rally Speed",
+                "skill": "Authority",
+                "level": "D",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Desperation",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Rally Dexterity",
+                "skill": "Authority",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Vantage",
+                "skill": "Authority",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Rally Strength",
+                "skill": "Authority",
+                "level": "S",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Marianne",
+        "house": "Golden Deer",
+        "items": [
+            {
+                "name": "Battalion Renewal",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Leonie",
+        "house": "Church of Seiros",
+        "items": [
+            {
+                "name": "Battalion Desperation",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Rhea",
+        "house": "Church of Seiros",
+        "items": []
+    },
+    {
+        "name": "Manuela",
+        "house": "Church of Seiros",
+        "items": [
+            {
+                "name": "Rally Charm",
+                "skill": "Authority",
+                "level": "D",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Renewal",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Hanneman",
+        "house": "Church of Seiros",
+        "items": [
+            {
+                "name": "Battalion Desperation",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Seteth",
+        "house": "Church of Seiros",
+        "items": [
+            {
+                "name": "Rally Defence",
+                "skill": "Authority",
+                "level": "D",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Wrath",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Model Leader",
+                "skill": "Authority",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Desperation",
+                "skill": "Authority",
+                "level": "A",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Rally Resistance",
+                "skill": "Authority",
+                "level": "S",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Flayn",
+        "house": "Church of Seiros",
+        "items": [
+            {
+                "name": "Rally Luck",
+                "skill": "Authority",
+                "level": "D",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Renewal",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Cyril",
+        "house": "Knights of Seiros",
+        "items": [
+            {
+                "name": "Battalion Desperation",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Jeralt",
+        "house": "Knights of Seiros",
+        "items": []
+    },
+    {
+        "name": "Catherine",
+        "house": "Knights of Seiros",
+        "items": [
+            {
+                "name": "Battalion Vantage",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Alois",
+        "house": "Knights of Seiros",
+        "items": [
+            {
+                "name": "Rally Strength",
+                "skill": "Authority",
+                "level": "D",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Wrath",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Gilbert",
+        "house": "Knights of Seiros",
+        "items": [
+            {
+                "name": "Rally Defence",
+                "skill": "Authority",
+                "level": "D",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Wrath",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Shamir",
+        "house": "DLC Exclusive",
+        "items": [
+            {
+                "name": "Battalion Desperation",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Yuri",
+        "house": "DLC Exclusive",
+        "items": [
+            {
+                "name": "Battalion Vantage",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Model Leader",
+                "skill": "Authority",
+                "level": "C+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Balthus",
+        "house": "DLC Exclusive",
+        "items": [
+            {
+                "name": "Rally Strength",
+                "skill": "Authority",
+                "level": "D",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Desperation",
+                "skill": "Authority",
+                "level": "B",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Constance",
+        "house": "DLC Exclusive",
+        "items": [
+            {
+                "name": "Rally Magic",
+                "skill": "Authority",
+                "level": "D",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Rally Resistance",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Hapi",
+        "house": "DLC Exclusive",
+        "items": [
+            {
+                "name": "Rally Dexterity",
+                "skill": "Authority",
+                "level": "D",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Wrath",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            }
+        ]
+    },
+    {
+        "name": "Jeritza",
+        "house": "DLC Exclusive",
+        "items": [
+            {
+                "name": "Battalion Wrath",
+                "skill": "Authority",
+                "level": "C",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Battalion Desperation",
+                "skill": "Authority",
+                "level": "B",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-authority.png"
+            },
+            {
+                "name": "Mastermind",
+                "skill": "Sword",
+                "level": "E+",
+                "image": "https://serenesforest.net/wp-content/uploads/2019/05/professor-sword.png"
+            }
+        ]
+    }
+]
